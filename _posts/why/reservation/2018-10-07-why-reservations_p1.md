@@ -45,7 +45,7 @@ One suggestion that was floated was the providing incentives ie. the Government 
 
 Now this was 1950, the world had just survived total annihilation from the World Wars, Brits/Dutch were retreating and new countries were being formed (We should be fortunate, out the many countries , that got dependence along with us. We are in a good state (Mind it, its in comparison with a failed state)).
 
-The intention behid reservation was noble, without Equality among men, the nation would not be able to continue  (It would face another internal civil war). Without which we would have become a Prisoner of Birth .
+The intention behind reservation was noble, without Equality among men, the nation would not be able to continue  (It would face another internal civil war). Without which we would have become a Prisoner of Birth .
 
 These incentives were designed to expire after a certain period or meeting expectations. Just like nuclear fission, you need to provide external energy till the reactions reaches a critical point after which it is self sustainable .
 
