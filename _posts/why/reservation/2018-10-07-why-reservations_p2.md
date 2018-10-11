@@ -12,7 +12,7 @@ date: 2018-10-08T08:08:50-04:00
 ##### This post is my own musings, Not liable for the content . Take it with a pinch a salt .
 #### Not against any community
 
-### Why Reservation
+### Why Reservation : Part 2
 
 #### Curse Of The Boon
 
