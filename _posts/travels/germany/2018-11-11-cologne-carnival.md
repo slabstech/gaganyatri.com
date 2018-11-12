@@ -24,11 +24,11 @@ train was brimming with lively, colorful, amazingly well set costumes by people 
 By that i mean, there were 10 years old to neary 60+ (they looked far younger than that).
 
 
-The crowd was boisterous, belting out popular and folk songs one after the other non stop, whil simultaneously
+The crowd was boisterous, belting out popular and folk songs one after the other non stop, while simultaneously
 gulping kegs of beer. The carnival is just another reason to have beer. (Exact words spoken by a fellow 
 carnival(ite?) . Our wagon had enough myraid characters to count with 5 pair of hands and at every stop
-there were more and people joining the carnival caravan. It was something similar to the recent movie 
-"Wreck-It Ralph" where are the character get together for a franchise, throw in Marvel,DC and every other comic multiverse.
+there were more and more people joining the carnival caravan. It was something similar to the recent movie 
+"Wreck-It Ralph" where all the characters get together for a franchise, throw in Marvel, DC and every other comic multiverse.
 Here was an actual physical rendition of the movie, with actual costumes(no bad CGI:P). The effort put in by the
 the natives was phenomenal, our group dressed casually, was the odd group during the entire day, everyone else 
 had put on a different kind of mask. Everyone justed wanted to enjoy the sunday with their dear ones, with 
@@ -38,7 +38,7 @@ pin drop silence during the normal days.
 Among all the cosplay character, personal favorite was Capt. Jack Sparrow, this guy had such a similar resemblance
 to the one played in the movies, all the artifacts in place, the best part was the wicked smile which 
 just made the part authentic. Also in attendance were the Avengers, Justic League, Mario Brothers, Anonymous
-Squas. ... the list is endless. (I did miss Black Widow :P, )
+Squad. ... the list is endless. (I did miss Black Widow :P, )
 
 All in all it was a fun day in cologne, withnessing the lighter and funnier side of the german culture. As someone said "Surprise Me !!"
 
