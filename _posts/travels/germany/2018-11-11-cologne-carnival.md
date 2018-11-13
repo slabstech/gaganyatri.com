@@ -31,7 +31,7 @@ there were more and more people joining the carnival caravan. It was something s
 "Wreck-It Ralph" where all the characters get together for a franchise, throw in Marvel, DC and every other comic multiverse.
 Here was an actual physical rendition of the movie, with actual costumes(no bad CGI:P). The effort put in by the
 the natives was phenomenal, our group dressed casually, was the odd group during the entire day, everyone else 
-had put on a different kind of mask. Everyone justed wanted to enjoy the sunday with their dear ones, with 
+had put on a different kind of mask. Everyone just wanted to enjoy the sunday with their dear ones, with 
 hands held high, feet tapping and head banging to the music blasting out of every speaker. Mind you, its actually
 pin drop silence during the normal days.
 
