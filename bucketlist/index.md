@@ -10,25 +10,15 @@ List of **ideas**  popping over time
 * Table of Contents
 {:toc}
 
-## Computer Tech
+## Writing
 
-| Name  | Description | Link | start| end | status |
-|-------|--------|---------|-----|----|-------------|
-|Humanoid OP Robot | Robot Simulator for Robocup | [HumanoidOP](https://github.com/sachinsshetty/humanoid_op_ros) | 5-09-2018| | In Progress|
-|piTvCast | Tv Cast Using Rpi | [piTvCast](https://github.com/sachinsshetty/piTvCast) | 9-09-2018| | In Progress|
-|Ant2Maven | Convert ant project to maven | [Ant2Maven](https://github.com/sachinsshetty/ant2Maven) |25-07-2018|24-08-2018|Completed|
-| ArtEye |Artificial Eye for the visually impaired. |[ArtEye](https://sachinsshetty.github.io/artEye) | | |Not started |
-| DroVac | Drone Vaccum Cleaner. |  [DroVac](https://sachinsshetty.github.io/droVac) | | |Not Started|
-| SuDoSolv | A CV based soduko solver. |[SuDoSolv](https://sachinsshetty.github.io/SuDoSolv) | || Not started |
-| CollMan | Software for College Management| [CollMan](https://sachinsshetty.github.io/CollMan) | | |Not statrted|
-| MacSurv | Digital Survey Machine | [MacSurv](https://sachinsshetty.github.io/MacSurv) | | |Not started|
-| TrafMan | Traffic Management | [TrafMan](https://sachinsshetty.github.io/TrafMan) | || Not started|
-|St2A | Structural Stablility Analyzer || [SSA](https://sachinsshetty.github.io/St2A) | | Not started |
+The more i'm writing, the more i am feeling light and happy.
+Makes me imagine a lot of things, helps me to be positive.
 
-**Contact :** For more info. contact websachinshetty[at]gmail[dot]com
-{: .notice}
+Long Term : The  Adventures Of Sagar [link]({{ site.baseurl }}{% link _posts/books/mine/adv_sagar/2000-01-01-adv_of_sagar_p1.md %})
 
 ---
+
 
 ## Travel
 
@@ -51,9 +41,31 @@ Around the world in 80 days
 
 ---
 
+## Computer Tech
 
-### TODO
+Build a company like the famed Bell, AT&T Labs and inspired by the works of Elon Musk 
 
-1. Update ml_lab_ecsc project with updated code
-2. Merge Jekyll dependancies
-3. Update paper summaries
+Watch out for S Labs. http://slabs.tech
+
+Will mostly do the work i would be happy to do for myself and free.
+
+
+
+| Name  | Description | Link | start| end | status |
+|-------|--------|---------|-----|----|-------------|
+|Humanoid OP Robot | Robot Simulator for Robocup | [HumanoidOP](https://github.com/sachinsshetty/humanoid_op_ros) | 5-09-2018| | In Progress|
+|piTvCast | Tv Cast Using Rpi | [piTvCast](https://github.com/sachinsshetty/piTvCast) | 9-09-2018| | In Progress|
+|Ant2Maven | Convert ant project to maven | [Ant2Maven](https://github.com/sachinsshetty/ant2Maven) |25-07-2018|24-08-2018|Completed|
+| ArtEye |Artificial Eye for the visually impaired. |[ArtEye](https://sachinsshetty.github.io/artEye) | | |Not started |
+| DroVac | Drone Vaccum Cleaner. |  [DroVac](https://sachinsshetty.github.io/droVac) | | |Not Started|
+| SuDoSolv | A CV based soduko solver. |[SuDoSolv](https://sachinsshetty.github.io/SuDoSolv) | || Not started |
+| CollMan | Software for College Management| [CollMan](https://sachinsshetty.github.io/CollMan) | | |Not statrted|
+| MacSurv | Digital Survey Machine | [MacSurv](https://sachinsshetty.github.io/MacSurv) | | |Not started|
+| TrafMan | Traffic Management | [TrafMan](https://sachinsshetty.github.io/TrafMan) | || Not started|
+|St2A | Structural Stablility Analyzer || [SSA](https://sachinsshetty.github.io/St2A) | | Not started |
+
+**Contact :** For more info. contact websachinshetty[at]gmail[dot]com
+{: .notice}
+
+---
+
