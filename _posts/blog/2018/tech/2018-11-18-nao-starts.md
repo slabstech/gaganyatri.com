@@ -6,7 +6,7 @@ categories: blog
 tags: [ tech dream ]
 image:
   feature:
-date: 2018-11-018T08:08:50-04:00
+date: 2018-11-18T08:08:50-04:00
 
 ---
 

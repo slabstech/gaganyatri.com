@@ -6,7 +6,7 @@ categories: blog
 tags: [ tech ]
 image:
   feature:
-date: 2018-11-021T08:08:50-04:00
+date: 2018-11-21T08:08:50-04:00
 
 ---
 
