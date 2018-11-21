@@ -6,6 +6,6 @@ gem "jekyll-gist"
 gem "jekyll-feed"
 gem "cloudinary"
 
-group :jekyll_plugins do
-  gem 'jekyll-cloudinary'
-end
+#group :jekyll_plugins do
+#  gem 'jekyll-cloudinary'
+#end
