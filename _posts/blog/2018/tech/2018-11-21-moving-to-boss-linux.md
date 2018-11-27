@@ -19,9 +19,20 @@ by providing options in Indian Language for extending access to all segments of 
 
 
 
+sudo apt-get install git ruby-dev g++
+
+sudo apt install libcurl3
+sudo dpkg -i atom.deb
+
+git clone https://github.com/sachinsshetty/sachinsshetty.github.io.git
+
+
+sudo gem install bundler
+
+
 
 ### Setting up BOSS in a VirtualBox
 
 
 
-### Next : Setup of Tensorflow for machine Learning 
+### Next : Setup of Tensorflow for machine Learning
