@@ -14,8 +14,25 @@ date: 2018-11-21T08:08:50-04:00
 
 #### Promote OpenSource Software developed for Indian Languages
 
-The post is the byproduct of 'Why OpenSource' blog-series, it is to promote OpenSource initiatives in India,
-by providing options in Indian Language for extending access to all segments of society which do not have English literacy.
+The post is the byproduct of 'Why OpenSource' blog-series, (read it @ [link]({{ site.baseurl }}{% link _posts/why/opensource/2018-10-10-why-osi-p1.md %})) it is to promote OpenSource initiatives in India, by providing options in Indian Language for extending access to all segments of society which do not have English literacy.
+
+
+Current iteration is ver7 Drishti , built by CDAC, India, On top of GNOME Desktop 3.22 .
+
+
+
+This blog series will contain the steps i followed to move my daily from Ubuntu.
+
+
+For short primer on Linux usage. Head over to [link]({{ site.baseurl }}{% link _posts/why/opensource/2018-10-10-why-osi-p1.md %}) for basics
+
+
+
+
+
+
+
+
 
 
 
