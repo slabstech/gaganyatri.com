@@ -20,8 +20,7 @@ The post is the byproduct of 'Why OpenSource' blog-series, (read it @ [link]({{ 
 Current iteration is ver7 Drishti , built by CDAC, India, On top of GNOME Desktop 3.22 .
 
 
-
-This blog series will contain the steps i followed to move my daily from Ubuntu.
+This blog series will contain the steps i followed to move my daily work from Ubuntu.
 
 
 For short primer on Linux usage. Head over to [link]({{ site.baseurl }}{% link _posts/why/opensource/2018-10-10-why-osi-p1.md %}) for basics
@@ -29,16 +28,13 @@ For short primer on Linux usage. Head over to [link]({{ site.baseurl }}{% link _
 
 
 
+##### Setting up Jekyll Github Blog
 
-
-
-
-
-
-
-sudo apt-get install git ruby-dev g++
+`sudo apt-get install git ruby-dev g++
 
 sudo apt install libcurl3
+
+
 sudo dpkg -i atom.deb
 
 git clone https://github.com/sachinsshetty/sachinsshetty.github.io.git
@@ -46,6 +42,10 @@ git clone https://github.com/sachinsshetty/sachinsshetty.github.io.git
 
 sudo gem install bundler
 
+bundle update
+
+jekyll serve
+`
 
 
 ### Setting up BOSS in a VirtualBox
