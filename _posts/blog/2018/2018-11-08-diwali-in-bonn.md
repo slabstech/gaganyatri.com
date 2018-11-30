@@ -12,9 +12,9 @@ date: 2018-11-08T08:08:50-04:00
 
 ### Deepavali in Bonn
 
-Happy Deepavali (Belated ofcourse), for most of us, this  Deepavali was out first festival after leaving 
+Happy Deepavali (Belated ofcourse), for most of us, this  Deepavali was our first festival after leaving
 our motherland. Dont get all homesick again. I'm sure we all missed buying flashy new clothes, bursting
-crackers the entire day on the streets, eating the best food available anywhere on earth. Ahh, who can 
+crackers the entire day on the streets, eating the best food available anywhere on earth. Ahh, who can
 forget the savoury piping hot dishes. The sweetest dryfruit wali kheer, makhanwali aloo paratha(Can't have
 more than one), the amazing Dum Biryani which showed yet again why basmati is the king of all rice variants.
 Gimme a minute, i'm still licking the phantom biryani on my fingers(Lost in the biryani land), top it with
@@ -43,14 +43,15 @@ goes, Deepavali marks the celebration of many events viz.
 The List is endless, I just need one reason to eat sweets :P.
 
 Today we've many events planned for celebrating and enjoying our diversity and culture. Dont be a bore and just watch
-the events unfold in front of your eyes. Join the dance with any crazy moves (the ones that i secretly try in 
+the events unfold in front of your eyes. Join the dance with any crazy moves (the ones that i secretly try in
 the mirror when nobody's looking), be part of the orchestra for the solo singers. All in all have fun today, coz
 the next one is a year away.
 
-PS: I am grateful for my friends, Old and new. because having two delicious dinners in 3 days was 
+PS: I am grateful for my friends, Old and new. because having two delicious dinners in 3 days was
 a treat to the senses. (Guess today would be the third). All i did was watch them prepare the dishes and jump
 into gobbling the dishes as soon they were out of the pan. (Next year, i will prepare something definetly).
 I cant put all the dishes i had in the two meals here (Sister back home has already a big list to knock
 me over for all the fun i'm having:P and also a grateful mom and dad who personally thank everyone for feeding their son)   
+
 
 ### Happy Deepavali
