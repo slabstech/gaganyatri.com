@@ -12,6 +12,7 @@ search_omit: true
 [ToBePublished](sachinsshetty.github.io)
 3. Special Pedestrian Detection and Head Pose Detection for Autonomous Vehicles Using Ensemble Learning [ToBePublished](sachinsshetty.github.io)
 4. Digital Heritage Conservation through Image Classification and 3D reconstruction. [ToBePublished](sachinsshetty.github.io)
+5. Swarm Drone Wash [Abstract](https://github.com/sachinsshetty/swarmrotorwash/blob/master/paper/abstract.md)
 
 <ul class="post-list">
 {% for post in site.categories.research %}
