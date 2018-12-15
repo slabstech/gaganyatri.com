@@ -3,11 +3,14 @@
 - title: About
   url: /about/
 
-- title: Research
-  url: /research/
+- title : Work
+  url: /work/
 
-- title: Nimbro
-  url: /nimbro/
+#- title: Research
+#  url: /research/
+
+#- title: Nimbro
+#  url: /nimbro/
 
 #- title: Projects
 #  url: /projects/
@@ -15,24 +18,27 @@
 - title: Why
   url: /why/
 
-- title: How
-  url: /how/
+- title: Exp 56
+  url: /exp56/
+
+#- title: How
+#  url: /how/
 
 
-- title : Bucketlist
-  url: /bucketlist/
+#- title : Bucketlist
+  #url: /bucketlist/
 
 #- title: YFS
 #  url: /stanyear/
 
-- title: Travels
-  url: /travels/
+#- title: Travels
+#  url: /travels/
 
 #- title: Books
 #  url: /books/
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
-- title: Search
-  url: /search/
+#- title: Search
+#  url: /search/
