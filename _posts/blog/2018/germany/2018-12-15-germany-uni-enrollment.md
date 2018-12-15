@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Visa Application"
-excerpt: "How to apply for visa"
+title: "University Enrollment"
+excerpt: "How to Enroll At University"
 categories: blog
 tags: [ travel ]
 image:

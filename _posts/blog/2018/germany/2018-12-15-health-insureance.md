@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Visa Application"
-excerpt: "How to apply for visa"
+title: "Health Insurance"
+excerpt: "How to apply for Health Insurance"
 categories: blog
 tags: [ travel ]
 image:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visa Application"
+title: "German Bank Acoount"
 excerpt: "How to apply for visa"
 categories: blog
 tags: [ travel ]

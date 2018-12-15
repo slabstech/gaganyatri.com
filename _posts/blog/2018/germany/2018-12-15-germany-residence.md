@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Visa Application"
-excerpt: "How to apply for visa"
+title: "Residence Permit"
+excerpt: "How to apply for Residence Permit"
 categories: blog
 tags: [ travel ]
 image:

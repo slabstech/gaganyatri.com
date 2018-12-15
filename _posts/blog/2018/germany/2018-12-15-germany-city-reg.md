@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Visa Application"
-excerpt: "How to apply for visa"
+title: "City Registration"
+excerpt: "How to apply for City Registration"
 categories: blog
 tags: [ travel ]
 image:

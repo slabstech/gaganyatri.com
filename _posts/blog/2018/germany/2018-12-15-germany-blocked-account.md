@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Visa Application"
-excerpt: "How to apply for visa"
+title: "Blocked Account"
+excerpt: "How to apply for Blocked account"
 categories: blog
 tags: [ travel ]
 image:

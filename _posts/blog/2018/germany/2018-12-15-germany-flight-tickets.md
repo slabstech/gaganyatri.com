@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Visa Application"
-excerpt: "How to apply for visa"
+title: "Flight Tickets"
+excerpt: "How to apply for Flight Ticket"
 categories: blog
 tags: [ travel ]
 image:

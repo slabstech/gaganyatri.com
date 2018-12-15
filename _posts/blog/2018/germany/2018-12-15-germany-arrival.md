@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Visa Application"
-excerpt: "How to apply for visa"
+title: "Arrival in Bonn"
+excerpt: "Things to do before and after arrival"
 categories: blog
 tags: [ travel ]
 image:
