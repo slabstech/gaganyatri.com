@@ -23,18 +23,38 @@ Typing the most horrible words i never want to repeat again
 
 -----
 
-The problem is with parents .
+
+
+##### But then why ?
+- Is a girl child not allowed to travel at night
+- Is a girl child not allowed to wear the clothes she wants
+- Is a girl child not allowed to pursue her dreams, which most parents squash by getting them married. (More on this later. Come back in 2 days)
+
+Is it because they were born as girls
+
+##### Where is the issue ?
+
+- The girls ?
+- The boys ?
+- The teachers ?
+- The police ?
+- The doctor ?
+- Current Trending favorite : The government ?
+
+##### The problem is with parents .
 
 I beg all the parents and all the parents to be .
 Please give a little time for the growth of your child.
 
+
 Do not let it become a monster and a scourge of the society.
 
+#### Your duty
 
 Your duty does not vanish by giving birth to another life on earth, It does not vanish when you send it to an expensive and prestigious school.
 
 
-The child will always follow and imitate what it sees at home everyday.
+##### The child will always follow and imitate what it sees at home everyday.
 
 Whom should we hang now for the humiliation that is faced by so many of our sisters,
 mothers, relatives
@@ -43,7 +63,7 @@ Who can stop the death of society ?
 
 Please think again for heavens sake
 
-Can you ?  
+##### Can you ?  
 
 P S:
 I sometimes wonder, Should i bring a child of my own into this world.
