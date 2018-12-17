@@ -18,6 +18,24 @@ Can you stand your ground and win in any of the following scenarios
 - Our daily break maker : Our mothers and countless sisters.
 
 
+I'm prejudiced with examples i took above.
+
+They are the shining lights in our time . Aren't they ?
+
+But if you carefully read the last point. It cover's the entire woman population,
+more than 48% of the world .
+
+
+#### President's Highest Merit Winner
+
+A girl was humiliated (Not the first and i wish would be the last). I swear i  will not use the 4ltter word ever again.
+
+It was done by a set of parents . (Am i mad/blind to make these blatant accusations).
+Was it not by a set of worthless boys who should be shot at sight .
+No no. They should get an easy death.
+The world has developed so many world class techniques.
+- 
+
 -----
 Typing the most horrible words i never want to repeat again
 
@@ -51,7 +69,9 @@ Do not let it become a monster and a scourge of the society.
 
 #### Your duty
 
-Your duty does not vanish by giving birth to another life on earth, It does not vanish when you send it to an expensive and prestigious school.
+Your duty does not vanish by giving birth to another life on earth,
+
+It does not vanish when you send it to an expensive and prestigious school.
 
 
 ##### The child will always follow and imitate what it sees at home everyday.
