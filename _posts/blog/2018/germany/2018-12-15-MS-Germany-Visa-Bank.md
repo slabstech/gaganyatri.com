@@ -41,4 +41,4 @@ All the products mentioned above have been used by me.
 I do not hold and will not be held responsible if something goes wrong.
 Please do your own research before using them
 
-You can also read/follow my life in Germany to understand a bit . [link]()
+You can also read/follow my experience in Germany to understand a bit . [link](https://sachinsshetty.github.io/exp56/)
