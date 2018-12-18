@@ -15,7 +15,7 @@ date: 2018-12-15T08:08:50-04:00
 
 
 Now that u have got admit. You will be doing these next tasks in order
-- Why to choose Germany for MS [link]({{ site.baseurl }}{% link _posts\why\2018-09-30-why-germany.md %})
+- Why to choose Germany for MS [link]({{ site.baseurl }}{% link _posts/why/2018-09-30-why-germany.md %})
 
 - Visa Application [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-visa.md %})
 - German Language Certification [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-language.md %})
