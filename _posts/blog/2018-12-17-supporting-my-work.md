@@ -22,7 +22,7 @@ Below are the options
 
 - Paytm : Send to my number : Seven Seven Nine Five One One Three Eight Zero One
 - Upi : sachin.shetty@axisbank
-- Paypal : https://www.paypal.me/sachinsshetty
+- Paypal : [link](https://www.paypal.me/sachinsshetty)
 
 
 Please note that the amount is not refundable and you are sending the amount on
