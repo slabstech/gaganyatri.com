@@ -15,7 +15,7 @@ Can you stand your ground and win in any of the following scenarios
 - Wrestling match with any of the 3 siblings : Phogat Sisters
 - Come with better human empowerment schemes than a teacher : Sudha Murthy
 - Beat the record for the longest time spent in Space : Sunita Williams
-- Our daily break maker : Our mothers and countless sisters.
+- Our daily bread maker : Our mothers and countless sisters.
 
 
 I'm prejudiced with examples i took above.
@@ -50,7 +50,7 @@ The world has developed so many world class techniques.
 - Waterboarding
 - Splitting nails with rusted nails
 - The classic cut from the middle east
-- The elecric chair (No this would be too easy)
+- The electric chair (No this would be too easy)
 - A slow acting poison
 
 Now whom would you give punishment , if something similar happens.
@@ -83,8 +83,8 @@ The question i would like for u to answer to urself is
 Or will you
 - Slap these monsters when you see them doing wrong things at a young age
 - Teach your kids, how to be polite and respect others
-- Teach children that movies are just fiction and they should not follow they ruffians that see on the screen
-- Will you be a role model to ur own child and follow decency and obey laws
+- Teach children that movies are just fiction and they should not follow they ruffians that they see on the screen
+- Will you be a role model to your own child and follow decency and obey laws
 
 Or will you
 - Ignore your own child, by not giving good education at home
@@ -94,7 +94,8 @@ Or will you
   - by giving them mobile phones, bikes, cars and credit card without teaching them what it should be used for
 
 
-  I have done my share of mistakes, i do not proclaim that i am a saint and i could never be(I could if i want to :P)
+
+I have done my share of mistakes, i do not proclaim that i am a saint and i could never be(I could if i want to :P)
 
 
 My parents never stopped me or my sister from doing anything , but then there were some strict rules, that i had to and followed till i moved out of my hometown for work
@@ -103,7 +104,7 @@ My parents never stopped me or my sister from doing anything , but then there we
   (Karma is a bitch, just once i went out on a nearby roadtrip. All my 4 friends have come back from the dead after surviving a high speed crash)
 - I would always have to be back at home by 10 pm(by 5 till i reached 10th grade) everyday .
 
-  (There was a few exceptions like b'day celebrations , well i still get an earful even now when i not on time when i visit home. ).
+  (There was a few exceptions like b'day celebrations , well i still get an earful even now when i am not on time when i visit home. ).
 
 
 no matter how old i grow , how much i earn, whatever great positions i take .
@@ -125,9 +126,9 @@ I recently sold my bike after 6 years. Something i feel is important to mention
 - It did not have any penalties.
 - I never did a wheelie, never did a stoppie, never was part of a drag race .
 - I always reached my destination in time , though i was called a sloth for my slow driving
-
-I never had to pay for damages, i never asked money for vehicle service,
-I never asked for additional money for petrol
+- I never had to pay for damages
+- I never asked money for vehicle service,
+- I never asked for additional money for petrol
 
 I could have done all the things that other kids do. But then i saw the struggles and sacrifices my parents did for getting me a bike. I had to be grateful for the gift and live up to their expectations.
 
@@ -184,4 +185,4 @@ I sometimes wonder, Should i bring a child of my own into this world.
 
 Will it become a monsters learning from the other Monsters.
 
-Seriously, makes me think, Will i ever give my child the life it should get.
+It seriously, makes me think, Will i ever give my child the life it should get.
