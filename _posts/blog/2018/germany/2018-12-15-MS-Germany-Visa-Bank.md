@@ -42,3 +42,16 @@ I do not hold and will not be held responsible if something goes wrong.
 Please do your own research before using them
 
 You can also read/follow my experience in Germany to understand a bit . [link](https://sachinsshetty.github.io/exp56/)
+
+I have covered almost Everything that i have done.  But ?
+
+If you would like further help, I also provide email based consultation for Rs.1000 per person .
+I'll also throw in help during your arrival in Bonn. if u take my consultation.
+
+I can handle only max 20 people, its a first come first serve.
+
+You can find payment link here . [payment link](https://sachinsshetty.github.io/blog/supporting-my-work)
+
+Send a screenshot of your payment to  websachinshetty at gmail dot com
+
+Please note, the amount is not refundable incase im not able to provide answers to all your questions .  
