@@ -1,10 +1,11 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Mars
+  url: /mars/
 
-- title : Work
-  url: /work/
+
+#- title : Work
+#  url: /work/
 
 #- title: Research
 #  url: /research/
@@ -20,6 +21,10 @@
 
 - title: Exp 56
   url: /exp56/
+
+- title: About
+  url: /about/
+
 
 #- title: How
 #  url: /how/
