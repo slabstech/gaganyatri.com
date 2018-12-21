@@ -66,7 +66,7 @@ Where just like old times, both the families cook together and eat together
 
 Now last week there were many marriages of our country's most famous celebrities.
 
-At one place, there was the wedding of the century of the business.
+At one place, there was the wedding of the century of the business magnate .
 A wedding of two different cultures conducted at centuries old Palace.
 
 In between, the nation's most famous sportpersons. Winners of their respective court,
