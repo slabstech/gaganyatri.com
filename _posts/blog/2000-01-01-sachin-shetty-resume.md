@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Sachin Resume
-excerpt: "Markdown based resume"
+layout: page
+title: Curriculum Vitae
+excerpt: "Markdown based CV"
 modified: 2001-01-01T14:17:25-04:00
 categories: blog
 comments: true
