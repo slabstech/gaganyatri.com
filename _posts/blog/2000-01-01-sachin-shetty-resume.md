@@ -11,23 +11,32 @@ share: true
 [DownloadCV](https://sachinsshetty.github.io/docs/sachin_resume_web.pdf)
 
 
-# <center> Sachin S Shetty </center>
+# <center> Sachin Suresh Shetty </center>
 
-#### <center> Web: https://sachinsshetty.github.io </center>
+#### <center> Web: https://sachinsshetty.github.io  , github: sachinsshetty </center>
 
-#### <center> Email: websachinshetty (at) gmail (dot) com </center>
+#### <center> Email: sachinsshetty(dot)de(at)gmail(dot)com </center>
 
 
 ### Professional Experience
 
-#### * Research
-* May 2017 -May 2018- : Worked as a Research Assistant at KLE Technological University, Hubballi
+- Currently studying Computer Science with focus on Robotics at University of Bonn,
+Germany
 
+#### * Research
+- Past :
+    - May 2017 -May 2018 : Worked as a Research Assistant at KLE
+Technological University, Hubballi
+
+  - Sep 2012-May 2013 : Worked as Student Research Assitant at B.V.
+Bhoomaraddi College and Tech, Hubballi.
 
 #### * Software Industry
-* June 2018 - Present
+* Past
+    *   May 2018-Oct 2018
 
-  Currently working as a Senior Software Engineer at EFI, Bangalore
+        worked as a Senior Software Engineer at EFI India for
+full-stack development
 
 * Sep 2013- April 2017
 

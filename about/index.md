@@ -6,16 +6,16 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 ---
 Short Story :
-        Full Stack Developer, AI Researcher, Amateur Writer, Cyclist, Bibliophile.
+      Bibliophile, Amateur Writer, Singularity and Symmetry.
 
 Long Story :
 
 Hello,
-I'm a **computer programmer** by profession , Love tinkering with anything that can be programmed .
+I love tinkering with anything that can be programmed .
 
 I love reading books all day long and write about the places i visit.
 
-Recent migration into AI research (inspired by SuperIntelligence , book by Nick Bostrom)
+Trying to make sense of AI research (inspired by SuperIntelligence , book by Nick Bostrom)
 
 This site is a sneak peek into the work i do and everything else.
 
