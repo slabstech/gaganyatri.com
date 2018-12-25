@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Elon Musk"
 excerpt: "What does he actually plan to do with the companies"
 categories: why
