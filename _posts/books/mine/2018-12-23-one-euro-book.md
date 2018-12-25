@@ -79,3 +79,19 @@ I could earn more by pricing it high, but then nobody would buy it. :P
 ##### No PaperBack
 Book price will always be 49. Amazon might give better margin if more copies sell.
 No paperback edition, won't be responsible for destruction of earth .
+
+
+### PS
+
+I am not trying to make much money.  I just want people to start taking more risks to accomplish their dreams
+
+I kept the book at the base price. Rs49 in India, 1 dollar in US, 1 Euro in Germany. So that people can buy and read
+
+People will not read free stuff, they will not appreciate the worth of free books .
+
+
+Give everyone a chance to read. I took a long time for me to buy my first book .
+
+I am thankful to my friends, libraries who lent me books.
+
+Life's best invention : Book
