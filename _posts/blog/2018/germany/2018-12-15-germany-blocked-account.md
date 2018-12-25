@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "German Bank Account"
+title: "German Blocked Account"
 excerpt: "How to open a blocked account for Visa"
 categories: blog
 tags: [ travel ]
