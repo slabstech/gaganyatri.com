@@ -25,6 +25,8 @@ Now that u have got admit. You will be doing these next tasks in order
 |-------|--------|---------|-----|----|-------------|
 | Why to choose Germany for MS | [link]({{ site.baseurl }}{% link _posts/why/2018-09-30-why-germany.md %}) |  Blog & Book | Complete|
 | Visa Application  | NA | Book  | Complete |
+| Paying Tax  | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-paying-taxes.md %}) | Blog  | In Progress |
+
 | German Language Certification  | NA | Book  | Complete |
 | Blocked Account Opening  | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-blocked-account.md %}) |  Blog & Book  | Complete |
 | Health Insurance  | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-health-insureance.md %}) | Blog & Book   | Complete |
