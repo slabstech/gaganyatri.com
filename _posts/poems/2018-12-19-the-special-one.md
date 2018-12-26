@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "The Path"
-excerpt: "Not all who wander are lost"
+title: "The Special One"
+excerpt: "Could have"
 categories: blog
 tags: [ thought ]
 image:
@@ -10,47 +10,88 @@ date: 2018-12-19T08:08:50-04:00
 
 ---
 
-#### The Path
+#### The Special One
 
 
-Where am i going?
 
-      Everyway look's very strange and unknown
+Life was like,
 
-
-This wasn't so when i started my journey,
-
-     Things were so clear and dreams rejuvenated
+     a rudderless ship,
 
 
-Everything i did,
+Just moving around,
 
-       was somehow connected to my dreams
-
-
-Would feel good and happy doing the things
-
-     i loved
+     but not going anywhere,
 
 
-It's not the case now,
+Like a gale wind,
+
+     with full fury,
 
 
-     Frustration is killing the life out of me
+She entered my life,
+
+     bringing with her the mighty waves,
+
+for some time,
+
+      i was tossed around,
 
 
-Promises are falling over like rain
+like a fish,
 
 
-     Everything i do, makes no sense at all
+       on a rock,
 
 
-Regrets are filling, like droplets in the ocean
+Only Then i understood,
+
+      the meaning of her intrusion,
 
 
-       Dreams which i once thought reachable, now seem utterly impossible
+She was here,
+
+      to show me the way,
 
 
-Thinking about the things i've missed,
+A light tower,
 
-       i regret why did i ever do such things
+     in the rough seas,
+
+
+A source of inspiration,
+
+     to fight for survival,
+
+
+There were days,
+
+    when all hope was lost,
+
+
+morale was sinking low
+
+     without her in sight,
+
+for days.
+
+       she would disappear,
+
+
+increasing the agony
+
+    with The game of hide & seek ,
+
+increased by the expectations for a better tomorrow
+
+      Her presence ,
+
+
+always lifted the soul,
+
+     Giving hope & love in plenty
+
+
+A sight,
+
+    to behold for eternity.
