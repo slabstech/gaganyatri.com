@@ -18,6 +18,9 @@ To know more
 
 Buy the Book :P
 
-Second Book : Steps
 
-[Steps](https://amzn.to/2Anw61V)
+##### Second Book :
+
+### Steps
+
+#### [Steps](https://amzn.to/2Anw61V)
