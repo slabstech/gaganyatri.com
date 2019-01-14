@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saving Art"
-excerpt: "The Story Needs to Told"
+excerpt: "The Story Needs to be Told"
 categories: blog
 tags: [ thought ]
 image:
