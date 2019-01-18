@@ -13,7 +13,16 @@ date: 2019-01-17T08:08:50-04:00
 ##### [Rust Lang](https;//rust-lang.org/)
 
 A language written with concurrency as the main goal to utilise parallel programming
-built on the LLVM project [llvm](https://llvm.org/)
+built on the LLVM project [llvm](https://llvm.org/).
+
+
+All learning will be put in a github repo.
+
+Development will be done on Docker Containers on a Windows 10 machine.
+
+Too many advantages using containers than VM's . (I should write a post on it).
+
+
 
 
 #### Links
