@@ -26,21 +26,21 @@ will surely show the way in all phase of our life. If your devotion and conseque
 Life is very simple, but unconsciously we make it complex and get stressed with the invisible weights.
 
 
+When our life needs are all basic and our attitude towards others are same and does not depend on the power the person weilds.
 
+Feels like a big weight has disappeared from earth.
 
- Education is the contribution that will remember throughout the centuries
+Feels hollow.
 
- Taking care of ourselves and our parents.
+Taking care of ourselves and our parents.
 If all of us do that,  then the world will not have misery
-
 
 Following this,
 We can give our devotion to his life
 
-: Feels like a big weight has disappeared from earth.
-Feels hollow
 
- We should fill his place,  otherwise his life would become unworthy
+We should fill his place,  otherwise his life would become unworthy
 
 Remember him, whenever u do anything.
-He will show the way
+
+He will show the way.
