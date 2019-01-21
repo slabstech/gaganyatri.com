@@ -17,3 +17,5 @@ research [link](https://www.uni-bonn.de/research/research-profile/Researchprofil
 international program [link](https://basis.uni-bonn.de/qisserver/rds?state=wtree&search=1&trex=step&root120182=177063%7C177080%7C179876&P.vx=lang)
 
 bit image [link](https://sites.google.com/site/bitimageprocessing/home/projects)
+
+bit lectures [link](https://www.researchgate.net/project/lectures-on-image-processing)
