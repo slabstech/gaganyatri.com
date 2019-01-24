@@ -63,10 +63,13 @@ This way , u can also make ur tax money to help someone in need.
 #### To Donate
 
 Indian Account Holders [letzchange link](https://letzchange.org/projects/provide-opportunities-to-deserving-underprivileged-students)
+
 Outside India [global giving link](https://www.globalgiving.org/donate/15997/vidya-poshak/)
 
 
-For further information. please visit the VidyaPoshak website at [VidyaPoshak](www.vidyaposhak.ngo/support-as-donor/)
+For further information.
+
+ please visit the VidyaPoshak website at [VidyaPoshak](www.vidyaposhak.ngo/support-as-donor/)
 
 
 ##### CSR Fund (Corporate Social Responsibility Fund )
