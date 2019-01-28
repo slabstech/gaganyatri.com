@@ -2,11 +2,11 @@
 layout: post
 title: "Gandhian Principle - We should eat to live and work"
 excerpt: "My experiments with Truth"
-categories: blog
-tags: [ thoughts ]
+categories: why
+tags: [ why gandhi ]
 image:
   feature:
-date: 2019-01-11T08:08:50-04:00
+date: 2019-01-28T08:08:50-04:00
 
 ---
 
@@ -39,4 +39,4 @@ Think again before buying expensive stuff which u will discard easily.
 
 Buy books, drawing pads and restart the creative child in you.
 
-#### Live and Let Live 
+#### Live and Let Live
