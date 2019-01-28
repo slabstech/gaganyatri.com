@@ -29,6 +29,8 @@ Research areas at AIS .
 A total of 120 credits have to be completed for the Master's Course.
 Around 30 credits per semester is the average followed by most students.
 
+Total 120. 88(subjects)+32(thesis) , U can take more than 88 in subjects. Thank you Kainaat for correcting my earlier mistake of credits required.
+
 
 
 Confirmed Classes to Attend
