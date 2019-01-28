@@ -26,7 +26,8 @@ Research areas at AIS .
 4. Anticipating Human Behavior[link1](http://www.ais.uni-bonn.de/projects/project_FOR_2535_P7.html) [link2](https://pages.iai.uni-bonn.de/FOR2535/#/start)
 
 
-A total of 100 credits have to be completed for the Master's Course.
+A total of 120 credits have to be completed for the Master's Course.
+Around 30 credits per semester is the average followed by most students.
 
 
 
