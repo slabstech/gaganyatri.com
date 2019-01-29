@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Gandhian Principle - We should eat to live and work"
-excerpt: "My experiments with Truth"
+title: "Gandhi's 3 Monkey"
+excerpt: "After 71 years - My experiments with Truth"
 categories: why
 tags: [ why gandhi ]
 image:
@@ -11,32 +11,45 @@ date: 2019-01-28T08:08:50-04:00
 ---
 
 
-Gandhi Said
+
+Gandhi dharma
+
+It's 71 years, since
+
+MGK
+
+became immortal as
+
+Mahatma
+
+Our freedom did not come easily
 
 
-We should eat to live and work, Gandhiji felt earnestly. As in all other aspects, Gandhiji used a minimalistic approach to diet intake too. He propagated that we should consider food as energy, even a medicine that is required to keep our body healthy and fit for work. Hence, we should take only that which is required, in minimum quantity. We should not eat to appease our taste buds.
+When Gandhi's
 
-Two weeks completed of abstaining from Chicken,
-Giving up for some time, the things that once we would not live without .
+3 monkey
 
-We come naked into the world and die the same way.
+Turned to
 
-What we leave behind is the friendships we earned, the lives we helped and the number of people we brought along with us.
+Stop -  who speak evil
 
-Our clothes wont matter, our food doesn't matter. They will all be thrown away.
+Stop - who do evil
 
-I am not telling, stop eating food and stop wearing clothes.
-
-With the amount i saved in my expensive food intake, i am able to absorb
-the 10k donation done towards VidyaPoshak.  I will have to continue with greens for the next 3 months to make up the amount. I will have some cheat days, but the next one will be after the Lok Sabha Elections.
-
-I love my jeans, its an open secret. NewPort jeans are the most affordable jeans. Its the brand that i am using since the last 7 years. Few months ago, i hit jackpot, is was able to snag 3 pairs for Rs.299 each, these would be available usually for 500-600.
-
-The amount i usually save up from my clothes, by not drinking and smoking , i end up buying items which help me to do something more.
+Stop - no longer tolerate to see evil
 
 
-Think again before buying expensive stuff which u will discard easily.
+When
+Live and let live
 
-Buy books, drawing pads and restart the creative child in you.
 
-#### Live and Let Live
+Mother earth has enough for our needs
+
+Dont let greed manifest again as evil
+
+Our children
+
+and next generations will judge
+
+us
+
+Be responsible
