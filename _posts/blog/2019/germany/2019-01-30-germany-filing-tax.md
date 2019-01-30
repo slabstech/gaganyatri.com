@@ -43,3 +43,13 @@ You will have to wait for another id that you will receive by post.
 With both the documents, you can complete registration for tax filing .
 
 The financial year is the same as calendar year.
+
+
+
+Src Links
+* [link](http://itr.germanymantra.com/tax-return-filing-FAQs)
+* [link](http://itr.germanymantra.com/)
+* [link](
+http://www.settle-in-berlin.com/stop-paying-german-church-tax/)
+* [link](https://www.settle-in-berlin.com/tax-id-germany/)
+* [link](https://www.bzst.de/DE/Home/home_node.html)
