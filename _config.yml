@@ -8,6 +8,7 @@ search: true
 url: https://sachinsshetty.github.io
 
 # Jekyll configuration
+remote_theme: "mmistakes/so-simple-theme"
 
 permalink:   /:categories/:title/
 markdown:    kramdown
