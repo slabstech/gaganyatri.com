@@ -4,8 +4,18 @@ title: Courses At Bonn
 excerpt: "List of Probable courses to Study at Bonn"
 categories: research
 tags: [ study ]
-modified: 2018-08-15T14:11:53-04:00
+modified: 2018-02-01T14:11:53-04:00
 ---
+
+
+01, Feb 2019 update
+
+Have chosen only robotics stream for this semester.
+* Cognitive Robotics Lecture
+* Cognitive Robotics Lab
+* Cognitive Robotics Seminar
+* Humanoid Robots Lab
+
 
 According to the module handbook from Informatik at University of Bonn.
 
@@ -21,9 +31,7 @@ The Four tracks are mentioned below
 Research areas at AIS .
 
 1. Project CENTAURO [link](http://www.centauro-project.eu/)
-2. []()
-3. []()
-4. Anticipating Human Behavior[link1](http://www.ais.uni-bonn.de/projects/project_FOR_2535_P7.html) [link2](https://pages.iai.uni-bonn.de/FOR2535/#/start)
+2. Anticipating Human Behavior[link1](http://www.ais.uni-bonn.de/projects/project_FOR_2535_P7.html) [link2](https://pages.iai.uni-bonn.de/FOR2535/#/start)
 
 
 A total of 120 credits have to be completed for the Master's Course.

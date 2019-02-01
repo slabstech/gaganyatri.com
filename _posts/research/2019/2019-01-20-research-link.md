@@ -7,6 +7,9 @@ categories: research
 tags: [mobile, space, learning, projects]
 
 ---
+recommended reading - books [link](https://www.informatik.uni-bonn.de/en/for-students/master-of-science-in-computer-science/recommended-reading-for-new-students)
+
+erasmus program - march1 deadling [link](http://www.i1.informatik.uni-bonn.de/doku.php?id=en:erasmus:start)
 
 sustainable development [link](https://www.uni-bonn.de/research/research-profile/innovation-and-technology-for-sustainable-futures/Innovation-and-technology-for-sustainable-futures)
 
