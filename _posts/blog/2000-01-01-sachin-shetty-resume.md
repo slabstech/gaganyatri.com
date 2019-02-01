@@ -35,17 +35,21 @@ Bhoomaraddi College and Tech, Hubballi.
 * Past
     *   May 2018-Oct 2018
 
-        worked as a Senior Software Engineer at EFI India for
+        Worked as a Senior Software Engineer at EFI India for
 full-stack development
 
 * Sep 2013- April 2017
 
- 3.8 years of industry experience in creating software for telecom in an agile environment, worked as System Analyst at Subex Ltd. Bangalore in ROCFMS Roadmap team
+ 	Worked as a Full-Stack developer at Subex for 3.8 years. 
 
 ### Research Projects:
  * #### Project : Object detection for driverless cars
-  * Designed and implemented a ML algorithm to detect wheelchair pedestrian from Video. “ Special Pedestrian and Head Pose Detection for Autonomous Vehicles ” Paper presented at ICSC 2018. To be published at Springer in
-“Book Series Lecture Notes in Electrical Engineer”
+  * Designed and implemented a ML algorithm to detect wheelchair pedestrian from Video. 
+“ Special Pedestrian and Head Pose Detection for Autonomous Vehicles ” Paper presented at ICSC 2018.
+ Published at Springer in ICSC 2018 proceedings titled 
+"Advances in Signal Processing and Communication" in Lecture Notes in 
+Electrical Engineering Vol. 526 at the link : 
+[ICSC2018](https://link.springer.com/book/10.1007/978-981-13-2553-3]
 * Skills : Python, Opencv , Tensorflow, Java.
 
 
@@ -64,6 +68,12 @@ full-stack development
   * Conducted Machine Learning Lab for Undergraduates 2017-2018 . Resources created
 available at
 [github](https://github.com/sachinsshetty/ml_lab_ecsc_306)
+
+
+### Game Developed
+	* #### Project : Haven GGJ19
+	* Developed an adventure based game for Global Game Jam 2019.  WindowPC version [download](https://globalgamejam.org/2019/games/haven-1)
+	[Android Playstore](https://play.google.com/store/apps/details?id=com.slabstech.game.haven&hl=en_US)
 
 
 #### * Software Projects undertaken:
@@ -86,24 +96,22 @@ on top of OpenPBX written on C++.
 - Duration : August 2015 - October -2015
 
 ###### * Seed-Schema DB Migrator/Installer :
-  * A migration tool for seamless update between versions. Porting Dbsetup of FM which was based on SQLs, to hibernate framework. Designed and developed features for handling versioning support.
+  * A migration tool for seamless update between versions. Porting DB installation based on SQLs, to hibernate framework. Designed and developed features for handling versioning support.
 - Skills : Java, Hibernate , SQL , Oracle
 - Duration : November 2014- July 2015
 
 ###### * Infinispan DB Scaler:
-  * Member of team which integrated Infinispan DistributedCache
-Framework provided by JBOSS, Designed and implemented JPQL support for C++
-server for Infinispan.
+  * Implemented JPQL support for C++ server for Infinispan.
 - Skills : Java , Infinispan Cache , C++
 - Duration : Jun 2014 - October 2014
 
-* ROR Client Bug Fixes - Initially worked on fixing bugs and adding UTs to ROR
+* ROR Client Bug Fixes - Fixing bugs and adding UTs to ROR
 client.
 - Skills: Ruby On Rails.
-- Duration :Sep 2013 - Feb 2014College Projects
+- Duration :Sep 2013 - Feb 2014
 
 
-#### * Colleg Projects
+#### * College Projects
 ###### * Physics Lab Manual:
   * Physics Lab Manual: An android tablet application, developed for 1 st year students of BVBCET, which automates record keeping of Physics Lab Experiments. The project running into its 7 th year, has saved nearly 10 million journal sheets. Received numerous awards for idea generation and implelementation
 
