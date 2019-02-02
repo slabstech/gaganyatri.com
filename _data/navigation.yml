@@ -1,12 +1,14 @@
 # Site navigation links
 
-- title: May 2019
-  url: /may2019/
+#- title: May 2019
+#  url: /may2019/
 
 
 - title: Mars
   url: /mars/
 
+- title: Rally For Rivers
+ url: /rivers/
 
 #- title : Work
 #  url: /work/
@@ -23,6 +25,8 @@
 - title: Why
   url: /why/
 
+- title: How
+  url: /how/
 
 - title: Exp 56
   url: /exp56/
@@ -31,8 +35,6 @@
   url: /about/
 
 
-#- title: How
-#  url: /how/
 
 
 #- title : Bucketlist
