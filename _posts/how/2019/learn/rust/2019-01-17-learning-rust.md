@@ -24,6 +24,17 @@ Too many advantages using containers than VM's . (I should write a post on it).
 
 
 
+### installation
+`curl https://sh.rustup.rs -sSf | sh `
+
+### verify install
+`rustc --version`
+
+if above command fails
+then add below rust installed path to PATH variable
+
+`export PATH="~/.cargo/bin:$PATH"`
+
 
 #### Links
 * [documentation](https://doc.rust-lang.org/)
