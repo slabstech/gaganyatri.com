@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Radio Silence"
-excerpt: "Communcation Blackout"
+excerpt: "Communication Blackout"
 categories: mars
 tags: [ research ]
 
-date: 2019-01-01T08:08:50-04:00
+date: 2019-02-01T08:08:50-04:00
 
 ---
 
