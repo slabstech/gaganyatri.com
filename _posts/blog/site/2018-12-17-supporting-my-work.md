@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Support My Writing"
 excerpt: " Like what i write and want me to continue "
 categories: blog
