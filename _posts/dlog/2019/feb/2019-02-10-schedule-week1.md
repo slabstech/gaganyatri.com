@@ -25,7 +25,7 @@ TODO
 | 12| Chaitra 50k INR Loan | - | No | Yes |
 | 13| Hemanth 300 Euro Loan | - | No | Yes |
 | 14| Personal Loan 9485 INR | - | Yes | Yes |
-| 15| Car Loan 20K INR | 15/2 | No | No | 
+| 15| Car Loan 20K INR | 15/2 | No | No |
 | 16| PF Withdrawal 1 & 2 | - | No | Yes |
 | 17| German Tax Filing 2018 | - | No | Yes |
 | 18| Indian Tax Filing 2018-19| - | No | Yes |
@@ -53,3 +53,20 @@ TODO
 | 37| Landscaping Tannenbusch| - | No | Yes |
 | 38| Room Sweeping/Shutter Cleaning| - | No | Yes |
 | 39| Declutter Mailbox: Forward to single mail| - | No | Yes |
+| 40| Return Heena TiffinBox| - | No | Yes |
+
+
+* Feb 10
+* Feb 11
+* Feb 12
+* Feb 13
+* Feb 14
+  * 900-1100 : Cognitive Robotics Exam
+  * 1150 : FlixBus Bonn UN Campus Musuemsmeile
+  * 1400 : Frankfurt Central Station
+  * 1430 : Indian Embassy : Friedrich-Ebert-Anlage 26, 60325 Frankfurt am Main 
+* Feb 15
+* Feb 16
+  * 2235 : Frankfurt Central Station
+* Feb 17
+  * 0055 : Bonn UN Campus

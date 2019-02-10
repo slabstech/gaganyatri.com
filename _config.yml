@@ -39,32 +39,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Sachin Shetty
   email: websachinshetty@gmail.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: gaganyatri
+  github: sachinsshetty
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-
-cloudinary:
-  cloud_name: websachinshetty
-  presets:
-    default:
-      min_width: 80
-      max_width: 400
-      fallback_max_width: 200
-      steps: 3
-      sizes: '(min-width: 50rem) 13rem, (min-width: 40rem) 25vw, 45vw'
-      figure: never

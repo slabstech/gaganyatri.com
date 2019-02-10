@@ -3,7 +3,7 @@ layout: post
 title: Berlin Pot
 excerpt: "Two days of whirlwind search in Berlin"
 categories: travels
-tags: [travels, art ]
+tags: [travels ]
 
 modified: 2019-01-01T14:11:53-04:00
 ---
@@ -29,4 +29,4 @@ A day earlier
 * All the way in a Flight for - Grill Chicken
 
 
-#### Looks like two weeks of writing to cover 2 days. 
+#### Looks like two weeks of writing to cover 2 days.
