@@ -22,3 +22,5 @@ international program [link](https://basis.uni-bonn.de/qisserver/rds?state=wtree
 bit image [link](https://sites.google.com/site/bitimageprocessing/home/projects)
 
 bit lectures [link](https://www.researchgate.net/project/lectures-on-image-processing)
+
+https://gradient.google/philosophy/#
