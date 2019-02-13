@@ -39,10 +39,9 @@ So that it can help me give more time to writing and not make me starve for doin
 
 Below are the options
 
-- Paytm : Send to my number : Seven Seven Nine Five One One Three Eight Zero Nine
 - Upi : sachin.shetty@axisbank
 - Paypal : [link](https://www.paypal.me/sachinsshetty)
-
+- Gift items from my amazon wishlist : [wishlist](https://www.amazon.in/hz/wishlist/dl/invite/h5ET1qg) 
 
 Please note that the amount is not refundable and you are sending the amount on
 your own to support my writing.
