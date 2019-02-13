@@ -8,3 +8,8 @@ tags: [ research ]
 date: 2018-12-20T08:08:50-04:00
 
 ---
+
+
+* Physical Endurance
+* Psychological Endurance
+* Mission Requirements
