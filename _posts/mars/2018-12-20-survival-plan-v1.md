@@ -13,3 +13,7 @@ date: 2018-12-20T08:08:50-04:00
 * Physical Endurance
 * Psychological Endurance
 * Mission Requirements
+    * Studying micro aerial vehicles design at Uni Bonn ,
+    * Designing two hobby projects
+      * swarmSpray
+      * swarmWash
