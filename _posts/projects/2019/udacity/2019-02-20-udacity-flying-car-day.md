@@ -20,6 +20,7 @@ Instructors
 
 
 Videos Link
+* Ted Talks [link](https://www.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters?language=en) 
 * What is the Flying Car and Autonomous Flight Engineer Nanodegree program? [link](https://www.youtube.com/watch?v=kuNEtnVnTGE&feature=youtu.be)
 * Flying Cars & Self-Driving Cars with Raffaello D'andrea & David Silver [link](https://www.youtube.com/watch?v=w6bP7l2o81s&feature=youtu.be)
 * Flying Cars & Machine Learning with Raffaello D'andrea & Luis Serrano[link](https://www.youtube.com/watch?v=ZUYHuAa9xfo&feature=youtu.be)
