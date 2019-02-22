@@ -1,16 +1,5 @@
 # Site navigation links
 
-#- title : Work
-#  url: /work/
-
-#- title: Research
-#  url: /research/
-
-#- title: Nimbro
-#  url: /nimbro/
-
-#- title: Projects
-#  url: /projects/
 - title: Mars
   url: /mars/
 
@@ -29,23 +18,3 @@
 - title: About
   url: /about/
 
-
-
-
-#- title : Bucketlist
-  #url: /bucketlist/
-
-#- title: YFS
-#  url: /stanyear/
-
-#- title: Travels
-#  url: /travels/
-
-#- title: Books
-#  url: /books/
-
-#- title: Blog
-#  url: /blog/
-
-#- title: Search
-#  url: /search/

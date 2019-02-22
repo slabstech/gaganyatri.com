@@ -1,67 +1,36 @@
 ---
 layout: page
 title: 
-excerpt: "A Way into the World(s)"
+excerpt: "Voyages of a Spacefarer"
 search_omit: true
 ---
 
 <br/>
 
-<h3>
-  Play Android Game :
 
-  <a href="https://play.google.com/store/apps/details?id=com.slabstech.game.haven&hl=en_US">
-    <u> Haven </u>
-  </a>
-
-</h3>
+Trainging for Mars
 
 
-<h4>
-  Buy the Book :
+* Survival : 
+<ul class="post-list">
+{% for post in site.categories.mars limit:3 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
 
-</h4>
-
-<h4>
-
-<table>
-
- <tr>
-   <!--
-   <td>
-     <a href="https://amzn.to/2HwfYRk">
-       <u> GaganYatri    </u>
-     </a>
-
-   </td>
--->
-   <td>
-     <a href="https://amzn.to/2PUILxX">
-       <u> Why    </u>
-     </a>
-
-  </td>
-
-  </tr>
-<tr>
-<!--
-  <td>
-    <a href="https://amzn.to/2Cu0lEq">
-      <u> Steps </u>
-    </a>
-
- </td>
--->
-
- </tr>
-</table>
-
-</h4>
-
-<br/>
+* Ultra Fitness : Body + Mind 
 
 <ul class="post-list">
-{% for post in site.posts limit:10 %}
+{% for post in site.categories.exp56 limit:3 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
+
+
+* Others 
+
+<ul class="post-list">
+{% for post in site.posts limit:4 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
