@@ -22,3 +22,15 @@ Till date, thanks to God's grace in the form of a good life, i happily have gift
 some to my friends at Subex, some to the students at my alma mater St Mary's School, Huballi.
 
 All the books contain a main theme "Dharma", the root word behind Integrity.
+His books say in multitude of ways to live a happy, prosperous, peaceful & loving life. All one needs to do is to live with Integrity.
+
+Now let me recollect some of the beautiful lessons from his books
+
+* The Monk Who Sold His Ferrari
+
+  Life of a rich lawyer, who transform his way of living after a life threatening event. He gave up his riches, his prized red ferrari to travel to India to learn the way of simple living from the sages.
+  He learns that with least material belongings, it is easier to live happy, because you live for only today. It is difficult in the beginning, for the human brain by evolution always wants to a accumulate to decrease starvation. As gandhi said "The world is enough for all our needs, but it can never be enough for ones greed". Yes, one needs to prepare for the future but one must not forget to live today.
+
+* Who Will Cry When You Die
+
+  All Men Must Die : the famous line from George R. R. Martin. Unfortunately we all live like we are immortal, procrastinating and not living to our potential. We postpone living to so some other day, we tell ourselves that we live happily after retirement. Yes, the probability of living longer is high. One must plan for the future to sustain ourselves and be independent. But how much money, only one can decide. Its an irony to see these days, that the richest people from so and so place that people worship. If you look closely you will see the gaps between have's and have-not's. What do you think, would the world be the same way, If Gandhi had decided to look after his progeny, working towards a life of luxury. 
