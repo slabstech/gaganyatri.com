@@ -1,35 +1,30 @@
 ---
 layout: post
-title: "Summer Semester Courses 2019 "
-excerpt: "Attend some, write few"
+title: "Suffering in the world"
+excerpt: "what do we do"
 categories: blog
 tags: [ learn ]
-date: 2019-03-01T08:08:50-04:00
+date: 2019-03-02T08:08:50-04:00
 
 ---
 
+Somewhere/somehow humanity has died a slow death, most of us including me have
+given up at the state of humanity. We've convinced ourselves that as individual
+we are insignificant and that we cannot make any difference. Even in a developed
+country like Germany in major cities like frankfurt/berlin we can still see the despair. Not that the country is not doing anything, it has taken the highest number of refugees from places of conflict, i can easily say that the country has failed, but what makes a country. A country is made up by all the people.
 
-* DI/DO 14-16 [MA-INF 1301 - Algorithmic Game Theory and the Internet](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=158942&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+So the next time, u see something wrong happening, before criticising and blaming all the people and everyone else in the world, think for sometime ,
+What do we do ?
+What can i as an individual do, to remove or alleviate the problem.
 
-* MO 12-14 [V4C2 / MA-INF 1201 - Approximation Algorithms](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=156842&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+It is easy to comment on social media, with high speed internet, having a drink in hand and something to munch from the delivery that u ordered from a hotel.
 
-* MO 10-12 MI 12-14 [V4C3 / MA-INF 1202 - Chip Design ](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=156843&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+How far will we let bad things to continue ?
 
-* DI 14-16 [MA-INF 4114 - Robot Learning](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=160087&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+Are we morally dead inside ?
 
-* MO 14-16 [MA-INF 4201 - Artificial Life](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=158303&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+When you see a problem, before commenting anything.
 
-* Di 12-14 [MA-INF 4207 - Dynamically Reconfigurable Systems](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=159527&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+Think, use the education that u have paid a ransom for the certificate.
 
-* DI DO 8-10 [MA-INF 4215 - Humanoid Robotics](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=159406&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-
-* MO 8-10 [MA-INF 2218 - Video Analytics](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=160095&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-
-* MO FR 10-12 [MA-INF 2213 - Computer Vision II](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=160100&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-
-* MI 18-20 [MA-INF 3201 - Network Security](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=158452&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-
-* DO 14-16 [https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=158328&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=158328&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-
-
-
+Be part of the solution
