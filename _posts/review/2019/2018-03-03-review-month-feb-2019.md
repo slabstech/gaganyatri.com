@@ -10,7 +10,7 @@ date: 2019-03-4T08:08:50-04:00
 
 * Relations
   * Why Mother [link]({{ site.baseurl }}{% link _posts/why/bonds/2019-02-01-why-bonds-mother-p1.md  %})
-  * Why Father [link](_posts/why/bonds/2019-02-02-why-bonds-father-p1.md)
+  * Why Father [link]({{ site.baseurl }}{% link _posts/why/bonds/2019-02-02-why-bonds-father-p1.md %})
 
 * Thought
   * Why Wars [link]({{ site.baseurl }}{% link _posts/why/wars/2019-02-02-why-wars-01.md)
@@ -19,7 +19,7 @@ date: 2019-03-4T08:08:50-04:00
   * Frankfurt 2 Day plan [link]({{ site.baseurl }}{% link _posts/travels/germany/2019/frankfurt/2019-02-10-frankfurt-plan.md)
   * Strolling around the Main Banks [link]({{ site.baseurl }}{% link _posts/travels/germany/2019/frankfurt/2019-02-14-frankfurt-day1.md %})
   * Night at the KonstablerWach [link]({{ site.baseurl }}{% link _posts/travels/germany/2019/frankfurt/2019-02-15-frankfurt-day2.md %})
-  * Early morning sketch and Palmgarten [link](_posts/travels/germany/2019/frankfurt/2019-02-16-frankfurt-day3.md)
+  * Early morning sketch and Palmgarten [link]({{ site.baseurl }}{% link _posts/travels/germany/2019/frankfurt/2019-02-16-frankfurt-day3.md %})
 
 * Exp56
   *
