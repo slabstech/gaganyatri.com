@@ -9,7 +9,7 @@ date: 2019-03-4T08:08:50-04:00
 ---
 
 * Relations
-  * Why Mother [link]({{ site.baseurl }}{% link _posts\why\bonds\2019-02-01-why-bonds-mother-p1.md  %})
+  * Why Mother [link]({{ site.baseurl }}{% link _posts/why/bonds/2019-02-01-why-bonds-mother-p1.md  %})
   * Why Father [link](_posts/why/bonds/2019-02-02-why-bonds-father-p1.md)
 
 * Thought
@@ -41,7 +41,4 @@ date: 2019-03-4T08:08:50-04:00
 * Books
   * Monks guide to a clear body and mind [link]({{ site.baseurl }}{% link _posts/books/2019/2019-02-01-monks-guide-mind-home.md %})
   * Three Secret Cities : Lily's Letter [link]({{ site.baseurl }}{% link _posts/books/2019/2019-02-01-three-secret-lily.md %})
-  * Books for kids v1 [link]({{ site.baseurl }}{% link _posts\books\2019\2019-02-14-books-for-kids-1.md  %})
-
-
-{{ site.baseurl }}{% link     %}
+  * Books for kids v1 [link]({{ site.baseurl }}{% link _posts/books/2019/2019-02-14-books-for-kids-1.md  %})
