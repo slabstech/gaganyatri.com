@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 excerpt: "Voyages of a Spacefarer"
 search_omit: true
 ---
@@ -8,10 +8,10 @@ search_omit: true
 <br/>
 
 <h4>
-Training for Mars 
+Training for Mars
 </h4>
 
-<h4>* Survival : 
+<h4>* Survival :
 </h4>
 
 <ul class="post-list">
@@ -22,7 +22,7 @@ Training for Mars
 <br/>
 
 <h4>
-* Ultra Fitness : Body + Mind 
+* Ultra Fitness : Body + Mind
 </h4>
 
 <ul class="post-list">
@@ -33,11 +33,11 @@ Training for Mars
 
 <br/>
 <h4>
-Others 
+Others
 </h4>
 
 <ul class="post-list">
-{% for post in site.posts limit:4 %}
+{% for post in site.categories.review limit:4 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
