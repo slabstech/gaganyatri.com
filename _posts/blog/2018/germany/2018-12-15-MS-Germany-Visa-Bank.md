@@ -21,26 +21,28 @@ Now that u have got admit. You will be doing these next tasks in order
 ## Steps -  [Link](https://amzn.to/2Anw61V)
 
 
-| Task  | Link | Source | status |
-|-------|--------|---------|-----|----|-------------|
-| Why to choose Germany for MS | [link]({{ site.baseurl }}{% link _posts/why/2018-09-30-why-germany.md %}) |  Blog & Book | Complete|
-| Visa Application  | NA | Book  | Complete |
-| Paying Tax  | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-paying-taxes.md %}) | Blog  | In Progress |
-| Money Transfer to Germany  | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-transfer-money-to-germany.md %}) | Blog  | In Progress |
-| German Language Certification  | NA | Book  | Complete |
-| Blocked Account Opening  | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-blocked-account.md %}) |  Blog & Book  | Complete |
-| Health Insurance  | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-health-insureance.md %}) | Blog & Book   | Complete |
-| Flight Tickets | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-flight-tickets.md %}) | Blog | Complete |
-| Luggage | NA | Book | Complete |
-| Medical Checks | NA | Book | Complete |
-| Accommodation| [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-10-06-accomodation-bonn-students.md %}) | Blog  & Book | Complete |
-| Arrival in Bonn/Germany | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-arrival.md %}) | Book | Complete |
-| Enrolment in University | NA | Book | Complete |
-| German Bank Account | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-bank-account.md %}) | Blog | Complete |
-| Residence Permit | NA | Book | Complete |
-| RadioTax | NA | Book | Complete |
-| Local Travel | NA | Book | Complete |
-| Cuisine | NA | Book | Complete |
+| Task  |
+|-------|
+| [Why to choose Germany for MS]({{ site.baseurl }}{% link _posts/why/2018-09-30-why-germany.md %})
+| Visa Application  | TODO |
+| [Accommodation]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-10-06-accomodation-bonn-students.md %}) |
+| [Money Transfer to Germany]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-transfer-money-to-germany.md %})  |
+| German Language Certification  | | TODO |
+| [Blocked Account Opening]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-blocked-account.md %}) |
+| [Health Insurance]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-health-insureance.md %}) |
+| [Flight Tickets]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-flight-tickets.md %}) |
+| Luggage  |  TODO |
+| Medical Checks  |  TODO |
+| [Arrival in Bonn/Germany]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-arrival.md %}) |
+| Enrolment in University  | TODO |
+| [German Bank Account]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-bank-account.md %}) |
+| [Paying Tax]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-paying-taxes.md %})  |
+
+| Residence Permit |  TODO |
+| RadioTax |  TODO |
+| Local Travel |  TODO |
+| Cuisine |  TODO |
+
 
 
 
