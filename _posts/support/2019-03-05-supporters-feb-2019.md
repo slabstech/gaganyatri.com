@@ -21,3 +21,5 @@ date: 2019-03-05T08:08:50-04:00
 * Rakesh Lagare : Loaning me euro 300 to pay my college fees, till my deposit gets refunded
 
 * Hemanth Karnal : Loaning me euro 800, to pay for my Udacity course till my PF amount gets credited.
+
+* Suresh S Shetty : Dad, thank you for getting the documents processed for the company and paying INR 5K for the post
