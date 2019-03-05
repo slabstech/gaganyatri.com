@@ -33,7 +33,7 @@ Now that u have got admit. You will be doing these next tasks in order
 | Flight Tickets | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-flight-tickets.md %}) | Blog | Complete |
 | Luggage | NA | Book | Complete |
 | Medical Checks | NA | Book | Complete |
-| Accommodation| [link]({{ site.baseurl }}{% link _posts/blog/2018-10-06-accomodation-bonn-students.md %}) | Blog  & Book | Complete |
+| Accommodation| [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-10-06-accomodation-bonn-students.md %}) | Blog  & Book | Complete |
 | Arrival in Bonn/Germany | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-arrival.md %}) | Book | Complete |
 | Enrolment in University | NA | Book | Complete |
 | German Bank Account | [link]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-germany-bank-account.md %}) | Blog | Complete |
