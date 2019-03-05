@@ -10,8 +10,6 @@ date: 2018-12-17T08:08:50-04:00
 
 ---
 
-
-
 If you like what i write and want me to continue my writing.
 
 
@@ -38,7 +36,7 @@ You can donate whatever amount you wish,
 So that it can help me give more time to writing and not make me starve for doing less of paid work.
 
 Below are the options
-
+- Patreon :  [gaganyatri](https://www.patreon.com/gaganyatri)
 - Upi : sachin.shetty@axisbank
 - Paypal : [link](https://www.paypal.me/sachinsshetty)
 - Gift items from my amazon wishlist : [wishlist](https://www.amazon.in/hz/wishlist/dl/invite/h5ET1qg) 
