@@ -16,11 +16,17 @@ Mars Mission being a 3+ months journey through Vaccum, needs an extremely fit bo
 
 Triathlon are the best indicators for fitness of body and muscles .
 
+[NorseMan the ultimate triathlon on earth](https://nxtri.com/) 
+
 As of March 6,  i am cycling 8km everyday, 4km in each direction to college
 
 I need to increase the tempo of training, below are few links i am planning to follow to up my game.
 
-Jai Hind, Bharat Mata Ki Jai 
+Jai Hind, Bharat Mata Ki Jai
+
+
+[NorseMan Athlete Guide](https://nxtri.app.box.com/v/AthleteGuide-2019)
+[fit for holidays][https://nxtri.com/fit-for-the-holidays/]
 
 
 Training  Links
