@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About Sachin Shetty
+title: About Gaganyatri
 excerpt: "Author Info"
 modified: 2014-08-08T19:44:38.564948-04:00
 
 ---
 Short Story :
-      Bibliophile, Amateur Writer, Singularity and Symmetry.
+      Bibliophile, Amateur Writer, Singularity and Symmetry. First person on Mars
 
 Long Story :
 
@@ -18,7 +18,5 @@ I love reading books all day long and write about the places i visit.
 Trying to make sense of AI research (inspired by SuperIntelligence , book by Nick Bostrom)
 
 This site is a sneak peek into the work i do and everything else.
-
-[Curriculum Vitae]({{ site.baseurl }}{% link _posts/blog/2000-01-01-sachin-shetty-resume.md %})
 
 <img src="https://res.cloudinary.com/websachinshetty/image/upload/v1538374035/myblog/site/aboutimage.jpg" >
