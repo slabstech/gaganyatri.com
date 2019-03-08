@@ -18,7 +18,15 @@ In the order of Appearance in my life
 * Roopa aunty
 * Annapoorna Aunty 
 * Amma : Paternal Grandmother 
-.
+* Anita Aunty
+* Geeta Aunty
+* Lata Aunty
+* Doddamma
+* Smitha
+* Chaya
+* Shwetha
+* Namratha
+* Nikita
 .
 .
 .
@@ -26,24 +34,35 @@ In the order of Appearance in my life
 .
 . Sister 
   why sister part 1 : [link]({{ site.baseurl }}{% link _posts/why/bonds/2019-01-31-why-bonds-sister.md %})
-  
-  
-  
-  
+. 
+. 
+. 
+. 
+.
+* Fatima
+* Piyusha
 .
 .
-.
-.
+* Aishwarya 
 
 
 .
-* Ruchika Jain
-* Shruti Padaki
-* Priyanka Awaraddi 
-* Rashmi Nalwad
-* Shruti Bidada
-* Arpita Kushwaha
-* Vidya Shree
+* Ruchika
+* Afshan
+* Varsha
+* Shruti 
+* Priyanka
+* Rashmi 
+* Shruti
+* Arpita
+* Vidya
+.
+.
+.
+.
+.
+.
+* Ruhi
 
 Finally 
 * Dominique 
