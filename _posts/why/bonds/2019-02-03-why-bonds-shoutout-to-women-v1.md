@@ -53,6 +53,7 @@ In the order of Appearance in my life
 * Shruti 
 * Priyanka
 * Rashmi 
+* Chaitra
 * Shruti
 * Arpita
 * Vidya
