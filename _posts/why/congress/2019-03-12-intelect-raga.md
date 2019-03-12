@@ -3,7 +3,7 @@ layout: post
 title: "Mathematician RaGa"
 excerpt: "Cannot Add and Subtract"
 categories: why
-tags: [ politics ]
+tags: [ may2019 ]
 date: 2019-03-12T08:08:50-04:00
 
 ---
@@ -40,4 +40,4 @@ Please ask the candidates of ur voting area to answer them honestly .
 
 Not just the candidates, every citizen should be able to answer honestly each answer.
 
-Because the ocean is nothing without the symphony of individual droplets 
+Because the ocean is nothing without the symphony of individual droplets
