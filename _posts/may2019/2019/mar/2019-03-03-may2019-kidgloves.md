@@ -3,7 +3,7 @@ layout: post
 title: "This is the time"
 excerpt: "Do it right, 100% vote"
 categories: may2019
-tags: [ thought ]
+tags: [ may2019 ]
 
 date: 2019-03-03T08:08:50-04:00
 

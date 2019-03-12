@@ -3,7 +3,7 @@ layout: post
 title: "Modi 2.0 Election manifesto"
 excerpt: "crowdsourcing Ideas"
 categories: may2019
-tags: [ thought ]
+tags: [ may2019 ]
 
 date: 2019-03-03T08:08:50-04:00
 

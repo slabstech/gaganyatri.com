@@ -3,7 +3,7 @@ layout: post
 title: "Clean Election May 2019"
 excerpt: "Questions for 42 Answer"
 categories: may2019
-tags: [ thought ]
+tags: [ may2019 ]
 
 date: 2019-03-12T08:08:50-04:00
 
