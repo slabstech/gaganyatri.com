@@ -4,7 +4,7 @@ title: "February 2019 Review"
 excerpt: "Insights from activities and thoughts"
 categories: review
 tags: [ review ]
-date: 2019-03-4T08:08:50-04:00
+date: 2019-03-05T08:08:50-04:00
 
 ---
 
