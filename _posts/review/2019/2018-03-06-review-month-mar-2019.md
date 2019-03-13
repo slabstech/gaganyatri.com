@@ -9,7 +9,11 @@ date: 2019-03-06T08:08:50-04:00
 ---
 
 
+  * May 2019
+    * [New India Pledge]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-01-may2019-pledge.md  %})
+    * [Kidgloves are off]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-03-may2019-kidgloves.md %})
+    * [Election manifesto 2019]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-09-election-manifesto-2019.md %})
 
-  * Why Mother [link]({{ site.baseurl }}{% link _posts/why/bonds/2019-02-01-why-bonds-mother-p1.md  %})
 
 
+* []({{ site.baseurl }}{% link  %})
