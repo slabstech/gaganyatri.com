@@ -69,9 +69,9 @@ date: 2019-03-06T08:08:50-04:00
 
     * [When your existence]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-05-exp-dy137.md %})
 
-    * [Yoga Trick]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-07-exp-dy139.md %})  
+    * [Yoga Trick]({{ site.baseurl }}{% link  _posts/exp56/2019/march/2019-03-07-exp-dy139.md %})  
 
-    * [You Have Arrived]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-09-exp-dy141.md %})  
+    * [You Have Arrived]({{ site.baseurl }}{% link  _posts/exp56/2019/march/2019-03-09-exp-dy141.md %})  
 
     * [A Smart Kid]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-10-exp-dy142.md %})  
 
@@ -80,6 +80,6 @@ date: 2019-03-06T08:08:50-04:00
   * Politics
     * [CWG 2010 fiasco]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-cwg-fiasco.md %})
 
-    * [Previous Heads of Indian Sport Bodies]({{ site.baseurl }}{% link_posts/why/congress/2019-03-12-indian-sports.md  %})
+    * [Previous Heads of Indian Sport Bodies]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-indian-sports.md  %})
 
     * [Mathematical Genius of RaGa]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-intelect-raga.md %})
