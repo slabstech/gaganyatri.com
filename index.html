@@ -9,26 +9,12 @@ search_omit: true
 Training for Mars
 </h4>
 
-<h4>* Survival :
-</h4>
 
 <ul class="post-list">
 {% for post in site.categories.mars limit:2 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
-<br/>
-
-<h4>
-* Ultra Fitness : Body + Mind
-</h4>
-
-<ul class="post-list">
-{% for post in site.categories.exp56 limit:2 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
-
 <br/>
 
 
@@ -43,7 +29,6 @@ Training for Mars
 </ul>
 
 <br/>
-
 
 
 <h4>
