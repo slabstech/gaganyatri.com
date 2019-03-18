@@ -12,6 +12,12 @@ date: 2019-03-06T08:08:50-04:00
 
     * [Lift for Ride on Starship]({{ site.baseurl }}{% link _posts/mars/2019/march/2019-03-11-lift-for-ride-on-starship.md %})
 
+  * Social Consciousness
+
+    * [Fund Raising Challenge]({{ site.baseurl }}{% link  _posts/blog/2019/self/march/2019-03-18-fund-raising-challenge.md %})
+
+    * [Raising the Stakes]({{ site.baseurl }}{% link  _posts/blog/2019/self/march/2019-03-17-raising-the-stakes.md %})
+
   * Supporters
 
     * [My February 2019 Heroes]({{ site.baseurl }}{% link _posts/support/2019-03-05-supporters-feb-2019.md %})
@@ -25,6 +31,9 @@ date: 2019-03-06T08:08:50-04:00
       * [Time Is Up For Evil]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-03-times-us-for-evil.md %})
 
       * [Reason for Will]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-03-reason-for-will.md %})
+
+  * Heroes
+      * [The Artist, The Leader, The Inspiration]({{ site.baseurl }}{% link _posts/heroes/2019-03-18-artist-warrior-leader.md %})
 
 
   * Books
