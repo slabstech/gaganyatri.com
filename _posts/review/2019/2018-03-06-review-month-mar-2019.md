@@ -24,6 +24,14 @@ date: 2019-03-06T08:08:50-04:00
 
     * [My March 2019 Heroes]({{ site.baseurl }}{% link _posts/support/2019-03-05-supporters-mar-2019.md %})
 
+  * May 2019
+
+  * [This is the time]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-03-this-is-the-time.md  %})
+
+  * [Election manifesto]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-09-election-manifesto-2019 %})
+
+  * [Election manifesto v2]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-11-election-manifesto-v2-42answers.md %})
+
   * Life
 
       * [Gratitude of Life ]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-01-gratitude-of-life.md %})
@@ -71,6 +79,24 @@ date: 2019-03-06T08:08:50-04:00
 
     * [Smart Tech == Dumb Humans]({{ site.baseurl }}{% link _posts/blog/2019/satire/2019-03-12-smart-tech-dumb-humans.md %})
 
+    * [Paradoxical Woman Empowerment]({{ site.baseurl }}{% link _posts/blog/2019/satire/2019-03-16-paradoxical-woman-empowerment.md %})
+
+
+  * Self Improvement
+    * [Gratitude - start of march]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-01-gratitude-of-life.md %})
+
+    * [Reason for will]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-03-reason-for-will.md %})
+
+    * [Time up for evil]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-03-times-us-for-evil.md %})
+
+    * [Wresting Control of Life]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-12-wresting-control-life.md %})
+
+    * [Day of Small Wins]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-14-day-of-small-wins-hdtour.md %})
+
+    * [Deleting WhatsApp]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-14-deleting-whatsapp.md %})
+
+    * [Going vegan]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-16-going-vegan.md %})
+
   * Exp56
     * [Free Till End of Night]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-02-exp-dy134.md %})  
 
@@ -86,9 +112,20 @@ date: 2019-03-06T08:08:50-04:00
 
     * [Shine A Light]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy143.md %})
 
+    * [Moksha Is a]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy146.md %})
+
+    * [Missing the bus]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy147.md %})
+
+    * [Life is like Chess]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy148.md %})
+
+    * [The Brain child HD]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy149.md %})
+
   * Politics
     * [CWG 2010 fiasco]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-cwg-fiasco.md %})
 
     * [Previous Heads of Indian Sport Bodies]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-indian-sports.md  %})
 
     * [Mathematical Genius of RaGa]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-intelect-raga.md %})
+
+  * Economics
+    * [Kotak Mahindra Bank Bad Practices]({{ site.baseurl }}{% link  _posts/economics/banks/2019-03-14-kotak-mahindra-bad-practices.md  %})
