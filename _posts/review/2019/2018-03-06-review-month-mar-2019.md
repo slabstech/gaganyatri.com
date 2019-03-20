@@ -28,7 +28,7 @@ date: 2019-03-06T08:08:50-04:00
 
     * [This is the time]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-03-this-is-the-time.md  %})
 
-    * [Election manifesto]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-09-election-manifesto-2019 %})
+    * [Election manifesto]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-09-election-manifesto-2019.md %})
 
     * [Election manifesto v2]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-11-election-manifesto-v2-42answers.md %})
 
@@ -114,16 +114,17 @@ date: 2019-03-06T08:08:50-04:00
 
     * [Shine A Light]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy143.md %})
 
-    * [Moksha Is a]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy146.md %})
+    * [Moksha Is a]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-14-exp-dy146.md %})
 
-    * [Missing the bus]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy147.md %})
+    * [Missing the bus]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-15-exp-dy147.md %})
 
-    * [Life is like Chess]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy148.md %})
+    * [Life is like Chess]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-16-exp-dy148.md %})
 
-    * [The Brain child HD]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy149.md %})
+    * [The Brain child HD]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-17-exp-dy149.md %})
 
-    * [U first dream it]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-11-exp-dy149.md %})
+    * [U first dream it]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-19-exp-dy150.md %})
 
+    * [The Breath of Life]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-20-exp-dy151.md %})
 
   * Politics
     * [CWG 2010 fiasco]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-cwg-fiasco.md %})
