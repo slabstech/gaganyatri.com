@@ -1,24 +1,25 @@
 ---
 layout: page
-title: "Exp56"
-excerpt: "Life in 56m"
+title: "Gaganyatri"
+excerpt: "Voyages of a Space Farer"
 modified: 2019-03-20T14:17:25-04:00
 categories: books-pub
 tags: [ books-pub]
 ---
 
+Gaganyatri
 
-Exp56 : Life in 56m
-
+Voyages of a Space Farer
 
 "Each One, Teach One"
 Nelson Mandela
 
+<!--
 
 * Online Free Google Doc
-[View link](https://docs.google.com/document/d/1aUkAoRCjcjkXn_FNoOjLU8QC-o_qA5BRAJA9ELCud4c/edit?usp=sharing)
-
-* Amazon Ebook [buy book](https://amzn.to/2TXZPJx)
+[View link]()
+-->
+* Amazon Ebook [buy book](https://amzn.to/2CuFTEh)
 
 If you like what i read, Please consider buying the ebook on Amazon
 
