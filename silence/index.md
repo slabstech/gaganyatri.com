@@ -1,23 +1,12 @@
 ---
 layout: page
-title:
-excerpt: "Voyages of a Spacefarer"
+title: Vow of Silence
+excerpt: Penance for unspoken and voiceless
 search_omit: true
 ---
 
-
-<h4>
-Vow of Silence
-</h4>
-
-
-<h6>
-Penance for the unspoken and voiceless
-</h6>
-
-
 <ul class="post-list">
-{% for post in site.categories.silence limit:3 %}
+{% for post in site.categories.silence %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
