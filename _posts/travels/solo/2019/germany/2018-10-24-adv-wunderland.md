@@ -3,12 +3,12 @@ layout: post
 title: Adventure in Wunderland
 excerpt: "German Diaries - The Pursuit of Dreams - P1"
 categories: travels
-tags: [travels, nature ]
+tags: [travels ]
 
 modified: 2018-10-24T14:11:53-04:00
 ---
 
-### German Diaries 
+### German Diaries
 
 The Pursuit of Dreams
 
@@ -25,7 +25,7 @@ Dumb luck was ever present, it was like take the most stupidest challenge, it wo
 Seems appropriate travellin on a Dreamliner(787) in pursuit of my dreams.
 
 ### Beethoven Beckons
-The maestro, virtuoso, Beethoven is the master of all things music. His compositions are a treat to the years. 
+The maestro, virtuoso, Beethoven is the master of all things music. His compositions are a treat to the years.
 Beethoven was born at the city of Bonn (Oh yeah, this will be my base of operations for the next 2 years)
 
 
@@ -34,7 +34,7 @@ Beethoven was born at the city of Bonn (Oh yeah, this will be my base of operati
 Today i jump into the unknown, there are a thousand ways for things to go wrong, but this
 time i am adamant enough to find a million ways to utilize the next two
 years for complete development. All thanks to the grace to NRW(North Rhine Westphalia) state that
-offers subsidised study and travel for students. Trust me :P, i will cover each and every attraction and presumably 
+offers subsidised study and travel for students. Trust me :P, i will cover each and every attraction and presumably
 find a few gems along the way.
 
 
@@ -51,16 +51,16 @@ the master painter, a luxury to the eyes.  Every 100kms, i could see something n
 so was that it would fill the entire horizon. This is a huge change in surrounding for me, this euro trip
 already looks promising.
 
-Time is 5.45 and we've already covered half of the mileage of 6000km 
-in this piece of engineering marvel, the Boeing Dreamliner 787-800. Earlier 
-two flight trips were on a short haul Airbus planes, this trip was a significant 
+Time is 5.45 and we've already covered half of the mileage of 6000km
+in this piece of engineering marvel, the Boeing Dreamliner 787-800. Earlier
+two flight trips were on a short haul Airbus planes, this trip was a significant
 upgrade in terms of miles getting covered. The best part of the flight is the real time map
 integrated into the Entertainment console, press a button while watching a movie
 and voila ,a small map pops out like a genie in the button. This would
 be the early cartographers living dream, oberserving real time map in
 search of their destination.
 
-I'm loving this part, it shows that were at 40000ft/12km altitude, the speed being 
+I'm loving this part, it shows that were at 40000ft/12km altitude, the speed being
 blistering fast at 880km/h(545 mph), it also shows where the aircraft is currently
 located on the map. I felt sorry for the ones who were sleeping on the flight, see through the window
 you will be amazed at sights (Thank you, Airhostess for allowing to a vacant Window seat , half screen was the world other
@@ -72,7 +72,7 @@ as well get it for free). As i am writing this, the bird is flying somewhere on 
 #### Free tip
 If you are reading this, my suggestion is just drop whatever work you have and plan a trip
 at least 15 days over Continental Europe. ( Forget the savings for
-constructing a house and settling down, if you could see what i am seeing through this 1by2 feet window into the 
+constructing a house and settling down, if you could see what i am seeing through this 1by2 feet window into the
 world, your life would take a new meaning and you would fly like a bird with freedom
 
 

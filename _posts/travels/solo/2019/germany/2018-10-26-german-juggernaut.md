@@ -1,14 +1,14 @@
 ---
 layout: post
-title: German Juggnernaut	
+title: German Juggnernaut
 excerpt: "Ruthless, Efficient Machine Called Germany - German Diaries - P2"
 categories: travels
-tags: [travels, nature ]
+tags: [travels]
 
 modified: 2018-11-11T14:11:53-04:00
 ---
 
-### German Diaries 
+### German Diaries
 
 ## German Juggernaut
 
