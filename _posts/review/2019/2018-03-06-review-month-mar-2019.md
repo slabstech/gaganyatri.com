@@ -12,6 +12,15 @@ date: 2019-03-06T08:08:50-04:00
 
     * [Lift for Ride on Starship]({{ site.baseurl }}{% link _posts/mars/2019/march/2019-03-11-lift-for-ride-on-starship.md %})
 
+  * Silence
+    * [Day 1: The VOS: Miles to Go]({{ site.baseurl }}{% link _posts/silence/2019/march/2019-03-21-vos-dy1.md %})
+
+    * [Day 2: The VOS: for the unspoken and voiceless]({{ site.baseurl }}{% link _posts/silence/2019/march/2019-03-22-vos-dy2.md %})
+
+    * [Day 3: The VOS: The Longest Game of Charades]({{ site.baseurl }}{% link _posts/silence/2019/march/2019-03-23-vos-dy3.md %})
+
+    * [Day 4: The VOS: On the tightrope]({{ site.baseurl }}{% link _posts/silence/2019/march/2019-03-24-vos-dy4.md %})
+
   * Social Consciousness
 
     * [Fund Raising Challenge]({{ site.baseurl }}{% link  _posts/blog/2019/self/march/2019-03-18-fund-raising-challenge.md %})
@@ -31,6 +40,10 @@ date: 2019-03-06T08:08:50-04:00
     * [Election manifesto]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-09-election-manifesto-2019.md %})
 
     * [Election manifesto v2]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-11-election-manifesto-v2-42answers.md %})
+
+    * [New India Pledge]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-01-may2019-pledge.md  %})
+
+    * [42 Answers]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-11-election-manifesto-v2-42answers.md %})
 
   * Life
 
@@ -53,15 +66,6 @@ date: 2019-03-06T08:08:50-04:00
 
         * [Stop Corruption]({{ site.baseurl }}{% link _posts/how/2019/war/2019-03-06-how-stop-war-corruption.md %})
 
-  * May 2019
-    * [New India Pledge]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-01-may2019-pledge.md  %})
-
-    * [Election manifesto 2019]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-09-election-manifesto-2019.md %})
-
-    * [This is the time]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-03-this-is-the-time.md %})
-
-    * [42 Answers]({{ site.baseurl }}{% link _posts/may2019/2019/mar/2019-03-11-election-manifesto-v2-42answers.md %})
-
   * German Insights
 
      * [Migration For Development]({{ site.baseurl }}{% link _posts/blog/2019/germany/2019-03-03-migration-for-development-cim-bonn.md %})    
@@ -81,7 +85,6 @@ date: 2019-03-06T08:08:50-04:00
 
     * [Paradoxical Woman Empowerment]({{ site.baseurl }}{% link _posts/blog/2019/satire/2019-03-16-paradoxical-woman-empowerment.md %})
 
-
   * Self Improvement
     * [Gratitude - start of march]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-01-gratitude-of-life.md %})
 
@@ -98,6 +101,9 @@ date: 2019-03-06T08:08:50-04:00
     * [Going vegan]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-16-going-vegan.md %})
 
     * [I am coming for you]({{ site.baseurl }}{% link _posts/blog/2019/self/march/2019-03-18-iam-coming-for-you.md %})
+
+    [Early Morning Playlist]({{ site.baseurl }}{% _posts/blog/2019/self/march/2019-03-24-early-morning-playlist.md  %})
+
 
   * Exp56
     * [Free Till End of Night]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-02-exp-dy134.md %})  
@@ -125,6 +131,8 @@ date: 2019-03-06T08:08:50-04:00
     * [U first dream it]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-19-exp-dy150.md %})
 
     * [The Breath of Life]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-20-exp-dy151.md %})
+
+    * [One Day Life]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-23-exp-dy154.md %})
 
   * Politics
     * [CWG 2010 fiasco]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-cwg-fiasco.md %})
