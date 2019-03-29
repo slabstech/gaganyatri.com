@@ -11,3 +11,12 @@ tags: [ books ]
 Time to put out the stories
 
 The stories that mould statues of memories of in numerous clay
+
+
+* [Travel]({{ site.baseurl }}{% link _posts/books/publish/2019-03-29-travel.md %})
+
+* [Why]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-why.md %})
+
+* [Steps]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-steps.md  %})
+
+* [Exp56]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-exp56.md  %})
