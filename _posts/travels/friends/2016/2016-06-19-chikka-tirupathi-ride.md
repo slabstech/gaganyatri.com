@@ -3,13 +3,9 @@ layout: post
 title: ChikkaTirupathi Temple Travel
 excerpt: "Bike Ride on a weekend"
 categories: travels
-tags: [travels, bike-ride ]
-comments: true
-share: true
+tags: [travels ]
 modified: 2016-06-01T14:11:53-04:00
 ---
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
-##### Weekend Bike Ride
 
 A long overdue trip with our small group in the team. A day trip during the weekend was on the card .
 
