@@ -20,3 +20,6 @@ The stories that mould statues of memories of in numerous clay
 * [Steps]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-steps.md  %})
 
 * [Exp56]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-exp56.md  %})
+
+
+https://docs.google.com/document/d/1QB1diRvT4YOZzF3sSNy0vbRucD4E0CLx7TL8HNOOEYw/edit?usp=sharing
