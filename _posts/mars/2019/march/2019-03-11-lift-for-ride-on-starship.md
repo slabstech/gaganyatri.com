@@ -3,7 +3,7 @@ layout: post
 title: "Letter for Ride on Starship"
 excerpt: "Elon Musk, Yusaku Maezawa : When you are offered a seat on a rocketship, Dont ask which seat"
 categories: mars
-tags: [ research ]
+tags: [ mars ]
 
 date: 2019-03-11T08:08:50-04:00
 
