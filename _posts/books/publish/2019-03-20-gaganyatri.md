@@ -19,7 +19,7 @@ Nelson Mandela
 * Online Free Google Doc
 [View link]()
 -->
-* Amazon Ebook [buy book](https://amzn.to/2CuFTEh)
+* Amazon Ebook [buy kindle book](https://amzn.to/2CuFTEh)
 
 If you like what i read, Please consider buying the ebook on Amazon
 
