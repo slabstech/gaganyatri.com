@@ -1,39 +1,50 @@
 ---
 layout: post
-title: "Triathlon Preparation"
-excerpt: "Training for NorseMan 2019"
+title: "Radio Silence"
+excerpt: "Communication Blackout"
 categories: mars
 tags: [ mars ]
 
-date: 2019-03-06T08:08:50-04:00
+date: 2019-02-01T08:08:50-04:00
 
 ---
 
-To be selected for the Mars Mission,
-One to has to be the best candidate.
 
-Mars Mission being a 3+ months journey through Vaccum, needs an extremely fit body and mind to complete the travel.
+To achieve greatness,
 
-Triathlon are the best indicators for fitness of body and muscles .
+Sacrifice of mortal things is crucial.
 
-[NorseMan the ultimate triathlon on earth](https://nxtri.com/) 
+Reducing my sphere of communication, to only email based. Reduces the anxiety
+of missing out on something & heps to increase focus towards inner peace.
 
-As of March 6,  i am cycling 8km everyday, 4km in each direction to college
+With my main goal of flying to mars and setting up infrastructure for human
+settlement. Focus is paramount and sacrifice is necessary. I need to practice
+the environment and conditions that will be waiting for me on mars.
 
-I need to increase the tempo of training, below are few links i am planning to follow to up my game.
-
-Jai Hind, Bharat Mata Ki Jai
-
-
-[NorseMan Athlete Guide](https://nxtri.app.box.com/v/AthleteGuide-2019)
-[fit for holidays][https://nxtri.com/fit-for-the-holidays/]
+As they said : Sweat in practice, so that you dont bleed in battle.
 
 
-Training  Links
-* [Sam Murphy Guardian](https://www.theguardian.com/lifeandstyle/2009/jan/11/triathlon-preparation-guide)
-* [intelligent training methods](http://www.intelligent-triathlon-training.com/triathlon_races.html)
-* [breaking muscle](https://breakingmuscle.com/fitness/5-essential-points-of-preparation-for-your-triathlon-swim)
-* [active](https://www.active.com/running/articles/10-race-day-preparation-tips)
-* [triathlete](https://www.triathlete.com/2013/05/training/faqs-from-beginner-triathletes_12507)
-* [triathlete -first ironman](https://www.active.com/triathlon/articles/how-to-train-for-your-first-ironman)
-* [triathlete -first triathlon](https://www.triathlete.com/2013/05/training/faqs-from-beginner-triathletes_12507)
+Starting today, 1st Feb 2019, im logging off WhatsApp, Facebook, Instagram and Twitter,
+till i build my core inner strength, i cannot allow distractions from my goal. Anything
+other than the goal is insignificant.
+
+All my learning and self-analysis would be regularly updated on the blog, there is also
+an Android App on the way, it will provide updates and will be the single source of information
+for all my activities. Allowing me to build one good platform .
+
+Continuing Gandhi's vow of silence, i plan to continue to observe the penance for next one week.
+My first one day salvo, i did observe changes, by reducing speech, i was able to provide more
+focus on the sense of vision and hearing.
+
+
+Any penance with understanding the scriptures is akin to walking in a forest without any guidance.
+Bhagavad Gita is my current companion. It will help me revisit the age old journey of all the
+previous masters who undertook a similar journey. Hopefully it will provide some insights to solve
+my ever increasing questions of the meaning of life.
+
+To become a gaganyatri, body and mind are one .
+
+Quoting the Bhagavad Gita
+
+When your conviction of a truth is not mearly in your brain but in your being, you may
+diffidently vouch for its meaning.

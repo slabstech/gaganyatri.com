@@ -5,14 +5,16 @@ excerpt: "Voyages of a Spacefarer"
 search_omit: true
 ---
 <h4>
-Explore Mars
+Mission Mars
 </h4>
 
 <h6>
-You got a dream, you gotta protect it. People can't do something themselves, they wanna tell you that you can't do it.
-
+You got a dream, you gotta protect it.
+<br>
+People can't do something themselves, they wanna tell you that you can't do it.
+<br>
 You want something?
-
+<br>
 Go get it.
 
 Period.
@@ -20,7 +22,7 @@ Period.
 
 
 <ul class="post-list">
-{% for post in site.categories.books-pub limit:10 %}
+{% for post in site.categories.mars limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
