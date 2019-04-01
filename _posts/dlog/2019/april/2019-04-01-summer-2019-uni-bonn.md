@@ -14,4 +14,6 @@ Monday
 
 10-12 : Algorithmic Game Theory : Horsall 3
 
-14.15 - 15.45 : Foundations in Data Science : Bit 0.109 
+14.15 - 15.45 : Foundations in Data Science : Bit 0.109
+
+18-17 : Basketball : Buschdorf
