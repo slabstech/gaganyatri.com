@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Summer 2019 Uni Bonn
 excerpt: "Classes to Learn from"
 categories: TODO
