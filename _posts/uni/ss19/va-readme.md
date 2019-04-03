@@ -1,1 +1,0 @@
-https://pages.iai.uni-bonn.de/gall_juergen/teaching/Lectures/va19.html

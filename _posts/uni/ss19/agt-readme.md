@@ -1,1 +1,0 @@
-http://tcs.cs.uni-bonn.de/doku.php?id=teaching:ss18:vl-agt

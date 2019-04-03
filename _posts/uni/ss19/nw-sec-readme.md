@@ -1,1 +1,0 @@
-http://net.cs.uni-bonn.de/wg/cs/teaching/st-2019/network-security/

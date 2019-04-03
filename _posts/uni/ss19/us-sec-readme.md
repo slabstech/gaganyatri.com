@@ -1,1 +1,0 @@
-https://net.cs.uni-bonn.de/wg/usecap/teaching/st-2019/usable-security-and-privacy/
