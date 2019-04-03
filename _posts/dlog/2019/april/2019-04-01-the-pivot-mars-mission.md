@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Pivot : Mars Mission
+title: "The Pivot : Mars Mission"
 excerpt: "Opportunity Comes...."
 categories: dlog
 tags: [ TODO ]
