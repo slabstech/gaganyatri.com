@@ -20,27 +20,42 @@ modified: 2019-04-01T14:11:53-04:00
 |18-19| Basketball : Buschdorf| | Network Security ||||
 
 
+Important Dates :
+
+Apr 11-12 : CS Game Jam
+
+Apr 26 : Avengers End Game
+
+
+
+
+
+https://gsg.informatik.uni-bonn.de/doku.php?id=en:vpn:linux
+
+https://gsg.informatik.uni-bonn.de/doku.php?id=en:vpn:windows
+
+https://gsg.informatik.uni-bonn.de/doku.php?id=en:vpn
+
+
 
 Lectures
 
-[Video analytics : H4 ]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-va-readme.md %})
+* [Video analytics : H4 ]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-va-readme.md %})
 
-[Algorithmic Game Theory]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-agt-readme.md %})
+* [Algorithmic Game Theory]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-agt-readme.md %})
 
-[Foundations in Data Science]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-fds-readme.md %})
+* [Foundations in Data Science]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-fds-readme.md %})
 
-[Humanoid Robots]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-hr-readme.md %})
+* [Humanoid Robots]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-hr-readme.md %})
 
-[Computer Vision 2]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-cv2-readme.md %})
+* [Computer Vision 2]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-cv2-readme.md %})
 
-[Robot Learning]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-rl-readme.md %})
+* [Robot Learning]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-rl-readme.md %})
 
-[Network Security]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-nw-sec-readme.md %})
+* [Network Security]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-nw-sec-readme.md %})
 
-[IT Security]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-its-readme.md %})
+* [IT Security]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-its-readme.md %})
 
-TODO
+* [Advanced Sensor Data Fusion]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-sdf-ds-readme.md %})
 
-* [Advanced Sensor Data Fusion]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-agt-readme.md %})
-
-* [Dynamically Reconfigurable Systems]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-agt-readme.md %})
+* [Dynamically Reconfigurable Systems]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-drcs-readme.md %})
