@@ -22,19 +22,13 @@ modified: 2019-04-01T14:11:53-04:00
 
 Important Dates :
 
+Apr 4 : Game Jam Tutorial
+
 Apr 11-12 : CS Game Jam
 
 Apr 26 : Avengers End Game
 
-
-
-
-
-https://gsg.informatik.uni-bonn.de/doku.php?id=en:vpn:linux
-
-https://gsg.informatik.uni-bonn.de/doku.php?id=en:vpn:windows
-
-https://gsg.informatik.uni-bonn.de/doku.php?id=en:vpn
+Apr 26 : Summer Semester Trip
 
 
 
