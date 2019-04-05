@@ -2,10 +2,10 @@
 layout: post
 title: "Mindshare with the Liquidator"
 excerpt: "seeing things as they are"
-categories: heroes
-tags: [ heroes ]
+categories: convo
+tags: [ convo ]
 
-date: 2019-03-18T08:08:50-04:00
+date: 2019-04-05T08:08:50-04:00
 
 ---
 
