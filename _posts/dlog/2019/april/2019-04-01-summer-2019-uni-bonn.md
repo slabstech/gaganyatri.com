@@ -4,11 +4,15 @@ title: Summer 2019 Uni Bonn
 excerpt: "Classes to Learn from"
 categories: TODO
 tags: [ TODO ]
-modified: 2019-04-01T14:11:53-04:00
+modified: 2019-04-07T14:11:53-04:00
 ---
 
 
+April
 
+* SkateBoarding
+* Basketball
+* Books
 
 | Time | Monday : Montag | Tuesday : Dienstag | Wednesday : Mittwoch | Thursday : Donnerstag | Friday : Freitag | Saturday : Samstag| Sunday : Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
@@ -17,12 +21,14 @@ modified: 2019-04-01T14:11:53-04:00
 | 12-14 | Foundations in Data Science 0.109| Dynamically Reconfigurable Systems : H4 | Algorithmic Game Theory : H3 |Exercise Algorithmic Game Theory : H3|Video analytics Tutorials||
 | 14-16 | Exercise : Foundations in Data Science 0.109| Robot Learning : H7 ||Advanced Sensor Data Fusion|||
 | 16-18 |||Exercise : Network Security| Exercise : Robot Learning |||
-| 18-19 | Basketball : Buschdorf| | Network Security ||||
+| 18-19 | | | Network Security ||||
+
+
 
 
 Important Dates :
 
-Apr 4 : Game Jam Tutorial
+Apr 11 : ADFC Cycle Meet
 
 Apr 11-12 : CS Game Jam
 
@@ -30,6 +36,7 @@ Apr 26 : Avengers End Game
 
 Apr 26 : Summer Semester Trip
 
+May 12 : Free Biking Tour Bonn
 
 
 Lectures
@@ -53,3 +60,9 @@ Lectures
 * [Advanced Sensor Data Fusion]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-sdf-ds-readme.md %})
 
 * [Dynamically Reconfigurable Systems]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-drcs-readme.md %})
+
+
+
+* Past Events
+
+  * Apr 4 : Game Jam Tutorial
