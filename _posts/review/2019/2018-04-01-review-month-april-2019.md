@@ -14,6 +14,12 @@ date: 2019-04-01T08:08:50-04:00
 
     * [Summer 2019 Schedule]({{ site.baseurl }}{% link _posts/dlog/2019/april/2019-04-01-summer-2019-uni-bonn.md %})
 
+    * [Art and Science]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-08-art-and-science.md %})
+
+  * April
+
+    * [Week 2 Schedule]({{ site.baseurl }}{% link _posts/dlog/2019/april/2019-04-08-april-week2-apr8-14-2019.md %}) 
+
   * Supporters
     * [April Investors]({{ site.baseurl }}{% link _posts/support/2019-05-06-supporters-apr-2019.md  %})
 
@@ -22,7 +28,7 @@ date: 2019-04-01T08:08:50-04:00
 
     * [Uttarayana Agamana]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-05-uttarayna-agamana-spring.md %})
 
-    * [Nature's Morning Playlist ]({{ site.baseurl }}{% link _posts\blog\2019\self\april\2019-04-08-early-morning-playlist.md  %})
+    * [Nature's Morning Playlist ]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-08-early-morning-playlist.md  %})
 
 
   * Exp56
