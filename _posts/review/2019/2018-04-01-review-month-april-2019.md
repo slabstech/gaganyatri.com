@@ -35,15 +35,15 @@ date: 2019-04-01T08:08:50-04:00
     * [No Mobile Phones]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-10-next-frontier-no-mobile.md  %})
 
   * Exp56
-    * [Reaching for the Stars]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-05-exp-dy167.md  %})
+    * [Reaching for the Stars]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-05-exp-dy167.md  %})
 
-    * [Lakshmi and Saraswati]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-05-exp-dy167_1.md  %})
+    * [Lakshmi and Saraswati]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-05-exp-dy167_1.md  %})
 
-    * [Soar Like Eagles]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-08-exp-dy170.md  %})
+    * [Soar Like Eagles]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-08-exp-dy170.md  %})
 
-    * [Share a Light]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-08-exp-dy174.md  %})
+    * [Share a Light]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-12-exp-dy174.md  %})
 
-    * [It Aint Love]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-08-exp-dy177.md  %})
+    * [It Aint Love]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-15-exp-dy177.md  %})
 
   * Dialogs
     * [Mindshare with Liquidator]({{ site.baseurl }}{% link _posts/convo/2019-04-05-mindshare-with-the-liquidator-.md %})
