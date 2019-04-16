@@ -24,6 +24,20 @@ GY : Week 5
 <br>
 April 12 2019
 <br>
+
+
+<ul class="post-list">
+{% for post in site.categories.review limit:1 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
+<ul class="post-list">
+{% for post in site.categories.TODO limit:2 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
+
+
 <!--
 
 <h5>
@@ -42,11 +56,6 @@ Schedule for April - July 2019
 </h6>
 
 
-<ul class="post-list">
-{% for post in site.categories.TODO limit:2 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
 
 
 <h6>
@@ -55,9 +64,4 @@ Lessons from experiences
 
 
 
-<ul class="post-list">
-{% for post in site.categories.review limit:3 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
 -->

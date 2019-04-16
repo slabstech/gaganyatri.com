@@ -20,6 +20,8 @@ date: 2019-04-01T08:08:50-04:00
 
     * [Week 2 Schedule]({{ site.baseurl }}{% link _posts/dlog/2019/april/2019-04-08-april-week2-apr8-14-2019.md %})
 
+    * [Week 3 Schedule]({{ site.baseurl }}{% link _posts/dlog/2019/april/2019-04-08-april-week3-apr16-23-2019.md %})
+
   * Supporters
     * [April Investors]({{ site.baseurl }}{% link _posts/support/2019-05-06-supporters-apr-2019.md  %})
 
@@ -32,8 +34,6 @@ date: 2019-04-01T08:08:50-04:00
 
     * [No Mobile Phones]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-10-next-frontier-no-mobile.md  %})
 
-
-
   * Exp56
     * [Reaching for the Stars]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-05-exp-dy167.md  %})
 
@@ -41,10 +41,16 @@ date: 2019-04-01T08:08:50-04:00
 
     * [Soar Like Eagles]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-08-exp-dy170.md  %})
 
+    * [Share a Light]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-08-exp-dy174.md  %})
+
+    * [It Aint Love]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-05-08-exp-dy177.md  %})
+
   * Dialogs
     * [Mindshare with Liquidator]({{ site.baseurl }}{% link _posts/convo/2019-04-05-mindshare-with-the-liquidator-.md %})
 
     * [cataclysm if not MS]({{ site.baseurl }}{% link _posts/dialogs/2019/april/2019-04-06-dialog-with-mom_01.md  %})
+
+    * [Going Alone]({{ site.baseurl }}{% link _posts/dialogs/2019/april/2019-04-15-dialog-with-liquidator-going-alone.md  %})
 
   * Heroes
     * [Liquidator]({{ site.baseurl }}{% link _posts/heroes/2019-04-05-the-liquidator.md %})
