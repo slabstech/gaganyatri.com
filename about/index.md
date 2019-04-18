@@ -19,4 +19,6 @@ Trying to make sense of AI research (inspired by SuperIntelligence , book by Nic
 
 This site is a sneak peek into the work i do and everything else.
 
+[Curriculum Vitae]({{ site.baseurl }}{% link _posts/docs/2019-04-18-curriculum-vitae.md  %})
+
 <img src="https://res.cloudinary.com/websachinshetty/image/upload/v1538374035/myblog/site/aboutimage.jpg" >
