@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Summer 2019 Uni Bonn
-excerpt: "Classes to Learn from"
-categories: TODO
-tags: [ TODO ]
+title: Summer 2019 at Uni Bonn
+excerpt: "6 months plan April to September"
+categories: plan
+tags: [ plan ]
 modified: 2019-04-07T14:11:53-04:00
 ---
 
 
-April
+
 
 * SkateBoarding
 * Basketball
