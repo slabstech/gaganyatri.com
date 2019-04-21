@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: gaganyatri
-  email: info@slabs.tech
+  email: ""
   twitter: gaganyatri
   github: slabstech
   stackexchange: #http://stackoverflow.com/users/123456/username
