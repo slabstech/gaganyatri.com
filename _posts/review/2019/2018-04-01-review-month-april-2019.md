@@ -44,6 +44,14 @@ date: 2019-04-01T08:08:50-04:00
 
     * [It Aint Love]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-15-exp-dy177.md  %})
 
+    * [Welcome Back Eleanor]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-16-exp-dy178_1.md  %})
+
+    * [Nothing is Permanent]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-16-exp-dy178_2.md  %})
+
+    * [Gimli : Certainty of Death]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-19-exp-dy181.md  %})
+
+    * [When She is ..]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-21-exp-dy183.md  %})
+
   * Dialogs
     * [Mindshare with Liquidator]({{ site.baseurl }}{% link _posts/convo/2019-04-05-mindshare-with-the-liquidator-.md %})
 

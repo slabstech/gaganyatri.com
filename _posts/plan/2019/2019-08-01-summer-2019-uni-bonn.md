@@ -4,7 +4,7 @@ title: Summer 2019 at Uni Bonn
 excerpt: "6 months plan April to September"
 categories: plan
 tags: [ plan ]
-modified: 2019-04-07T14:11:53-04:00
+modified: 2019-08-07T14:11:53-04:00
 ---
 
 * SkateBoarding
