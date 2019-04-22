@@ -7,10 +7,13 @@ tags: [ plan ]
 modified: 2019-08-07T14:11:53-04:00
 ---
 
+#### New Adventure
 * SkateBoarding
 * Basketball
 * Books
 
+
+#### Uni Time Table
 | Time | Monday : Montag | Tuesday : Dienstag | Wednesday : Mittwoch | Thursday : Donnerstag | Friday : Freitag | Saturday : Samstag| Sunday : Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 8-10 | Video analytics | Humanoid Robots H7 |  | Humanoid Robots H7 ||||
@@ -20,18 +23,15 @@ modified: 2019-08-07T14:11:53-04:00
 | 16-18 |||Exercise : Network Security| Exercise : Robot Learning |||
 | 18-19 | | | Network Security ||||
 
+###### Important Dates :
 
-Important Dates :
+* Apr 26 : Avengers End Game
 
+* Apr 26 : Summer Semester Trip
 
-Apr 26 : Avengers End Game
+* May 12 : Free Biking Tour Bonn
 
-Apr 26 : Summer Semester Trip
-
-May 12 : Free Biking Tour Bonn
-
-
-Lectures
+##### Lectures
 
 * [Video analytics : H3 ]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-va-readme.md %})
 
@@ -46,7 +46,7 @@ Lectures
 * [Usable Security]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-us-sec-readme.md %})
 
 
-* Past Events
+###### Past Events
 
   * Apr 4 : Game Jam Tutorial
   * Apr 11 : ADFC Cycle Meet

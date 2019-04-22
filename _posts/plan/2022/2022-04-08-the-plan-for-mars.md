@@ -8,7 +8,7 @@ modified: 2022-04-08T14:11:53-04:00
 ---
 
 
-The Plan For Mars
+The Plan to Occupy Mars
 
 * IronMan for endurance
 
