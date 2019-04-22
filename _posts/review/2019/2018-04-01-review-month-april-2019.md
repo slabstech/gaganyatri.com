@@ -15,6 +15,9 @@ date: 2019-04-01T08:08:50-04:00
 
     * [Art and Science]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-08-art-and-science.md %})
 
+  * Books
+    * [Karma]({{ site.baseurl }}{% link _posts/books/publish/2019-04-22-karma.md  %})
+
   * April
 
     * [Week 2 Schedule]({{ site.baseurl }}{% link _posts/plan/2019/april/2019-04-08-april-week2-apr8-14-2019.md %})
