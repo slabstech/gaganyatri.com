@@ -4,7 +4,7 @@ title: Super Intelligence - Paths, Dangers, Strategies
 excerpt: "Book review of the Amazing book on Artificial Intelligence"
 modified: 2016-06-01T14:17:25-04:00
 categories: books
-tags: [ books, artificial-intelligence, non-fiction ]
+tags: [ books ]
 
 ---
 
