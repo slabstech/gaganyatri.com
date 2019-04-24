@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Curriculum Vitae"
 excerpt: "Future scope, Experience and Achievements in one page"
 categories: cv
@@ -10,11 +10,11 @@ date: 2019-04-18T08:08:50-04:00
 ---
 
 
-# <center> Sachin Suresh Shetty </center>
+### <center> Sachin Suresh Shetty </center>
 
-#### <center> Web: [https://gaganyatri.com](https://gaganyatri.com)  , github: sachinsshetty </center>
+ <center> Web: https://gaganyatri.com  , github: sachinsshetty </center>
 
-#### <center> Email: sachinsshetty(at)uni-bonn(dot)de</center>
+center> Email: sachinsshetty(at)uni-bonn(dot)de</center>
 
 
 <br>
@@ -29,19 +29,19 @@ date: 2019-04-18T08:08:50-04:00
 
 
 * Games developed : 2
-  * Haven : https://github.com/slabstech/haven
-  * Dont Eat (Me) : https://github.com/sachinsshetty/tasty-assassin
+  * Haven : [github](https://github.com/slabstech/haven)
+  * Dont Eat (Me) : [github](https://github.com/slabstech/tasty-assassin)  , [pcbrowser](https://slabs.tech/tasty-assassin/)
 
 
 * Android Apps : 3 :
   [Play Store Link](https://play.google.com/store/apps/developer?id=slabs+tech)  
 
-* Currently pursuing Computer Science with focus on Robotics at University of Bonn, Germany
+* Currently pursuing Computer Science with focus on Robotics at University of Bonn, Germany from October 2018
 
-* 5 months Full Stack Engineer at EFI India Pvt. Ltd. Bangalore
+* 5 months Full Stack Engineer at EFI India Pvt. Ltd. Bangalore : May 2018 : October 2018
 
-* 1 year Research Assistant at KLE Tech University, Hubballi
+* 1 year Research Assistant at KLE Tech University, Hubballi : May 2017 : April 2018
 
-* 3.8 years Full Stack Engineer at Subex Ltd. Bangalore
+* 3.8 years Full Stack Engineer at Subex Ltd. Bangalore : September 2013 : April 2017
 
 * Completed Engineering degree in Information Science and Engineering stream at BVBCET, Hubli with a CGPA OF 8.55

@@ -14,14 +14,14 @@ modified: 2019-08-07T14:11:53-04:00
 
 
 #### Uni Time Table
-| Time | Monday : Montag | Tuesday : Dienstag | Wednesday : Mittwoch | Thursday : Donnerstag | Friday : Freitag | Saturday : Samstag| Sunday : Sonntag |
+| Time | Monday : Montag | Tuesday : Dienstag | Wednesday : Mittwoch | Thursday : Donnerstag | Friday : Freitag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
-| 8-10 | Video analytics | Humanoid Robots  |                       | Humanoid Robots         |                 |                   |                      |
-| 10-12 |               | Usable Security   | Computer Vision 2      |                        | Computer Vision 2 |                   |                     |
-| 12-14 |               |                   |                         |                       |Video An Tutorials|                  |                     |
-| 14-16 |               | Robot Learning |                          |Advanced Sensor Data Fusion|                 |                |                |
-| 16-18 |               |                 |Exercise : Net Sec     | Exe : Robot Learning      |                   |                |                     |
-| 18-19 |               |                  | Network Security     |                       |                     |                     |                     |
+| 8-10 | Video analytics | Humanoid Robots  |                       | Humanoid Robots         |                 |
+| 10-12 |               | Usable Security   | Computer Vision 2      |                        | Computer Vision 2 |
+| 12-14 |               |                   |                         |                       |Video An Tutorials|
+| 14-16 |               | Robot Learning |                          |Advanced Sensor Data Fusion|                 |
+| 16-18 |               |                 |Exercise : Net Sec     | Exe : Robot Learning      |                   |
+| 18-19 |               |                  | Network Security     |                       |                     |  
 
 ###### Important Dates :
 
