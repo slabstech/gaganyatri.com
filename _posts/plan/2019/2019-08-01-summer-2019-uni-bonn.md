@@ -16,12 +16,12 @@ modified: 2019-08-07T14:11:53-04:00
 #### Uni Time Table
 | Time | Monday : Montag | Tuesday : Dienstag | Wednesday : Mittwoch | Thursday : Donnerstag | Friday : Freitag | Saturday : Samstag| Sunday : Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
-| 8-10 | Video analytics | Humanoid Robots H7 |  | Humanoid Robots H7 ||||
-| 10-12 |  | Usable Security and Practice | Computer Vision 2 |  | Computer Vision 2 ||
-| 12-14 | | | | |Video analytics Tutorials||
-| 14-16 | | Robot Learning : H7 ||Advanced Sensor Data Fusion|||
-| 16-18 |||Exercise : Network Security| Exercise : Robot Learning |||
-| 18-19 | | | Network Security ||||
+| 8-10 | Video analytics | Humanoid Robots  |                       | Humanoid Robots         |                 |                   |                      |
+| 10-12 |               | Usable Security   | Computer Vision 2      |                        | Computer Vision 2 |                   |                     |
+| 12-14 |               |                   |                         |                       |Video An Tutorials|                  |                     |
+| 14-16 |               | Robot Learning |                          |Advanced Sensor Data Fusion|                 |                |                |
+| 16-18 |               |                 |Exercise : Net Sec     | Exe : Robot Learning      |                   |                |                     |
+| 18-19 |               |                  | Network Security     |                       |                     |                     |                     |
 
 ###### Important Dates :
 
