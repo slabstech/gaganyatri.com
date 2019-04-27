@@ -2,8 +2,8 @@
 layout: post
 title: "Mindshare with the Liquidator"
 excerpt: "seeing things as they are"
-categories: convo
-tags: [ convo ]
+categories: dialogs
+tags: [ dialogs ]
 
 date: 2019-04-05T08:08:50-04:00
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Going Alone"
 excerpt: "Philosophy with Liquidator"
-categories: thought
+categories: dialogs
 tags: [ dialogs ]
 
 date: 2019-04-15T08:08:50-04:00

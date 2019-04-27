@@ -23,13 +23,6 @@ modified: 2019-08-07T14:11:53-04:00
 | 16-18 |               |                 |Exercise : Net Sec     | Exe : Robot Learning      |                   |
 | 18-19 |               |                  | Network Security     |                       |                     |  
 
-###### Important Dates :
-
-* Apr 26 : Avengers End Game
-
-* Apr 26 : Summer Semester Trip
-
-* May 12 : Free Biking Tour Bonn
 
 ##### Lectures
 
@@ -45,9 +38,14 @@ modified: 2019-08-07T14:11:53-04:00
 
 * [Usable Security]({{ site.baseurl }}{% link _posts/uni/ss19/2019-04-03-us-sec-readme.md %})
 
+###### Important Dates :
+
+* May 12 : Free Biking Tour Bonn
 
 ###### Past Events
 
   * Apr 4 : Game Jam Tutorial
   * Apr 11 : ADFC Cycle Meet
   * Apr 11-12 : CS Game Jam
+  * Apr 26 : Avengers End Game  
+  * Apr 26 : Summer Semester Trip

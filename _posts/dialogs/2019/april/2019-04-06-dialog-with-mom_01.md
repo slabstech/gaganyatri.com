@@ -2,7 +2,7 @@
 layout: post
 title: "Dialogs with Mom"
 excerpt: "cataclysm"
-categories: thought
+categories: dialogs
 tags: [ dialogs ]
 
 date: 2019-04-06T08:08:50-04:00
