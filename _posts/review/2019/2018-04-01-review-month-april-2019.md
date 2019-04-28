@@ -27,6 +27,7 @@ date: 2019-04-01T08:08:50-04:00
 | | [Uttarayana Agamana]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-05-uttarayna-agamana-spring.md %}) |
 | | [Nature's Morning Playlist]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-08-early-morning-playlist.md  %}) |
 | | [No Mobile Phones]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-10-next-frontier-no-mobile.md  %}) |
+| | [Treating a Woman]({{ site.baseurl }}{% link _posts/blog/2019/self/april/2019-04-28-treating-a-woman.md  %}) |
 | Exp56 |[Reaching for the Stars]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-05-exp-dy167.md  %}) |
 | | [Lakshmi and Saraswati]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-05-exp-dy167_1.md  %}) |
 | | [Soar Like Eagles]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-08-exp-dy170.md  %}) |
@@ -46,6 +47,9 @@ date: 2019-04-01T08:08:50-04:00
 || [One Life]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-24-exp-dy186_3.md  %})|
 || [Everyday Punches]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-26-exp-dy188.md  %})|
 || [Whatever It Takes]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-27-exp-dy189.md  %})|
+|| [Null Pointer Expectation]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-27-exp-dy189_1.md  %})|
+|| [Speck of Star Dust]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-28-exp-dy190_1.md  %})|
+|| [Happiness whenver i go]({{ site.baseurl }}{% link _posts/exp56/2019/april/2019-04-28-exp-dy190.md  %})|
 | Dialogs | [Mindshare with Liquidator]({{ site.baseurl }}{% link _posts/convo/2019-04-05-mindshare-with-the-liquidator-.md %}) |
 | | [cataclysm if not MS]({{ site.baseurl }}{% link _posts/dialogs/2019/april/2019-04-06-dialog-with-mom_01.md  %}) |
 | | [Going Alone]({{ site.baseurl }}{% link _posts/dialogs/2019/april/2019-04-15-dialog-with-liquidator-going-alone.md  %}) |
