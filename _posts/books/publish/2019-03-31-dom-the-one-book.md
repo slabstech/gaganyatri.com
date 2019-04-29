@@ -12,9 +12,9 @@ Dom
 
 The One ?
 
-<!--
-* Amazon Ebook [buy book](https://amzn.to/2FJYONr)
--->
+
+* Amazon Ebook [buy book](https://amzn.to/2ZIuRFs)
+
 * Online Free Google Doc
 [Read Online](https://docs.google.com/document/d/1hO85NirhDInJz1AtzidgSGDxvf4zmKGc0EOJy6d9AJw/edit?usp=sharing)
 
