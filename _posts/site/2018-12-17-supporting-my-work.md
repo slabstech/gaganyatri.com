@@ -2,22 +2,20 @@
 layout: page
 title: "Support My Writing"
 excerpt: " Like what i write and want me to continue "
-categories: blog
+categories: site
 tags: [ donate ]
-image:
-  feature:
 date: 2018-12-17T08:08:50-04:00
 
 ---
 
-If you like what i write and want me to continue my writing.
+The work of art is supported by the [S Labs Foundation](https://slabs.tech/art/)
 
+If you like what i write and want me to continue my writing.
 
 You can support me in two ways
 
 - Connect
 - Donate
-
 
 #### Connect
 
@@ -37,9 +35,7 @@ So that it can help me give more time to writing and not make me starve for doin
 
 Below are the options
 - Patreon :  [gaganyatri](https://www.patreon.com/gaganyatri)
-- Upi : sachin.shetty@axisbank
-- Paypal : [link](https://www.paypal.me/sachinsshetty)
-- Gift items from my amazon wishlist : [wishlist](https://www.amazon.in/hz/wishlist/dl/invite/h5ET1qg) 
+- Gift items from my amazon wishlist : [wishlist](https://www.amazon.in/hz/wishlist/dl/invite/h5ET1qg)
 
 Please note that the amount is not refundable and you are sending the amount on
 your own to support my writing.
