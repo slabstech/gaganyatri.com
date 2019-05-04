@@ -18,5 +18,44 @@ search_omit: true
 <center>.... Teddy Roosevelt</center>
 
 <br><br>
-<center><a href="https://www.instagram.com/gaganyatri/" <title> Recreation of KÖLN Dom </title></center>
+
+
+<center>I did not go through</center>
+
+<center>Struggles of</center>
+
+<center>college education</center>
+
+<center>back breaking office work</center>
+
+<center>life's curlers</center>
+
+<center>To fall into the trap</center>
+
+<center>of Marriage and unnecessary responsibility</center>
+
+<center>To make another human go</center>
+
+<center>through the same life's charades</center>
+
+<center>with / without my shadow lurking</center>
+
+<center>I have my dreams to pursue</center>
+
+<center>Nothing else matters</center>
+
 <br><br>
+<center>Your the Fuel</center>
+
+<center>To my fire</center>
+
+<center>Don't (Can't Let You to) come close</center>
+
+<center>We will light up brightly than a million suns</center>
+
+
+<ul class="post-list">
+{% for post in site.categories.review  %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
