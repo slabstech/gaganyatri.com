@@ -42,10 +42,12 @@ modified: 2019-08-07T14:11:53-04:00
 
 * May 12 : Free Biking Tour Bonn
 
+* June 18 : Bryan Adams Tour : Oberhausen
+
+* Sep 14-15 : DTM Nurburgring Race
+
 ###### Past Events
 
   * Apr 4 : Game Jam Tutorial
-  * Apr 11 : ADFC Cycle Meet
   * Apr 11-12 : CS Game Jam
   * Apr 26 : Avengers End Game  
-  * Apr 26 : Summer Semester Trip

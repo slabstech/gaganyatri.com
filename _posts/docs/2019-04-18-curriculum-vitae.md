@@ -5,16 +5,16 @@ excerpt: "Future scope, Experience and Achievements in one page"
 categories: cv
 tags: [ cv ]
 
-date: 2019-04-18T08:08:50-04:00
+date: 2019-05-05T08:08:50-04:00
 
 ---
 
 
 ### <center> Sachin Suresh Shetty </center>
 
- <center> Web: https://gaganyatri.com  , github: sachinsshetty </center>
+<center> Web: https://gaganyatri.com  , github: sachinsshetty </center>
 
-center> Email: sachinsshetty(at)uni-bonn(dot)de</center>
+<center> Email: sachinsshetty.de(at)gmail(dot)com</center>
 
 
 <br>
@@ -38,10 +38,6 @@ center> Email: sachinsshetty(at)uni-bonn(dot)de</center>
 
 * Currently pursuing Computer Science with focus on Robotics at University of Bonn, Germany from October 2018
 
-* 5 months Full Stack Engineer at EFI India Pvt. Ltd. Bangalore : May 2018 : October 2018
+* 4 Years Industry Experience in Telecommunication and Printing at Subex and EFI.
 
-* 1 year Research Assistant at KLE Tech University, Hubballi : May 2017 : April 2018
-
-* 3.8 years Full Stack Engineer at Subex Ltd. Bangalore : September 2013 : April 2017
-
-* Completed Engineering degree in Information Science and Engineering stream at BVBCET, Hubli with a CGPA OF 8.55
+* 1 year Research Experience at KLE Tech University
