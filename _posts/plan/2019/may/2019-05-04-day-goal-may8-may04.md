@@ -4,7 +4,7 @@ title: "Day Goal - May 04 2019"
 excerpt: "one by one"
 categories: plan
 tags: [ plan ]
-modified: 2019-05-08T15:11:53-04:00
+modified: 2019-05-04T15:11:53-04:00
 ---
 
 
