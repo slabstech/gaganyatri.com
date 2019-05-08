@@ -14,9 +14,9 @@ modified: 2019-08-07T14:11:53-04:00
 
 
 #### Uni Time Table
-| Time | Monday : Montag | Tuesday : Dienstag | Wednesday : Mittwoch | Thursday : Donnerstag | Friday : Freitag | Saturday : Samstag | Sunday : Sonntag |
+| Time | Monntag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
-| 4:00  | Wake up       | Wake up             | Wake up             | Wake up                | Wake up          |  Wake up          | Wake up           |
+| 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 |       |       |         |                   |                       |                     |                   |                    |                 |
 |       |       |         |                   |                       |                     |                   |                    |                 |
 |       |       |         |                   |                       |                     |                   |                    |                 |
@@ -30,7 +30,7 @@ modified: 2019-08-07T14:11:53-04:00
 | 14-16 |               | Robot Learning |                          |Advanced Sensor Data Fusion|                 |                 |                 |
 | 16-18 |               |                 |Exercise : Net Sec     | Exe : Robot Learning      |                   |                 |                 |
 | 18-19 |               |                  | Network Security     |                       |                     |                   |                  |
-| 00:00 |    Sleep      |  Sleep          |  Sleep                 |  Sleep                   | Sleep             |  Sleep           |Sleep             |
+| 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
 
 ##### Lectures
