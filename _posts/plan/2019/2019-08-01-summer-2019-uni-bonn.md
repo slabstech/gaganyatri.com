@@ -12,18 +12,28 @@ modified: 2019-08-07T14:11:53-04:00
 * Basketball
 * Books
 
+## Time
+
+
+* 7 * 24 = 168 : Total Hrs Available
+* 7 * 6  = 42  : Minimum sleep
+* 5 * 2  = 10  : Travel - College == Home
+* 7 * 2  = 14  : Getting Ready + Cleanup
+* 7 * 2.5 = 17.5   : Cooking + Eating
+* 7 * 1   = 7   : Minimum Exercise + Meditation
+
+90.5 h : Total Non Study time
+
+168 - 90.5 = 77.5 Time for TODO
+
+
+77.5 / 7 = 11 h Per Day
+
 
 #### Uni Time Table
 | Time | Monntag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
-|       |       |         |                   |                       |                     |                   |                    |                 |
-|       |       |         |                   |                       |                     |                   |                    |                 |
-|       |       |         |                   |                       |                     |                   |                    |                 |
-|       |       |         |                   |                       |                     |                   |                    |                 |
-|       |       |         |                   |                       |                     |                   |                    |                 |
-|       |       |         |                   |                       |                     |                   |                    |                 |
-|       |       |         |                   |                       |                     |                   |                    |                 |
 | 8-10 | Video analytics | Humanoid Robots  |                       | Humanoid Robots         |                 |                   |                 |
 | 10-12 |               | Usable Security   | Computer Vision 2      |                        | Computer Vision 2 |                 |                 |
 | 12-14 |               |                   |                         |                       |Video An Tutorials|                  |                 |
