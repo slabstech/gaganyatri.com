@@ -27,3 +27,5 @@ date: 2019-05-04T08:08:50-04:00
 |      |[iPhone and No Phone]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-06-exp-dy198_1.md %})|
 |      |[All Space]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-06-exp-dy198_2.md %})|
 |      |[When ur 1st Girl]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-06-exp-dy198_3.md %})|
+|      |[End of Line]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-08-exp-dy200.md %}))
+|      |[Another Restart]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-08-exp-dy200_1.md %}))
