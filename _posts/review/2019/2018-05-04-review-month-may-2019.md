@@ -16,6 +16,8 @@ date: 2019-05-04T08:08:50-04:00
 |      |[Week6 May 8 -15]({{ site.baseurl }}{% link _posts/plan/2019/may/2019-05-08-week6-may8-may15-2019.md  %})|
 |      |[Day Goal 04]({{ site.baseurl }}{% link _posts/plan/2019/may/2019-05-04-day-goal-may8-may04.md %})|
 |      |[Day Goal 06]({{ site.baseurl }}{% link _posts/plan/2019/may/2019-05-06-day-goal-may06.md %})|
+|      |[Sahana]({{ site.baseurl }}{% link _posts/plan/next/2019-05-08-sahana.md %})|
+|      |[Zuha]({{ site.baseurl }}{% link _posts/plan/next/2019-05-08-zuha.md %})|
 |Exp56 |[ The Epitah ]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-01-exp-dy193_1.md %})|
 |      |[You Always have a choice]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-01-exp-dy193_2.md %})|
 |      |[Life will be life again]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-01-exp-dy193.md  %})|
@@ -29,3 +31,4 @@ date: 2019-05-04T08:08:50-04:00
 |      |[When ur 1st Girl]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-06-exp-dy198_3.md %})|
 |      |[End of Line]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-08-exp-dy200.md %}))
 |      |[Another Restart]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-08-exp-dy200_1.md %}))
+|      |[6 Degrees of Freedom]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-09-exp-dy201.md %}))

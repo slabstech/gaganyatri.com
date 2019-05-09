@@ -31,7 +31,9 @@ modified: 2019-08-07T14:11:53-04:00
 
 
 #### Uni Time Table
-| Time | Monntag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag |
+
+
+| Time | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | Video analytics | Humanoid Robots  |                       | Humanoid Robots         |                 |                   |                 |
