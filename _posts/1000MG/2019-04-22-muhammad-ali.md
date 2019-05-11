@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "M. Ali Inspiration"
-excerpt: "The Best There Ever Will Be"
+title: "1000 MG Dose"
+excerpt: "Learning from the Best"
 categories: 1000MG
 tags: [ 1000MG ]
-date: 2019-04-22T08:08:50-04:00
+date: 2019-05-11T08:08:50-04:00
 
 ---
 
+[Whatever It Takes](https://www.youtube.com/watch?v=gOsM-DYAEhY)
+
+[Connor Notorious McGregor](https://www.youtube.com/watch?v=EU5m4LfqHCI)
 
 [Mulligan Brothers Video](https://www.youtube.com/watch?v=kFhIQ-XEeac)
 
@@ -19,5 +22,8 @@ date: 2019-04-22T08:08:50-04:00
 
 [cr7 the switch](https://www.youtube.com/watch?v=bJ6rctOXSLM)
 
+[Stallone - Rocky](https://www.youtube.com/watch?v=EhvArsT5rgM)
 
-[muhammed ali]](https://www.youtube.com/watch?v=EhvArsT5rgM)
+[Climate Justice ? Watch This](https://www.youtube.com/watch?v=ZyY8yarwI5g)
+
+[Watch Spezzatura of Glen Keane](https://www.youtube.com/watch?v=qL4U9Ygtxh8)
