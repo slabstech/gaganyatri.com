@@ -21,3 +21,5 @@ date: 2019-05-17T08:08:50-04:00
 [python foundations - udacity course](https://eu.udacity.com/course/programming-foundations-with-python--ud036)
 
 [git foundations](https://classroom.udacity.com/courses/ud123)
+
+[yelp challenge](https://www.yelp.com/dataset/challenge)
