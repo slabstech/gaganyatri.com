@@ -10,12 +10,13 @@ date: 2019-05-05T08:08:50-04:00
 ---
 
 
-### <center> Sachin Suresh Shetty </center>
+#### <center> Sachin Suresh Shetty </center>
 
-<center> Web: https://gaganyatri.com  , github: sachinsshetty </center>
+<center> github : [sachinsshetty](https://github.com/sachinsshetty) </center>
 
-<center> Email: sachinsshetty.de(at)gmail(dot)com</center>
+<center> github : [slabstech](https://github.com/slabstech) </center>
 
+<center> Email : sachinsshetty.de(at)gmail(dot)com</center>
 
 <br>
 * Co Founder : S Labs Solutions , [https://slabs.tech](https://slabs.tech)
