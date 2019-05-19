@@ -12,15 +12,17 @@ date: 2019-05-18T08:08:50-04:00
 
 * Objective > 1000 km in Ampler Curt E-bikes
 
-* Route > Round trip  Tannenbusch Mitte, Bonn to Rhein falls, Switzerland:
+* Route > 1090 km : Round trip  Bonn to Rhein falls, Switzerland:
   * Bonn
   * Koblenz
   * Mannheim
+  * Mainz
   * Karlsruhe
   * Strasbourg
   * Freiburg
   * Bonndorf
   * Rhein falls
+
 
 * Duration > 5 days > 200Km  per day
 
@@ -30,6 +32,8 @@ date: 2019-05-18T08:08:50-04:00
   * Jul 19 - Mom's 50th Birthday
   * Preparation > Norseman 2021  
   * Preparation > Mars 2022
+  * Fridays for future
+  * Rad Rhine Weg > follow the Rhein from birth till bonn
 
 
 * Training
@@ -44,7 +48,7 @@ date: 2019-05-18T08:08:50-04:00
   * Rest
     * 2 Days per week
   * Cycle
-    * Rockrider ST 100 / Ampler Curt
+    * Rockrider ST100
   * Diet : ??
 
 
@@ -53,23 +57,51 @@ date: 2019-05-18T08:08:50-04:00
     * Start : Jul 15 2019
     * Complete : Jul 19 2019
   * Cycle
-    * Rockrider ST 100 / Ampler Curt
+    * Ampler Curt
   * Weather ??  
   * Diet : ??
-  * Accommodation : ?
+  * Accommodation :
+    * 15 Jul - Mannheim
+    * 16 Jul - Freiburg in Bresgau
+    * 17 Jul - Strasbourg
+    * 18 Jul - Mainz
 
 * Route
 
 <img src="{{site.baseurl}}/assets/images/ampler-route-google-map.png">
 
+* Day 1 : 223 km
+  * Bonn -> Mannheim
 
-* Additional Resources
-  * [Ampler Bikes](https://amplerbikes.com/en/e-bikes)
+* Day 2 : 226 km
+  * Mannheim -> Freiburg in Bresgau
 
-  * [Challenge](https://amplerbikes.typeform.com/to/XazWFH)
+* Day 3 : 253 km
+  * Freiburg in Bresgau -> Bonndorf -> Rheinfall -> Strasbourg
 
-  * [E Bike Benefits](https://amplerbikes.com/en/ebike-benefits)
+* Day 4 : 227 km
+  * Strasbourg -> Karlsruhe -> Mannheim -> Mainz
 
-  * [E Bike Buying Guide](https://amplerbikes.com/en/ebike-buying-guide)
+* Day 5 : 161 km
+  * Mainz -> Koblenz -> bonn
 
-  * [Motor And electronics](https://amplerbikes.com/en/ebike-motors-and-electronics)
+
+
+* Training Diary
+
+  | Week | Target | Info |
+  |-------|-------|-------|
+  | 1 - May18-24| 25km per day| [Log-week 1]({{ site.baseurl }}{% link _posts/mars/2019/may/ampler/2019-05-18-ampler-log-week1.md %}) |
+
+
+
+  * Additional Resources
+    * [Ampler Bikes](https://amplerbikes.com/en/e-bikes)
+
+    * [Challenge](https://amplerbikes.typeform.com/to/XazWFH)
+
+    * [E Bike Benefits](https://amplerbikes.com/en/ebike-benefits)
+
+    * [E Bike Buying Guide](https://amplerbikes.com/en/ebike-buying-guide)
+
+    * [Motor And electronics](https://amplerbikes.com/en/ebike-motors-and-electronics)
