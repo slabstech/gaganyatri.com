@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: Mars
-  url: /mars/
+- title: Ampler
+  url: /amplper/
+
+#- title: Mars
+#  url: /mars/
 
 
 - title: Books
