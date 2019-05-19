@@ -98,7 +98,7 @@ date: 2019-05-18T08:08:50-04:00
 
   | Week | Target | Info | Status |
   |-------|-------|-------|-------|
-  | 1 - May18-24| 25km per day| [Log-week 1]({{ site.baseurl }}{% link _posts/mars/2019/may/ampler/2019-05-18-ampler-log-week1.md %}) | In-Progress|
+  | 1 - May18-24| 25km per day| [Log-week 1]({{ site.baseurl }}{% link _posts/ampler/may/2019-05-18-ampler-log-week1.md %}) | In-Progress|
 
 
 
