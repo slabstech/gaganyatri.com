@@ -11,6 +11,7 @@ Short Story :
 Long Story :
 
 Hello,
+
 I love tinkering with anything that can be programmed .
 
 I love reading books all day long and write about the places i visit.
@@ -22,6 +23,9 @@ This site is a sneak peek into the work i do and everything else.
 [Curriculum Vitae]({{ site.baseurl }}{% link _posts/docs/2019-04-18-curriculum-vitae.md  %})
 
 [Time Line]({{ site.baseurl }}{% link _posts/docs/2019-05-20-vita-time-line.md  %})
+
+
+[Curriculum Vitae - Extended]({{ site.baseurl }}{% link _posts/docs/2019-04-18-curriculum-vitae-long.md  %})
 
 
 <img src="https://res.cloudinary.com/websachinshetty/image/upload/v1538374035/myblog/site/aboutimage.jpg" >
