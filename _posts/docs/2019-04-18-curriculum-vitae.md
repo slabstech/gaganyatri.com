@@ -37,8 +37,5 @@ date: 2019-05-05T08:08:50-04:00
 * Android Apps : 3 :
   [Play Store Link](https://play.google.com/store/apps/developer?id=slabs+tech)  
 
-* Currently pursuing Computer Science with focus on Robotics at University of Bonn, Germany from October 2018
 
-* 4 Years Industry Experience in Telecommunication and Printing at Subex and EFI.
-
-* 1 year Research Experience at KLE Tech University
+* [Read Full Time Line]({{ site.baseurl }}{% link _posts/docs/2019-05-20-vita-time-line.md %})  
