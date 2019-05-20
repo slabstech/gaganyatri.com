@@ -33,5 +33,5 @@ date: 2019-05-18T08:08:50-04:00
 |-------|-------|-------|-------|
 | 1 : May 18 | 22 km | Tabu -> HBF -> Rheinau -> Rheinufer -> Stadhaus -> Tabu | Complete |
 | 2 : May 19 | 31 km | Tabu -> Grauheindorf  -> Rheinufer -> Konigswinter -> Rheinau -> Hbf -> Tabu | Complete |
-| 3 : May 20 | 22 km |Uni/ fraunhofer| Incomplete|
+| 3 : May 20 | 30 km |Uni/ Fit fraunhofer| Incomplete|
 | 4 : May 21 | 27 km |Uni / Recogizer| Incomplete|
