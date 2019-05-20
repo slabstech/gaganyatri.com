@@ -36,6 +36,3 @@ date: 2019-05-05T08:08:50-04:00
 
 * Android Apps : 3 :
   [Play Store Link](https://play.google.com/store/apps/developer?id=slabs+tech)  
-
-
-* [Read Full Time Line]({{ site.baseurl }}{% link _posts/docs/2019-05-20-vita-time-line.md %})  
