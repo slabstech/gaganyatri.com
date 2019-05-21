@@ -23,3 +23,9 @@ date: 2019-05-17T08:08:50-04:00
 [git foundations](https://classroom.udacity.com/courses/ud123)
 
 [yelp challenge](https://www.yelp.com/dataset/challenge)
+
+[testing](https://realpython.com/python-testing/)
+
+[pathlib](https://realpython.com/python-pathlib/)
+
+[setting up pyspark](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
