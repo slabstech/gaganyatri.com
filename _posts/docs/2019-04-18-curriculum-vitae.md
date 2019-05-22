@@ -12,9 +12,9 @@ date: 2019-05-05T08:08:50-04:00
 
 #### <center> Sachin Suresh Shetty </center>
 
-<center> github : [sachinsshetty](https://github.com/sachinsshetty) </center>
+<center> [https://github.com/sachinsshetty](https://github.com/sachinsshetty) </center>
 
-<center> github : [slabstech](https://github.com/slabstech) </center>
+<center> [https://github.com/slabstech](https://github.com/slabstech) </center>
 
 <center> Email : sachinsshetty.de(at)gmail(dot)com</center>
 

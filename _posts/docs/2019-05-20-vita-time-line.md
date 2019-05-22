@@ -56,3 +56,10 @@ date: 2019-05-19T08:08:50-04:00
 * 2018 - Today - Studying Computer Science M.S at University of Bonn.
 
 * 2019 - Founded - S Labs Solutions
+
+* 2021 - NorseMan finisher *
+
+* 2022 - Mars Liftoff *
+
+
+\* Definitely happening 
