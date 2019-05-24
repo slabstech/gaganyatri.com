@@ -37,3 +37,5 @@ date: 2019-05-18T08:08:50-04:00
 | 3 : May 20 | 30 km |Uni/ Fit fraunhofer _ Rain Washout| Incomplete|
 | 4 : May 21 | 27 km |Uni / Recogizer _ Rain Washout| Incomplete|
 | 5 : May 22 | 30 km | Tabu - Uni - Godesberg - Hbf - Tabu | Complete|
+| 6 : May 22 | 30 km | Tabu | InComplete|
+| 7 : May 22 | 30 km | Tabu - Mondorfer fahre - Urfeld - Wesseling - Tabu | Complete|
