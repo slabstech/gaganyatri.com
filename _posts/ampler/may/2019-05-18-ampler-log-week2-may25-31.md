@@ -33,4 +33,4 @@ date: 2019-05-18T08:08:50-04:00
   * Pedal up - Drachenfells and Godesberg Hill
 | Day | Target | Route | Status |
 |-------|-------|-------|-------|
-| 8 : May 25 | 35 km | Tabu -> HBF -> Rheinau -> Konigswinter -> Stadhaus -> Tabu | Complete |
+| 8 : May 25 | 5 km | Walking - Tabu -> Mondorfer -> Tabu | Complete |
