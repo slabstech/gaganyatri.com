@@ -9,6 +9,8 @@ date: 2019-05-18T08:08:50-04:00
 
 ---
 
+* [Challenge Site](https://amplerbikes.com/en/ampler-challenge-2019)
+
 * Objective > 1000 km in Ampler Curt E-bikes
 
 * Duration > 5 days > 200Km  per day
