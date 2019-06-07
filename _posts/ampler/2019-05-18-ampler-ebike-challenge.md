@@ -2,8 +2,8 @@
 layout: post
 title: "Ampler E Bike Challenge"
 excerpt: "1000km rush"
-categories: ampler
-tags: [ ampler ]
+categories: cycle
+tags: [ cycle ]
 
 date: 2019-05-18T08:08:50-04:00
 
