@@ -24,3 +24,23 @@ date: 2019-06-07T08:08:50-04:00
 * [Material icons](https://material.io/tools/icons/?icon=local_grocery_store&style=outline)
 
 * [Android testing- roboelectric](http://robolectric.org/)
+
+* [tito : test mode](https://ti.to/docs/test_mode)
+
+* [tito : webhook](https://ti.to/docs/webhook)
+
+* [tito : integration](https://ti.to/docs/integrations)
+
+* [CustomListView](https://www.vogella.com/tutorials/AndroidListView/article.html)
+
+* [App Link Indexing](https://developer.android.com/studio/write/app-link-indexing#java)
+
+* [App bundles - Dynamic Delivery](https://developer.android.com/guide/app-bundle)
+
+* [playcore library](https://developer.android.com/guide/app-bundle/playcore)
+
+* [android dynamic features - github](https://github.com/googlesamples/android-dynamic-features)
+
+* [reduce app size](https://developer.android.com/topic/performance/reduce-apk-size)
+
+* [dynamic code loading - github](https://github.com/googlesamples/android-dynamic-code-loading)
