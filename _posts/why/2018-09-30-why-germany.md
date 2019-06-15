@@ -3,9 +3,7 @@ layout: post
 title: "Why Germany"
 excerpt: "My insights for studying MS in Germany "
 categories: why
-tags: [ research ]
-image:
-  feature:
+tags: [ why ]
 date: 2018-09-30T08:08:50-04:00
 
 ---

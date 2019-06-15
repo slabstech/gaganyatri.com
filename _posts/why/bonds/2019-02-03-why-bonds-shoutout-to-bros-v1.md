@@ -3,13 +3,13 @@ layout: page
 title: "To the Bro's of My Life v1"
 excerpt: "the underappreciated in every right "
 categories: why
-tags: [ why bonds ]
+tags: [ why ]
 date: 2019-03-08T08:08:50-04:00
 
 ---
 
 
-In the order of Appearance in my life 
+In the order of Appearance in my life
 
 * Appa
   why mother part 1 : [link]({{ site.baseurl }}{% link _posts/why/bonds/2019-02-01-why-bonds-mother-p1.md %})
@@ -21,11 +21,11 @@ In the order of Appearance in my life
 * Doddappa
 * Gurupad Mama
 * Raju Mama
-* Manju Mama 
+* Manju Mama
 * Kumar Uncle
-* Sridhara Uncle 
-* Kalal Uncle 
-* Harish Uncle 
+* Sridhara Uncle
+* Kalal Uncle
+* Harish Uncle
 .
 .
 .
@@ -34,7 +34,7 @@ In the order of Appearance in my life
 * Motes Sir
 * Gudi Sir
 * Mohan Sir
-* James Sir 
+* James Sir
 * Phadnis Sir
 * Dhule Sir
 * Kittur Sir
@@ -53,7 +53,7 @@ In the order of Appearance in my life
 * Abishek K/D/T/M
 * Sachin S/S/M
 * Rahul R/P
-* Rohit 
+* Rohit
 * Sanket
 * Bharat
 * Gagandeep
@@ -68,5 +68,5 @@ In the order of Appearance in my life
 * Pratik C/B
 * Susheel
 * Dyamappa
-* Karan 
+* Karan
 *

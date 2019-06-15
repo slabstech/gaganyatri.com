@@ -3,7 +3,7 @@ layout: page
 title: "Why Bonds - Father"
 excerpt: "The Life Force Part1"
 categories: why
-tags: [ why bonds ]
+tags: [ why ]
 date: 2019-02-02T08:08:50-04:00
 
 ---
