@@ -17,7 +17,6 @@ date: 2019-05-04T08:08:50-04:00
 |      |[Day Goal 04]({{ site.baseurl }}{% link _posts/plan/2019/may/2019-05-04-day-goal-may8-may04.md %})|
 |      |[Day Goal 06]({{ site.baseurl }}{% link _posts/plan/2019/may/2019-05-06-day-goal-may06.md %})|
 |      |[Sahana]({{ site.baseurl }}{% link _posts/plan/next/2019-05-08-sahana.md %})|
-|      |[Zuha]({{ site.baseurl }}{% link _posts/plan/next/2019-05-08-zuha.md %})|
 |Exp56 |[ The Epitah ]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-01-exp-dy193_1.md %})|
 |      |[You Always have a choice]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-01-exp-dy193_2.md %})|
 |      |[Life will be life again]({{ site.baseurl }}{% link _posts/exp56/2019/may/2019-05-01-exp-dy193.md  %})|
