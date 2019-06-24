@@ -3,8 +3,8 @@ layout: post
 title: "Bengaluru Week Plan"
 excerpt: "Study Tour"
 categories: travels
-tags: [travels ]
-modified: 2000-00-00T14:11:53-04:00
+tags: [ travels ]
+modified: 2019-06-22T14:11:53-04:00
 ---
 
 | Day | Itinerary |
