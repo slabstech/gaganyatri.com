@@ -16,7 +16,7 @@ AA dinagala Kathegalu (Golu ?)
 
 * [Scooping up a Banana Split]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-3.md  %})
 
-* [Helping out with flowers]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-4.md  %})
+* [Help with flowers]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-4.md  %})
 
 * [Prom Night Conundrums]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-5.md  %})
 
