@@ -3,9 +3,7 @@ layout: post
 title: "Gandhian Principle - We should eat to live and work"
 excerpt: "My experiments with Truth"
 categories: why
-tags: [ why gandhi ]
-image:
-  feature:
+tags: [ why ]
 date: 2019-01-28T08:08:50-04:00
 
 ---
