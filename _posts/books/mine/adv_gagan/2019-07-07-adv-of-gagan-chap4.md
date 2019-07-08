@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adventure's Of Sagar, The One
+title: Adventure's Of Gagan, The One
 excerpt: "Chapter Four : Hit and Miss"
 modified: 2016-06-01T14:17:25-04:00
 categories: books
