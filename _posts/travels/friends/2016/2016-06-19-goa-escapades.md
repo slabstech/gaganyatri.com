@@ -3,16 +3,12 @@ layout: post
 title: Goa Escapades
 excerpt: "Mixture of Sun, Sand and Beach"
 categories: travels
-tags: [travels, nature ]
-image:
-  feature: so-simple-sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
-share: true
+tags: [travels ]
+
 modified: 2016-06-01T14:11:53-04:00
 ---
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
+
+
 #### This is what I call last minute jumping into the can.
 Though earlier agenda was to attend marriage and then jump into trip,  it had sidetracked to other work.
 Secretly inside my heart,  I really wanted to join,  well I had to put up a front as I'd visited the place ( dont visit same place twice idea)  with family
@@ -50,5 +46,4 @@ When in goa,  you take a bike  and ride along the picturesque towns,  ull fin
 We were 4 but we took 3 bikes,  actually it was supposed to be 2 bikes,  but on my insistence of riding solo it came to be 3. I did get lost though, it was not exactly fun getting back to friends.
 
 Beach 1 was great,  got tanned under the sun,  plus the food at the beach Shack along with the liquid supplements kept us stuck to the spot for more than 2 hours,
-We were greated to an unusual pleasing sight,  but swiftly it was covered by a disaster and we had to vacate our location
-
+We were greeted to an unusual pleasing sight,  but swiftly it was covered by a disaster and we had to vacate our location

@@ -3,13 +3,7 @@ layout: post
 title: Bekal Journey
 excerpt: "Travel in Gods Own Country"
 categories: travels
-tags: [travels, nature ]
-image:
-  feature: so-simple-sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
-share: true
+tags: [travels ]
 modified: 2016-06-01T14:11:53-04:00
 ---
 

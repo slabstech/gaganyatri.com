@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Vatakanal Memory
+title: "Vatakanal Memory"
 excerpt: "Hill station memories"
 categories: travels
-tags: [travels, nature ]
-comments: true
-share: true
+tags: [travels ]
 modified: 2016-06-01T14:11:53-04:00
 ---
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
-##### Mesmerizing is the word
 The weather was perfect,  turning out all previous predictions into a toss.
 
 Two days of foggy drizzly rain , Time stopped when we were there and now it's a distant memory clawing back to rejoice it again,

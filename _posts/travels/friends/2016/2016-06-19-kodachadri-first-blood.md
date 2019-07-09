@@ -1,19 +1,11 @@
 ---
 layout: post
-title: Kodachadri First Blood
+title: "Kodachadri First Blood"
 excerpt: "First Office Gang Trip"
 categories: travels
-tags: [travels, nature ]
-image:
-  feature: so-simple-sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
-share: true
+tags: [travels]
 modified: 2016-06-01T14:11:53-04:00
 ---
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
-#### This is what I call last minute jumping into the can.
 
 New into professional environment after jump from college,
 Kodachadri was the first trip for our batch, the number of people never reached this high for subsequent trips.
@@ -45,4 +37,3 @@ We stopped to a wayside dhaba for our night course meal .
 Gracing the tables along with us were furry four legged creatures,  during the meal when one of them got close to the table,  a lightning quick action took place,  usually we sit on chairs for meal,  but at this instance one chair was empty and the table was the chair.  Happening simultaneously was someone getting locked in a room after a first high from liquid nutrients .
 That's all from the first trip of our batch,
 Few small excerpts from a totally joyous two day trip
-

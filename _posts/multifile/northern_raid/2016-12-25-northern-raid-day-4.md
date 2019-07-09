@@ -2,10 +2,8 @@
 layout: post
 title: Northern Raid Day 4
 excerpt: "The Story of Dalhousie Winter Trek - Day 1"
-categories: multifile
-tags: [travels, nature ]
-comments: true
-share: true
+categories: travels
+tags: [travels ]
 modified: 2016-06-01T14:11:53-04:00
 ---
 ## Story of the expedition

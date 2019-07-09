@@ -17,4 +17,4 @@ Understanding their way of daily live
 
 One Day at a Time
 
-[The Inspiration : Parvinder chawla](https://www.thebetterindia.com/157282/disabled-friendly-travel-wheelchair-parvinder-chawla/) 
+[The Inspiration : Parvinder chawla](https://www.thebetterindia.com/157282/disabled-friendly-travel-wheelchair-parvinder-chawla/)

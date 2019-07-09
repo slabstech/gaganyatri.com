@@ -2,16 +2,11 @@
 layout: post
 title: Coorg HomeStay
 excerpt: "Weekend travels to Coorg"
-categories: stanyear
-tags: [travels, nature ]
-image:
-  feature: so-simple-sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
-share: true
+categories: travels
+tags: [travels ]
 modified: 2016-06-01T14:11:53-04:00
 ---
+
 <p>Office work was killing us literally, we were tired of daily mundane tasks coming our way and seriously required an outlet. A weekend trip was in the horizon, with the number of people dropping their plans suddenly , the transport changed from a mini-bus to 8seater car to finally, private bus with 5 of us eventually joining. Place agreed upon was Coorg</p>
 <p>The inital idea was to go for the much heard about Tadiyandamol trek, the plan fell into a heap as the bus overshot the stop while we were sleeping in the bus. We ended up getting down in the city bus, with no accomodation reserved we were at the mercy of any place which had vacancies.</p>
 <p>The Rickshaw comment -</p>

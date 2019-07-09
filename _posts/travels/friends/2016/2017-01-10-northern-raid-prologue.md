@@ -3,9 +3,7 @@ layout: post
 title: Northern Raid Prologue
 excerpt: "The Story Before the Trip"
 categories: travels
-tags: [travels, nature ]
-comments: true
-share: true
+tags: [travels ]
 modified: 2016-06-01T14:11:53-04:00
 ---
 
