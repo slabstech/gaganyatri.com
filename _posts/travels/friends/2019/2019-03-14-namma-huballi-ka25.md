@@ -2,8 +2,8 @@
 layout: post
 title: "The HD Tour"
 excerpt: "Namma Hubballi Dharwad Hawa"
-categories: travel
-tags: [ travel ]
+categories: hdtour
+tags: [ hdtour ]
 
 date: 2019-03-14T08:08:50-04:00
 

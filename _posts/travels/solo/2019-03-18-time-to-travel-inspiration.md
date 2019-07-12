@@ -2,7 +2,7 @@
 layout: post
 title: "Time for travel"
 excerpt: "My kind of race"
-categories: blog
+categories: thought
 tags: [ thought ]
 date: 2019-03-18T08:08:50-04:00
 
