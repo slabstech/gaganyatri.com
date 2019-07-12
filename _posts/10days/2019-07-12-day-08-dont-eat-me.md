@@ -9,7 +9,7 @@ date: 2019-07-12T08:08:50-04:00
 
 ---
 
-Every day, do something nre,
+Every day, do something more,
 
 Expand your horizons.
 
@@ -21,7 +21,7 @@ for the heartbeat, zig-zag signifies a healthy life,
 
 A constant, straight line, would be the end as we know it.
 
-What will u do today ? 
+What will u do today ?
 
 ----
 
