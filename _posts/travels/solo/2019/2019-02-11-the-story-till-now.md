@@ -5,7 +5,7 @@ excerpt: "Outline of trips till 11 Feb 2019"
 categories: travels
 tags: [travels]
 
-modified: 2019-02-11T14:11:53-04:00
+modified: 2019-07-13T14:11:53-04:00
 ---
 
 
@@ -17,10 +17,15 @@ modified: 2019-02-11T14:11:53-04:00
 
 * Places
   * 2019
+    * June
+      * Aachen
+      * Oberhausen
+    * May
+      * Brühl, Bleibatgause : Germany
     * Feb
-        * Frankfurt
+      * Frankfurt
     * Jan
-        * Berlin
+      * Berlin
   * 2018
     * Dec
       * Lucerne, Rhine Falls, Zurich : Switzerland
@@ -28,30 +33,48 @@ modified: 2019-02-11T14:11:53-04:00
       * Dusseldorf : Germany
     * Oct
       * Bonn, Cologne : Germany
-    * Sep
-    * Aug
-    * Jul
-    * Jun
-    * May
-    * April
     * Mar
       * Ahmedabad : India
     * Feb
       * New Delhi : India
-    * Jan
   * 2017
-    * Dec
-    * Nov
-    * Oct
-    * Sep
-    * Aug
-    * Jul
-    * Jun
     * May
       * Gokarna : India
-    * April
-    * Mar
-    * Feb
-    * Jan
+  * 2014
+    * Pondicherry
+    
+  * 2012
+      * Kalghatgi
+      * Magod Falls
+      * Mundgod
+      * Bits-Pilani. Goa
+      * Vallikavu, Kerala
+  * 1999
+    * Bombay
+  * 2006
+    * Bijapur
+  * 2004
+    * Bidar
+
+  * 1993-98
+    * Dandeli
+    * Ambikanagar
+    * Mangalore
+    * Singanamakki
+    * Avinahalli
+    * Sagar
+    * Talaguppa
+    * Shimoga
+    * Bankikotala
+  * 1992
+    * Dindigul
+    * Madurai
+    * Ooty
+  * 1991
+    * Bangalore ( Birth :P)
+    * Hubballi
+
+
+
 
 To be updated ...
