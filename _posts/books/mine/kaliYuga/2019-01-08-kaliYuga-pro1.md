@@ -3,8 +3,8 @@ layout: page
 title: Gaganyatri
 excerpt: "KALI 2022"
 modified: 2019-01-19T14:17:25-04:00
-categories: books
-tags: [ books ]
+categories: books-write
+tags: [ books-write ]
 ---
 
 First human to land on the mars,
@@ -48,5 +48,3 @@ Here she is, the embodiment of woman empowerment. Kali was the is the live examp
 
 
 A Few Years ago ...
-
- 

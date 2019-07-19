@@ -3,8 +3,8 @@ layout: page
 title: What i was reading
 excerpt: "Understanding Life"
 modified: 2019-03-25T14:17:25-04:00
-categories: books
-tags: [ books]
+categories: books-todo
+tags: [ books-todo]
 ---
 
 

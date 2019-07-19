@@ -9,14 +9,5 @@ tags: [ books-pub]
 
 Gaganyatri
 
-Voyages of a Space Farer
-
-"Each One, Teach One"
-Nelson Mandela
-
 
 * Amazon Ebook [buy kindle book](https://amzn.to/2CuFTEh)
-
-If you like what i read, Please consider buying the ebook on Amazon
-
-The proceeds will be donated to an NGO to improve education

@@ -10,5 +10,3 @@ tags: [ books-pub]
 * Amazon Ebook [buy Kindle book](https://amzn.to/2FRIt9b)
 
 *  [Online Website](https://connetingthedots.com/)
-
-If you like what i read, Please consider buying the ebook on Amazon

@@ -2,11 +2,8 @@
 layout: post
 title: "One Euro Book"
 excerpt: "Making of the Book"
-categories: blog
-tags: [ travel ]
-image:
-  feature:
-date: 2018-12-23T08:08:50-04:00
+categories: books-read
+tags: [ books-read ]
 
 ---
 

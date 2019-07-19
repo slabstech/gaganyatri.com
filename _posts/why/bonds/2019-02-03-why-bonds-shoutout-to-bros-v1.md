@@ -2,8 +2,8 @@
 layout: page
 title: "To the Bro's of My Life v1"
 excerpt: "the underappreciated in every right "
-categories: why
-tags: [ why ]
+categories: why2
+tags: [ why2 ]
 date: 2019-03-08T08:08:50-04:00
 
 ---

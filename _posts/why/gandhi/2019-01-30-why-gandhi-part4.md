@@ -3,9 +3,7 @@ layout: post
 title: "Gandhi's 1st Monkey"
 excerpt: "Vow of Silence"
 categories: why
-tags: [ why gandhi ]
-image:
-  feature:
+tags: [ why ]
 date: 2019-01-30T08:08:50-04:00
 
 ---

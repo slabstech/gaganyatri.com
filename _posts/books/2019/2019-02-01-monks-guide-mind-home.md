@@ -3,8 +3,8 @@ layout: page
 title: Monks Guide to Clean Mind and Home
 excerpt: "extracts from a life changing book"
 modified: 2019-02-01T14:17:25-04:00
-categories: books
-tags: [ books, thought ]
+categories: books-todo
+tags: [ books-todo ]
 ---
 
 * The Kitchen, Bathroom and Toilet
@@ -14,7 +14,7 @@ tags: [ books, thought ]
 * Outside the Home
 * Body and Mind
 
-Book written by Shoukie Matsumoto of Jodu Shinshu Hongwanji Sect: Komyoji Temple in Kamiyado, Tokyo. 
+Book written by Shoukie Matsumoto of Jodu Shinshu Hongwanji Sect: Komyoji Temple in Kamiyado, Tokyo.
 
 
 

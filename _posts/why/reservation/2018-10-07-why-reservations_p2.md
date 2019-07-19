@@ -2,8 +2,8 @@
 layout: post
 title: "Why Reservation : Curse of The Boon"
 excerpt: "Part 2 of 3 series blog on Why we have Reservations in India"
-categories: why
-tags: [ research ]
+categories: why2
+tags: [ why2 ]
 
 date: 2018-10-08T08:08:50-04:00
 

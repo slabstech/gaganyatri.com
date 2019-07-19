@@ -3,8 +3,8 @@ layout: page
 title: Letter To Robin Sharma Vol. 2
 excerpt: "5am club, own your morning, elevate your life"
 modified: 2019-04-10T14:17:25-04:00
-categories: books
-tags: [ books]
+categories: books-todo
+tags: [ books-todo]
 ---
 
 As i walked out the door toward the gate that would lead to my freedom, i knew if i did not leave my bitterness and hatred behind,

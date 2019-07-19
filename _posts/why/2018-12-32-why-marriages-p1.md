@@ -2,8 +2,8 @@
 layout: post
 title: "Why Marriage "
 excerpt: "Do we need the expensive marriages done with a financial burden"
-categories: why
-tags: [ why ]
+categories: why2
+tags: [ why2 ]
 
 date: 2018-12-21T08:08:50-04:00
 

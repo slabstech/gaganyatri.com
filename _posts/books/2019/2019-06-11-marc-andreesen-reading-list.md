@@ -3,8 +3,8 @@ layout: page
 title: "Marc Andreesen -15 reading list"
 excerpt: "New ideas to expand thoughts"
 modified: 2019-06-11T14:17:25-04:00
-categories: books
-tags: [ books]
+categories: books-todo
+tags: [ books-todo]
 ---
 
 

@@ -3,8 +3,8 @@ layout: page
 title: "GaganYatri - StoryLine"
 excerpt: "the points"
 modified: 2019-05-26T14:17:25-04:00
-categories: books-pub
-tags: [ books-pub]
+categories: books-write
+tags: [ books-write]
 ---
 
 
@@ -28,4 +28,4 @@ tags: [ books-pub]
 
 * He sees the horizon, the endless opportunities to be pursued & the single minded focus and determination that got him here
 
-* A small kid reads the name GaganYatri,  below the full front page newspaper 
+* A small kid reads the name GaganYatri,  below the full front page newspaper

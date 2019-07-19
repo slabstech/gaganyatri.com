@@ -3,7 +3,7 @@ layout: page
 title: "Why Gandhi - Prologue"
 excerpt: "Following Gandhian Principles as an Experiment"
 categories: why
-tags: [ why gandhi ]
+tags: [ why ]
 date: 2019-01-16T08:08:50-04:00
 
 ---

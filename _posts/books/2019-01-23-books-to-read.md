@@ -3,8 +3,8 @@ layout: post
 title: "Books to read"
 excerpt: "Books that i read "
 modified: 2016-06-01T14:17:25-04:00
-categories: books
-tags: [ books, non-fiction ]
+categories: books-todo
+tags: [ books-todo ]
 ---
 
 

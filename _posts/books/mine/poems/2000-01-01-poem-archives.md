@@ -3,8 +3,8 @@ layout: post
 title: Archive of Poems
 excerpt: "Where the ink started flowing"
 modified: 2016-06-01T14:17:25-04:00
-categories: books
-tags: [ books poems ]
+categories: poems
+tags: [ poems ]
 ---
 
 ## Collection Of Poems

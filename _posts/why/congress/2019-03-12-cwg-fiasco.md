@@ -2,7 +2,7 @@
 layout: post
 title: "When politicians head Sports institutions : CWG 2010"
 excerpt: "asking a barber to make brain surgery "
-categories: why
+categories: may2019
 tags: [ may2019 ]
 date: 2019-03-12T08:08:50-04:00
 

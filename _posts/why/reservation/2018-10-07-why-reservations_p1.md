@@ -3,7 +3,7 @@ layout: post
 title: "Why Reservation : Prisoner Of Birth "
 excerpt: "Part 1 of 3 series blog on Why we have Reservations in India"
 categories: why
-tags: [ research ]
+tags: [ why ]
 
 date: 2018-10-07T08:08:50-04:00
 

@@ -3,8 +3,8 @@ layout: page
 title: "How to Be Poor - George Mike"
 excerpt: "Morality in the age of Insanity"
 modified: 2019-07-14T14:17:25-04:00
-categories: books
-tags: [ books ]
+categories: books-read
+tags: [ books-read ]
 ---
 
 
@@ -33,4 +33,4 @@ The overwhelming majority of these seemingly indomitable people who march under 
 
 Amazing writing from George Mike
 
-[buy the book](https://amzn.to/32lHho5) 
+[buy the book](https://amzn.to/32lHho5)
