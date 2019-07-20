@@ -23,7 +23,7 @@ Now that u have got admit. You will be doing these next tasks in order
 
 | Task  |
 |-------|
-| [Why to choose Germany for MS]({{ site.baseurl }}{% link _posts/why/2018-09-30-why-germany.md %})
+| [Why to choose Germany for MS]({{ site.baseurl }}{% link _posts/why/v1/2018-09-30-why-germany.md %})
 | Visa Application  | TODO |
 | [Accommodation]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-10-06-accomodation-bonn-students.md %}) |
 | [Money Transfer to Germany]({{ site.baseurl }}{% link _posts/blog/2018/germany/2018-12-15-transfer-money-to-germany.md %})  |

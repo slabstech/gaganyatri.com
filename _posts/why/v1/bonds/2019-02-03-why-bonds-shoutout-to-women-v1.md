@@ -12,7 +12,7 @@ date: 2019-03-08T08:08:50-04:00
 In the order of Appearance in my life
 
 * Mom
-  why mother part 1 : [link]({{ site.baseurl }}{% link _posts/why/bonds/2019-02-01-why-bonds-mother-p1.md %})
+  why mother part 1 : [link]({{ site.baseurl }}{% link _posts/why/v1/bonds/2019-02-01-why-bonds-mother-p1.md %})
 * Ajji : Maternal Grandmother
 * Sapna aunty
 * Roopa aunty
@@ -33,7 +33,7 @@ In the order of Appearance in my life
 .
 .
 . Sister
-  why sister part 1 : [link]({{ site.baseurl }}{% link _posts/why/bonds/2019-01-31-why-bonds-sister.md %})
+  why sister part 1 : [link]({{ site.baseurl }}{% link _posts/why/v1/bonds/2019-01-31-why-bonds-sister.md %})
 .
 .
 .

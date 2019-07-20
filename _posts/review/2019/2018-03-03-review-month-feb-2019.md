@@ -9,9 +9,9 @@ date: 2019-03-05T08:08:50-04:00
 ---
 | Topic | Story |
 |-------|--------|
-| Relations | [Why Mother ]({{ site.baseurl }}{% link _posts/why/bonds/2019-02-01-why-bonds-mother-p1.md  %})|
-|           | [Why Father ]({{ site.baseurl }}{% link _posts/why/bonds/2019-02-02-why-bonds-father-p1.md %})|
-| Thought   | [Why Wars]({{ site.baseurl }}{% link _posts/why/wars/2019-02-02-why-wars-01.md %}) |
+| Relations | [Why Mother ]({{ site.baseurl }}{% link _posts/why/v1/bonds/2019-02-01-why-bonds-mother-p1.md  %})|
+|           | [Why Father ]({{ site.baseurl }}{% link _posts/why/v1/bonds/2019-02-02-why-bonds-father-p1.md %})|
+| Thought   | [Why Wars]({{ site.baseurl }}{% link _posts/why/v1/wars/2019-02-02-why-wars-01.md %}) |
 | Travels   | [Frankfurt 2 Day plan]({{ site.baseurl }}{% link _posts/travels/solo/2019/germany/2019/frankfurt/2019-02-10-frankfurt-plan.md %})|
 |           |  [Strolling around the Main Banks ]({{ site.baseurl }}{% link _posts/travels/solo/2019/germany/2019/frankfurt/2019-02-14-frankfurt-day1.md %})|
 |           | [Night at the KonstablerWach ]({{ site.baseurl }}{% link _posts/travels/solo/2019/germany/2019/frankfurt/2019-02-15-frankfurt-day2.md %})|

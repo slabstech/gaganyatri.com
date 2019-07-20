@@ -60,8 +60,8 @@ date: 2019-03-06T08:08:50-04:00
 |              | [U first dream it]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-19-exp-dy150.md %})|
 |              | [The Breath of Life]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-20-exp-dy151.md %})|
 |              | [One Day Life]({{ site.baseurl }}{% link _posts/exp56/2019/march/2019-03-23-exp-dy154.md %}) |
-| Why Wars     | [American Espionage against India Part 1 ]({{ site.baseurl }}{% link _posts/why/wars/2019-03-24-why-wars-2.md  %}) |
-| Politics     | [CWG 2010 fiasco]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-cwg-fiasco.md %}) |
-|              | [Previous Heads of Indian Sport Bodies]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-indian-sports.md  %}) |
-|              | [Mathematical Genius of RaGa]({{ site.baseurl }}{% link _posts/why/congress/2019-03-12-intelect-raga.md %}) |
+| Why Wars     | [American Espionage against India Part 1 ]({{ site.baseurl }}{% link _posts/why/v1/wars/2019-03-24-why-wars-2.md  %}) |
+| Politics     | [CWG 2010 fiasco]({{ site.baseurl }}{% link _posts/why/v1/congress/2019-03-12-cwg-fiasco.md %}) |
+|              | [Previous Heads of Indian Sport Bodies]({{ site.baseurl }}{% link _posts/why/v1/congress/2019-03-12-indian-sports.md  %}) |
+|              | [Mathematical Genius of RaGa]({{ site.baseurl }}{% link _posts/why/v1/congress/2019-03-12-intelect-raga.md %}) |
 | Economics    | [Kotak Mahindra Bank Bad Practices]({{ site.baseurl }}{% link  _posts/economics/banks/2019-03-14-kotak-mahindra-bad-practices.md  %}) |
