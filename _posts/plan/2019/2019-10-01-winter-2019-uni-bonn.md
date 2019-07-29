@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Winter 2019 at Uni Bonn"
-excerpt: "6 months plan April to September"
+excerpt: "6 months plan August to January"
 categories: plan
 tags: [ plan ]
 modified: 2019-08-07T14:11:53-04:00
@@ -14,16 +14,38 @@ modified: 2019-08-07T14:11:53-04:00
 | Time | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
-| 8-10 | Video analytics | Humanoid Robots  |                       | Humanoid Robots         |                 |                   |                 |
-| 10-12 |               | Usable Security   | Computer Vision 2      |                        | Computer Vision 2 |                 |                 |
-| 12-14 |               |                   |                         |                       |Video An Tutorials|                  |                 |
-| 14-16 | Artificial Life | Robot Learning |                          |Advanced Sensor Data Fusion|                 |                 |                 |
-| 16-18 |               |                 |Exercise : Net Sec     | Exe : Robot Learning      |                   |                 |                 |
-| 18-19 |               |                  | Network Security     |                       |                     |                   |                  |
+| 8-10 |        |         | Macro Eco| Cog Rob  |                 |                   |                 |
+| 10-12 | Mathematics-eco | Cognitive Robot,CV, Cosmology | Adv Algo, Maths Eco |                        | Computer Vision |                 |                 |
+| 12-14 | TNN     |                   |                         |                       |PABE/ML|                  |                 |
+| 14-16 | Macro Economic,TNN | Comb Opt,Radio Astro | Sensor Data Fusion |                         |                 |                 |                 |
+| 16-18 |               |                 |    |    |                   |                 |                 |
+| 18-19 |               |                  |   |                       |                     |                   |                  |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
 
+
+
 ##### Lectures
+
+* [Machine Learning](_posts/uni/win19/2019-10-01-machine-learning.md)
+
+* [Cognitive Robotics](_posts/uni/win19/2019-10-01-cog-robotics.md)
+* [Technical Neural Net](_posts/uni/win19/2019-10-01-tech-neural.md)
+* [lab Parallel Computing](_posts/uni/win19/2019-10-01-lab-parallel-comp.md)
+* [sensor data Fusion](_posts/uni/win19/2019-10-01-sensor-data-fusion.md)
+* [Program A Binary Exploit](_posts/uni/win19/2019-10-01-pabexploit.md)
+* [lab Sec Dist Systems](_posts/uni/win19/2019-10-01-lab-dist-sec.md)
+* [combinatorial Optimization](_posts/uni/win19/2019-10-01-comb-opt.md)
+* [Advance algo](_posts/uni/win19/2019-10-01-advanced-algo.md)
+* [Graphics Foundations](_posts/uni/win19/2019-10-01-graphic-foundation.md)
+* [Computer Vision](_posts/uni/win19/2019-10-01-comp-vision.md)
+* [E business](_posts/uni/win19/2019-10-01-e-business.md)
+* [Intro to AstroPhysics](_posts/uni/win19/2019-10-01-intro-astrophysics.md)
+* [Cosmology](_posts/uni/win19/2019-10-01-cosmology.md)
+* [Radio Astronomy](_posts/uni/win19/2019-10-01-rad-astronomy.md)
+* [Macro Economics](_posts/uni/win19/2019-10-01-macro-economics.md)
+* [Mathematics Eco](_posts/uni/win19/2019-10-01-mathics-eco.md)
+
 
 * [Advanced Algorithms for Geo-Information Systems](_posts/uni/win19/2019-10-01-geo-algo-readme.md)
 
@@ -39,6 +61,12 @@ modified: 2019-08-07T14:11:53-04:00
 * Oct 9 : Dortmund , Signal Iduna Park : GER vs ARG
 
 * Oct31 - Nov 9 : 10 Day Countdown v2
+
+* DTM Race - Nurburgring
+
+* Frankfurt Car Show
+
+* Berlin YC Event
 
 ## Time
 
@@ -56,3 +84,6 @@ modified: 2019-08-07T14:11:53-04:00
 
 
 77.5 / 7 = 11 h Per Day
+
+[Uni Bonn CS Research Groups](
+https://www.informatik.uni-bonn.de/en/sections/research-groups/research-groups-default)
