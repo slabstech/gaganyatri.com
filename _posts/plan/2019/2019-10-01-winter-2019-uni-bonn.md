@@ -62,11 +62,9 @@ modified: 2019-08-07T14:11:53-04:00
 
 * Oct31 - Nov 9 : 10 Day Countdown v2
 
-* DTM Race - Nurburgring
+* Dec 22-23 : NCVPRIPG Paper
 
-* Frankfurt Car Show
-
-* Berlin YC Event
+* Feb 2-3 : Gate 2020
 
 ## Time
 

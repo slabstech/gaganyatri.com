@@ -39,11 +39,10 @@ modified: 2019-08-07T14:11:53-04:00
 
 
 ###### Important Dates :
-* Jul 23 : Artificial Life Exam
 
-* Jul XX : Usable Security
+* Sep 7 : Chandrayaan2 Moon Landing
 
-* Sep 14 : Frankfurt Motor Show
+* Sep 20 : Frankfurt Motor Show
 
 * Sep 14-15 : DTM Nurburgring Race
 
@@ -72,3 +71,7 @@ modified: 2019-08-07T14:11:53-04:00
   * Apr 11-12 : CS Game Jam
   * Apr 26 : Avengers End Game  
   * June 18 : Bryan Adams Tour : Oberhausen
+  * Jul 23 : Artificial Life Exam
+  * Jul 26 : Usable Security
+  * Aug 22 : Gamescom Cologne
+  * Aug 15-16 : Brussels
