@@ -7,7 +7,11 @@ categories: books-write
 tags: [ books-write ]
 ---
 
+There's something exhilarating of contact sports
 
-## Adventure's of Gagan
+One Twists, Turns, Lunges Ahead
+
+Getting across fellow warriors
+
 
 ### Breaking bones after a panenka
