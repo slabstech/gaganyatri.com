@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Winter 2019 at Uni Bonn"
-excerpt: "6 months plan August to January"
+excerpt: "6 months plan October to March"
 categories: plan
 tags: [ plan ]
 modified: 2019-08-07T14:11:53-04:00
@@ -15,10 +15,10 @@ modified: 2019-08-07T14:11:53-04:00
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 |        |         | Macro Eco| Cog Rob  |                 |                   |                 |
-| 10-12 | Mathematics-eco | Cognitive Robot,CV, Cosmology | Adv Algo, Maths Eco |                        | Computer Vision |                 |                 |
-| 12-14 | TNN     |                   |                         |                       |PABE/ML|                  |                 |
+| 10-12 | Mathematics-eco | Lab ParallelCmp CV, Cosmology | Adv Algo, Maths Eco |                        | Computer Vision |                 |                 |
+| 12-14 | TNN     |        Cognitive Robot           |                         |                       |PABE/ML|                  |                 |
 | 14-16 | Macro Economic,TNN | Comb Opt,Radio Astro | Sensor Data Fusion |                         |                 |                 |                 |
-| 16-18 |               |                 |    |    |                   |                 |                 |
+| 16-18 |               |                 | SDF -Ex   |    |                   |                 |                 |
 | 18-19 |               |                  |   |                       |                     |                   |                  |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
