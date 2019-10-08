@@ -14,15 +14,13 @@ modified: 2019-08-07T14:11:53-04:00
 | Time | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
-| 8-10 |        |         | Macro Eco| Cog Rob  |                 |                   |                 |
-| 10-12 | Mathematics-eco | Lab ParallelCmp CV, Cosmology | Adv Algo, Maths Eco |                        | Computer Vision |                 |                 |
-| 12-14 | TNN     |        Cognitive Robot           |                         |                       |PABE/ML|                  |                 |
-| 14-16 | Macro Economic,TNN | Comb Opt,Radio Astro | Sensor Data Fusion |                         |                 |                 |                 |
-| 16-18 |               |                 | SDF -Ex   |    |                   |                 |                 |
-| 18-19 |               |                  |   |                       |                     |                   |                  |
+| 8-10 |        |         | Work    | Ex-Cog Rob  |           |         |                 |
+| 10-12 |       | CV-Lab  | Work    | Work        | Computer Vision |                 |                 |
+| 12-14 | TNN   | Cog-Rob | Ex CV   | Work        | Work      |                  |                 |
+| 14-16 |       |         | SDF     | Work        | Work      |                 |                 |
+| 16-18 |       |         | SDF -Ex | Work        | Work      |                 |                 |
+| 18-19 |       |         |         |             |           |                   |                  |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
-
-
 
 
 ##### Lectures
@@ -61,10 +59,6 @@ modified: 2019-08-07T14:11:53-04:00
 * Oct 9 : Dortmund , Signal Iduna Park : GER vs ARG
 
 * Oct31 - Nov 9 : 10 Day Countdown v2
-
-* Dec 22-23 : NCVPRIPG Paper
-
-* Feb 2-3 : Gate 2020
 
 ## Time
 
