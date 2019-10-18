@@ -14,12 +14,13 @@ modified: 2019-08-07T14:11:53-04:00
 | Time | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
+| 4-6 |  Udacity  | Udacity | Udacity | Udacity  |  Udacity  |  Udacity | Udacity  |
 | 8-10 |        |         | Work    | Ex-Cog Rob  |           |         |                 |
-| 10-12 |       | CV-Lab  | Work    | Work        | Computer Vision |                 |                 |
+| 10-12 |       | CV-Lab  | Work    | Work        | Computer Vision | TNN-P |                 |
 | 12-14 | TNN   | Cog-Rob | Ex CV   | Work        | Work      |                  |                 |
-| 14-16 |       |         | SDF     | Work        | Work      |                 |                 |
+| 14-16 | German |         | SDF     | Work        | Work      |                 |                 |
 | 16-18 |       |         | SDF -Ex | Work        | Work      |                 |                 |
-| 18-19 |       |         |         |             |           |                   |                  |
+| 18-19 |       |         |  German |   | CV-R |                   |                  |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
 
