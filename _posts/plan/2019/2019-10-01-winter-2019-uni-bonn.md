@@ -24,7 +24,12 @@ modified: 2019-08-07T14:11:53-04:00
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
 
+
+
+
 ##### Lectures
+* [CS GSG](https://gsg.cs.uni-bonn.de/doku.php?id=en:accounts:students:manage:binformatik#extend_your_existing_account)
+* [printer](https://bitlpr.bit.uni-bonn.de:9192/user?)
 
 * [Machine Learning](_posts/uni/win19/2019-10-01-machine-learning.md)
 
