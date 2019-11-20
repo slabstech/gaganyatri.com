@@ -24,8 +24,11 @@ modified: 2019-08-07T14:11:53-04:00
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
 
-
-
+* CV - Friday, 14.2., 9:30-11:30, Thursday, 19.3., 12:30-14:30
+* TNN -Wed. Feb 10, 2020, 11:00-12:40
+* CogRob _ First exam: 18.02.2020, 11:00 13:00,HS1+2 Make-up exam: 11.03.2020
+* SDF -
+* Home : Feb 19 - Mar 27
 
 ##### Lectures
 * [CS GSG](https://gsg.cs.uni-bonn.de/doku.php?id=en:accounts:students:manage:binformatik#extend_your_existing_account)
