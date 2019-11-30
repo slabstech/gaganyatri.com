@@ -3,8 +3,8 @@ layout: page
 title: Gaganyatri
 excerpt: "KALI 2022"
 modified: 2019-01-19T14:17:25-04:00
-categories: books-write
-tags: [ books-write ]
+categories: books-ggyn
+tags: [ books-ggyn ]
 ---
 
 First human to land on the mars,
