@@ -2,8 +2,8 @@
 layout: post
 title: "Day 10 - Connecting the Dots"
 excerpt: "Art Collection"
-categories: 10days
-tags: [ 10days ]
+categories: days10
+tags: [ days10 ]
 
 date: 2019-07-10T08:08:50-04:00
 

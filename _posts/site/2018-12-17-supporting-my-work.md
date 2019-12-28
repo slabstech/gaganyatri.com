@@ -16,6 +16,7 @@ You can support me in two ways
 
 - Connect
 - Donate
+- Buy Book
 
 #### Connect
 

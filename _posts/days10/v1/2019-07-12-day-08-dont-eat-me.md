@@ -2,8 +2,8 @@
 layout: post
 title: "Day 8 - Dont Eat (Me)"
 excerpt: "Can u save the cake ?"
-categories: 10days
-tags: [ 10days ]
+categories: days10
+tags: [ days10 ]
 
 date: 2019-07-12T08:08:50-04:00
 
