@@ -28,6 +28,6 @@ This site is a sneak peek into the work i do and everything else.
 [Curriculum Vitae - Extended]({{ site.baseurl }}{% link _posts/docs/2019-04-18-curriculum-vitae-long.md  %})
 
 
-[LinkedIn](https://de.linkedin.com/in/sachin-shetty-8456212b)
+[LinkedIn](https://www.linkedin.com/in/sachinlabs)
 
 <img src="https://res.cloudinary.com/websachinshetty/image/upload/v1538374035/myblog/site/aboutimage.jpg" >
