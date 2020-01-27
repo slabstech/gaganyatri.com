@@ -10,4 +10,4 @@ tags: [ books-pub]
 Gaganyatri
 
 
-* Amazon Ebook [buy kindle book](https://amzn.to/2CuFTEh)
+* Amazon Ebook [buy kindle book](https://amzn.to/312nYzJ)
