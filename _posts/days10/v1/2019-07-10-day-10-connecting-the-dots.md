@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 10 - Connecting the Dots"
-excerpt: "Art Collection"
+excerpt: "Rangoli : Art Collection"
 categories: days10
 tags: [ days10 ]
 

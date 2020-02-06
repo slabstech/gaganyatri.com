@@ -15,12 +15,14 @@ Whatever it Takes
 <br>
 
 <br>
-<a href="https://amzn.to/312nYzJ">Buy the book on Amazon</a>
 <br>
+All the roads lead to Mars, Projects being done to reach there
 </center>
 
+
+
 <ul class="post-list">
-{% for post in site.categories.books-ggyn limit:10 %}
+{% for post in site.categories.days10 limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>

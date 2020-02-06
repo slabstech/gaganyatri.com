@@ -22,12 +22,11 @@ This site is a sneak peek into the work i do and everything else.
 
 [Curriculum Vitae]({{ site.baseurl }}{% link _posts/docs/2019-04-18-curriculum-vitae.md  %})
 
+[LinkedIn](https://www.linkedin.com/in/sachinlabs)
+
 [Time Line]({{ site.baseurl }}{% link _posts/docs/2019-05-20-vita-time-line.md  %})
 
+[Curriculum Vitae - Extended]({{ site.baseurl }}{% link _posts/docs/2019-04-18-curriculum-vitae-long.md  %}) [PDF Download](% link _posts/docs/sachin_shetty_work_resume.pdf)
 
-[Curriculum Vitae - Extended]({{ site.baseurl }}{% link _posts/docs/2019-04-18-curriculum-vitae-long.md  %})
-
-
-[LinkedIn](https://www.linkedin.com/in/sachinlabs)
 
 <img src="https://res.cloudinary.com/websachinshetty/image/upload/v1538374035/myblog/site/aboutimage.jpg" >

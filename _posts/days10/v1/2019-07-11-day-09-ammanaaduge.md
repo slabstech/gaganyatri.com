@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 9 - Ammana Aduge"
-excerpt: "Recipe's of Mom'm Mom, Mom and Me"
+excerpt: "Food Blog : Recipe's of Mom'm Mom, Mom and Me"
 categories: days10
 tags: [ days10 ]
 

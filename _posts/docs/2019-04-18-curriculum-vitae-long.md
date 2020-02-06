@@ -7,16 +7,17 @@ categories: cv
 tags: [ cv ]
 
 ---
+ <center>
 
+#### Sachin Suresh Shetty
 
-#### <center> Sachin Suresh Shetty </center>
+[https://github.com/sachinsshetty](https://github.com/sachinsshetty)
 
-<center> [https://github.com/sachinsshetty](https://github.com/sachinsshetty) </center>
+[https://github.com/slabstech](https://github.com/slabstech)
 
-<center> [https://github.com/slabstech](https://github.com/slabstech) </center>
+Email : sachinsshetty.de(at)gmail(dot)com
 
-<center> Email : sachinsshetty.de(at)gmail(dot)com</center>
-
+</center>
 ### Professional Experience
 
 - Currently studying Computer Science with focus on Robotics at University of Bonn,

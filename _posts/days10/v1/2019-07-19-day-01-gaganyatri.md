@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 1 - Gaganyatri"
-excerpt: "Voyages of the Space Farer"
+excerpt: "Fiction Novel : Voyages of the Space Farer"
 categories: days10
 tags: [ days10 ]
 date: 2019-07-19T08:08:50-04:00

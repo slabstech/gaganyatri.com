@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 8 - Dont Eat (Me)"
-excerpt: "Can u save the cake ?"
+excerpt: "Game Hackathon : Can u save the cake ?"
 categories: days10
 tags: [ days10 ]
 
