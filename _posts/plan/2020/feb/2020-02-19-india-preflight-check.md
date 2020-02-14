@@ -24,3 +24,4 @@ modified: 2020-02-19T15:11:53-04:00
 8. Recharge Indian number with Internet Pack
 9. Carry food for travel ?
 10. Carry Indian cash + Paytm wallet for payment
+11. Buy Chocolates 
