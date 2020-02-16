@@ -20,4 +20,4 @@ To our castle of future dreams,
 
 There was always something left at the end of the day.
 
-Waiting eagerly for the net time to come over soon
+Waiting eagerly for the next time to come over soon
