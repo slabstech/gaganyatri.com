@@ -2,8 +2,8 @@
 layout: post
 title: "The world is small after all"
 excerpt: "Karma's Machinations"
-categories: saiols
-tags: [ saiols ]
+categories: exp56_3
+tags: [ exp56_3 ]
 date: 2020-02-16T08:08:50-04:00
 
 ---

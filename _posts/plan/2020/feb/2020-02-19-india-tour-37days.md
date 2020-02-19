@@ -25,8 +25,7 @@ modified: 2020-02-19T15:11:53-04:00
 | 13 | Insurance Payment |No | In-Complete |
 | 14 | Send Parcel Gujurat |No | In-Complete |
 | 15 | Buy Copper Drinking bottle |No | In-Complete |
-| 16 | TODO |No | In-Complete |
-
+| 16 | Buy Masala Box |No | In-Complete |
 
 * Meet People
   * Mom, Dad, Sis
@@ -47,6 +46,8 @@ modified: 2020-02-19T15:11:53-04:00
 | 5 | Jeera/Sasiwe| 1/8 |
 | 6 | Turmeric/Coriander| 1/8 |
 | 7 | Coffee:BRU | 2 |
+| 8 | Tamarind | 2 |
+
 
 * Eat @
 | No. | Item | Place |
