@@ -16,6 +16,11 @@ modified: 2020-02-19T15:11:53-04:00
   * 1 Cabin Trolley + 2 Trolley + Laptop Bag
   * Laptop + Charger + Euro Charger
   * Phone + Charger
-  * Watch
+  * Watch : Axis-Goqii
   * Passport + VISA + Travel Insurance + TK Medical Card
 6. Book ticket from Hubli to Blr - Mar 26
+
+
+* Others Item List
+* Buy pedha : 1.5 Kg
+* Buy biryani : 2 pack 

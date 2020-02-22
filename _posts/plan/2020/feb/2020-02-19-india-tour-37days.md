@@ -18,18 +18,18 @@ modified: 2020-02-19T15:11:53-04:00
 | 6 | Buy Clothes |No | In-Complete |
 | 7 | Buy Food Items |No | In-Complete |
 | 8 | Dental Checkup |No | In-Complete |
-| 9 | Meet Family |No | In-Complete |
-| 10 | Meet Friends |No | In-Complete |
+| 9 | Meet Family | No | Complete |
+| 10 | Meet Friends | No | Complete |
 | 11 | Company A/C |No | In-Complete |
 | 12 | Thesis : Research Proposal |No | In-Complete |
 | 13 | Insurance Payment |No | In-Complete |
-| 14 | Send Parcel Gujurat |No | In-Complete |
+| 14 | Send Parcel Gujurat |No | Complete |
 | 15 | Buy Copper Drinking bottle |No | In-Complete |
 | 16 | Buy Masala Box |No | In-Complete |
 
 * Meet People
-  * Mom, Dad, Sis
-  * Ajja, Ajji, Sapna, Sunil
+  * Mom, Dad, Sis : done
+  * Ajja, Ajji, Sapna, Sunil : done
   * Mahi, Chai, Tenna
   * Vinay, Pavan * 3, Sudheer, Suraj,
   * Ankur, Rayaji, Anand, Akshay
@@ -54,7 +54,7 @@ modified: 2020-02-19T15:11:53-04:00
 |-------|--------|---------|
 | 1 | Biryani | Home|
 | 2 | Biryani | Niyaz|
-| 3 | Biryani | Kormangala|
+| 3 | Biryani | Kormangala| Done |
 | 4 | Girmit | Sirur Park|
 | 5 | Sev Puri | HCA |
 | 6 | Fried Rice| HCA |
