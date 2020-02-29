@@ -40,4 +40,30 @@ Having a good support system of family and friends is extremely important, but o
 There could be instances of ridicule by talking to a wrong person who might not seem to understand and maybe just brush it off, it is very important to talk to someone and lessen the weight on ourselves.
 
 
-contd...
+#### Symptoms
+
+* We feel that there is no future due to one loss/failure.
+* We feel that nothing is going to work.
+* We just wish that the day would end sooner, extending our sleep to ungodly hours.
+* We miss out on events, saying to ourselves how i can attend the occasion, when life has gone upside down.
+
+We pay a big price on our health by a negative feedback in our society.
+Where failure is ridiculed and made fun of and the people are treated as outcasts, leading to distancing ourselves to others.
+
+Life is continuous experience of Ups and Downs, As a society and individuals we need to use positive feedback to let people grow in different ways.
+
+Some paths may be longer,
+Some journeys may be dangerous,
+Not all of us have a common destination,
+Though at times we seem to have started at the same point.
+
+
+#### Helping others
+We need to acknowledge the risks taken by ourselves and others and lend an ear to someone who would want to speak about their trials.
+
+What may seem today as a failure, might actually be a lesson that will lead us to greater victories in the next phases of life.
+
+History, myths, stories have shown us that heroes/heroines became what they eventually achieved based on their difficult periods. If they had not overcome their trials, we would have not heard about them after centuries.
+
+
+to be contd.. in another post on how we can help others. 
