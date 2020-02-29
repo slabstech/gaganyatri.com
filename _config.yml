@@ -40,4 +40,20 @@ owner:
   name: gaganyatri
   email: ""
   twitter: gaganyatri
-  github: slabstech
+  github: sachinsshetty
+
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/gaganyatri
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/gaganyatri
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/gaganyatri
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
