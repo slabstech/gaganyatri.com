@@ -10,8 +10,8 @@ modified: 2020-02-19T15:11:53-04:00
 
 | No. | Task | Spillover | Status |
 |-------|--------|---------|---------|
-| 1 | Book Donation - School Library | No | In-Complete |
-| 2 | EFI Shares Access |  No | In-Complete |
+| 1 | Book Donation - School Library - Postponed | No | Complete |
+| 2 | EFI Shares Access - Cancelled |  No | Complete |
 | 3 | Travel _ Family |No | In-Complete |
 | 4 | Travel _ Friends |No | In-Complete |
 | 5 | Buy Books |No | In-Complete |
@@ -30,47 +30,47 @@ modified: 2020-02-19T15:11:53-04:00
 * Meet People
   * Mom, Dad, Sis : done
   * Ajja, Ajji, Sapna, Sunil : done
-  * Mahi, Chai, Tenna
-  * Vinay, Pavan * 3, Sudheer, Suraj,
-  * Ankur, Rayaji, Anand, Akshay
-  * Anita, Geeta, Annapoorna, Amma
-  * BVB College
+  * Mahi, Chai, Tenna : incomplete
+  * Vinay, Pavan * 3, Sudheer, Suraj : done
+  * Ankur, Rayaji, Anand, Akshay : incomplete
+  * Anita, Geeta, Annapoorna, Amma : done
+  * BVB College : done
 
 * Buy Food
-| No. | Item | Quantity (kg) |
-|-------|--------|---------|
-| 1 | Chilli Powder | 1/2  |
-| 2 | Cashew/Almond/Grapes| 1/4|
-| 3 | Chutney Powder | 1 |
-| 4 | Masalas | 1/4  |
-| 5 | Jeera/Sasiwe| 1/8 |
-| 6 | Turmeric/Coriander| 1/8 |
-| 7 | Coffee:BRU | 2 |
-| 8 | Tamarind | 2 |
+| No. | Item | Quantity (kg) | Status |
+|-------|--------|---------|---------|
+| 1 | Chilli Powder | 1/2  | Not-Done |
+| 2 | Cashew/Almond/Grapes| 1/4| Not-Done |
+| 3 | Chutney Powder | 1 | Not-Done |
+| 4 | Masalas | 1/4  | Not-Done |
+| 5 | Jeera/Sasiwe| 1/8 | Not-Done |
+| 6 | Turmeric/Coriander| 1/8 | Not-Done |
+| 7 | Coffee:BRU | 2 | Not-Done |
+| 8 | Tamarind | 2 | Not-Done |
 
 
 * Eat @
-| No. | Item | Place |
-|-------|--------|---------|
-| 1 | Biryani | Home|
-| 2 | Biryani | Niyaz|
+| No. | Item | Place | Status |
+|-------|--------|---------|---------|
+| 1 | Biryani | Home | Done |
+| 2 | Biryani | Niyaz | Not-Done |
 | 3 | Biryani | Kormangala| Done |
-| 4 | Girmit | Sirur Park|
-| 5 | Sev Puri | HCA |
-| 6 | Fried Rice| HCA |
-| 7 | Fish Fry| Home|
-| 8 | Prawns | Home |
-| 9 | Tangdi Kebab  | Sun n Sand |
+| 4 | Girmit | Sirur Park| Not-Done |
+| 5 | Sev Puri | HCA | Not-Done |
+| 6 | Fried Rice| HCA | Not-Done |
+| 7 | Fish Fry| Home| Done |
+| 8 | Prawns | Home | Not-Done |
+| 9 | Tangdi Kebab  | Sun n Sand | Not-Done |
 
 * Buy Clothes
-| No. | Item | Quantity |
-|-------|--------|---------|
-| 1 | Shorts| 4 |
-| 2 | TrackPants | 4 |
-| 3 | Jeans | 2 |
-| 4 | White Tees | 4 |
-| 5 | Sports Shoes | 1 |
-| 6 | Jacket| 1 |
-| 7 | Hood | 1 |
-| 8 | Underwear | 4|
-| 9 | Bed Sheets | 1 |
+| No. | Item | Quantity | Status |
+|-------|--------|---------|---------|
+| 1 | Shorts| 4 | Not-Done |
+| 2 | TrackPants | 4 | Not-Done |
+| 3 | Jeans | 2 | Not-Done |
+| 4 | White Tees | 4 | Not-Done |
+| 5 | Sports Shoes | 1 | Not-Done |
+| 6 | Jacket| 1 | Not-Done |
+| 7 | Hood | 1 | Not-Done |
+| 8 | Underwear | 4| Not-Done |
+| 9 | Bed Sheets | 1 | Not-Done |
