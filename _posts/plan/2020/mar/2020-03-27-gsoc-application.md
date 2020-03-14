@@ -19,38 +19,35 @@ https://index.ros.org/doc/ros2/
 https://www.ros.org/roscon/
 
 
-
-
 ------
 Gazebo Developers Tool
 
-    List of prerequisites: Linux, mercurial, software design, docker
-    Description of programming skills: python (medium-high level)
-    Difficulty level: Medium
-    List of potential mentors: Jose Luis Rivero
-    Detailed description: The project consists on the creation of a command line utility that allows Gazebo/Developers and users and easy access to a working environment for developing Gazebo (a complex application with many dependencies, different supported versions in different platforms, interactions with other frameworks, use of GPU, ...). The idea would be to use virtualization (docker) to provide to the user a ready to go environment for developing or testing.
-
+* List of prerequisites: Linux, mercurial, software design, docker
+* Description of programming skills: python (medium-high level)
+* Difficulty level: Medium
+* List of potential mentors: Jose Luis Rivero
+* Detailed description: The project consists on the creation of a command line utility that allows Gazebo/Developers and users and easy access to a working environment for developing Gazebo (a complex application with many dependencies, different supported versions in different platforms, interactions with other frameworks, use of GPU, ...). The idea would be to use virtualization (docker) to provide to the user a ready to go environment for developing or testing.
 
 
 If you meet the general requirements and are interested in working on one of the OSRF projects during the Google Summer of Code, you can apply by:
 
-    Sending an email to: gsoc@osrfoundation.org , with the subject line: GSoC Application, and
-    Submit your application through the Google GSoC web site Your application should include the following information:
+* Sending an email to: gsoc@osrfoundation.org , with the subject line: GSoC Application, and
+* Submit your application through the Google GSoC web site Your application should include the following information:
 
 Contact information
 
-    Your name
-    A phone number
-    An email address where we can reach you for daily communication
+* Your name
+* A phone number
+* An email address where we can reach you for daily communication
 
 Coursework
 
 Please list relevant technical courses you have taken. In particular, we are interested in your background in:
 
-    Robotics
-    Software engineering
-    Computer graphics
-    Physics simulation
+* Robotics
+* Software engineering
+* Computer graphics
+* Physics simulation
 
 Experience
 
@@ -84,6 +81,11 @@ Coursework
 
 Experience
 * Worked as a full stack developer for 4 years at Subex Ltd and EFI Ltd, Bengaluru
+* Project :
+  * Jekyll blog updated for no tracking and no cookies, maintained since 3+ years. github.com/gaganyatri.com
+  * Dockerfile based container for CI/CD automation to deploy full system setup for 2 linux flavors : ubuntu and alpine-linux
+  * Android app for automating undergraduate lab journal in 2012, saving more than 25000 pages per year, App has run for 8 years till 2019.
+
 * Publications :
   * Special Pedestrian and Head Pose Detection for Autonomous
 Vehicles, https://link.springer.com/book/10.1007/978-981-13-2553-3
