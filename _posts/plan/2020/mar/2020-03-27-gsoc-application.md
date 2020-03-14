@@ -58,11 +58,11 @@ Please list any experience you’ve had in software development, including relev
 
 In addition to the above information, we are interested in concrete examples of your work, which may include:
 
-    Sample code: please send an example of code you have written that you are proud of; be prepared to answer questions about it.
-    Publications: if you have participated in undergraduate or graduate research, please include a copy of any relevant publications.
-    Specialized skills: if you have experience/skills in particular areas that you believe would be useful to one of our projects, please let us know.
-    Personal website: if you have a website that discusses your research or other projects, please include a link.
-    References: names and contact information for people you have worked with who can recommend you.
+* Sample code: please send an example of code you have written that you are proud of; be prepared to answer questions about it.
+* Publications: if you have participated in undergraduate or graduate research, please include a copy of any relevant publications.
+* Specialized skills: if you have experience/skills in particular areas that you believe would be useful to one of our projects, please let us know.
+* Personal website: if you have a website that discusses your research or other projects, please include a link.
+* References: names and contact information for people you have worked with who can recommend you.
 
 Statement of intent
 
@@ -72,11 +72,23 @@ In a paragraph or two, describe your interests and background. Please tell us wh
 GSOC Application :
 
 Name : Sachin Suresh Shetty
-Email : sachinsshetty.de@gmail
+Email : sachinsshetty.de at gmail.com
+Phone :
 Location : Bonn, Germany
 
 Coursework
-Robotics : Probabilistic Robotics at Uni-Bonn. M.Sc. Germany
-Software Engineering : took the course in B.E at BVBCET, Huballi, India
+* Robotics : Probabilistic Robotics at Uni-Bonn. M.Sc. Germany
+* Software Engineering : S/W Engg fundamentals class at BVBCET, India
+* Computer graphics : OpenGL basics as part of project work at BVBCET, India
+* Physics simulation : No coursework taken
 
 Experience
+* Worked as a full stack developer for 4 years at Subex Ltd and EFI Ltd, Bengaluru
+* Publications :
+  * Special Pedestrian and Head Pose Detection for Autonomous
+Vehicles, https://link.springer.com/book/10.1007/978-981-13-2553-3
+  * Trace Transform Based Identifier for Speech Based Image
+Retrieval On Mobile Phones, https://ieeexplore.ieee.org/abstract/document/6637307/
+* Personal Website :
+  * https://gaganyatri.com
+  * https://slabs.tech
