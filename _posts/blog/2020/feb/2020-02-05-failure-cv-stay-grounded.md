@@ -7,7 +7,7 @@ tags: [ blog ]
 date: 2020-02-05T08:08:50-04:00
 ---
 
-[Read this for background](({{ site.baseurl }}{% link _posts/exp56/2020/v3/feb/2020-02-05-link-to-ground.md %}))
+[Read this for background](({{ site.baseurl }}{% link _posts/exp56/2020/v3/feb/2020-02-05-link-to-ground-dy27.md %}))
 
 
 * 2012
