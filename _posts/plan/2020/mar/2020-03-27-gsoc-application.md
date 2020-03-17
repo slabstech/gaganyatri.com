@@ -12,11 +12,26 @@ Apply to Google Summer of Code(GSOC) 2020 for Robot Operating System (ROS) 20
 
 Below are the list
 
-https://github.com/osrf/osrf_wiki/wiki/GSoC
+[ROS GSOC](https://github.com/osrf/osrf_wiki/wiki/GSoC)
+
 
 https://index.ros.org/doc/ros2/
 
 https://www.ros.org/roscon/
+
+[Open Roberta](https://github.com/OpenRoberta/openroberta-lab/wiki/Google-Summer-of-Code-2020)
+[Open Roberta Lab](https://lab.open-roberta.org/)
+
+ [JDE Robots](https://jderobot.github.io/activities/gsoc/2020#application-instructions-for-gsoc-2020)
+
+ [ardu pilots](https://discuss.ardupilot.org/t/submitting-student-applications-read-this-first/15808)
+
+ [moveit](https://summerofcode.withgoogle.com/organizations/5848470994288640/)
+[MoveIt Ideas](https://moveit.ros.org/documentation/contributing/future_projects/)
+ [RoboComp](https://summerofcode.withgoogle.com/organizations/5085770198548480/)
+ [Robocomp -gsoc](https://robocomp.github.io/web/gsoc/2020/ideas/)
+
+
 
 
 ------
@@ -94,3 +109,8 @@ Retrieval On Mobile Phones, https://ieeexplore.ieee.org/abstract/document/663730
 * Personal Website :
   * https://gaganyatri.com
   * https://slabs.tech
+
+
+---------
+Open Roberta _
+Java upgrade to 11, based on openJDK , no support available for Java 1.8 .
