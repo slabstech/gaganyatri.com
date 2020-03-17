@@ -9,10 +9,17 @@ url: https://gaganyatri.com
 
 # Jekyll configuration
 remote_theme: "mmistakes/so-simple-theme"
-
+skin: "/assets/css/skins/dark.css"
 permalink:   /:categories/:title/
 markdown:    kramdown
+
+# Liquid
+liquid:
+  error_mode: strict
+  
 highlighter: rouge
+feed:
+  path: atom.xml
 sass:
   sass_dir: _sass
   style: compressed
@@ -20,6 +27,8 @@ plugins_dir:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 kramdown:
   input: GFM
