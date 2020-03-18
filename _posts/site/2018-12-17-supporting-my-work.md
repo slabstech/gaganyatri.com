@@ -37,8 +37,14 @@ So that it can help me give more time to writing and not make me starve for doin
 Below are the options
 - Patreon :  [gaganyatri](https://www.patreon.com/gaganyatri)
 - Gift items from my amazon wishlist : [wishlist](https://www.amazon.in/hz/wishlist/dl/invite/h5ET1qg)
+- Paypal : [Paypal](https://paypal.me/sachinsshetty)
+- github : [github](https://github.com/sponsors/sachinsshetty)
 
 Please note that the amount is not refundable and you are sending the amount on
 your own to support my writing.
 
 By sending the amount, you do not get any rights to influence what i write.
+
+### Buy Book
+
+You can buy my books on Amazon store, [Author Page](https://amazon.com/author/sachinshetty)
