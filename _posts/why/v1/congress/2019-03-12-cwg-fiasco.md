@@ -5,7 +5,6 @@ excerpt: "asking a barber to make brain surgery "
 categories: may2019
 tags: [ may2019 ]
 date: 2019-03-12T08:08:50-04:00
-
 ---
 
 When politicians head sports institutions
