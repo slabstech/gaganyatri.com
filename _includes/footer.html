@@ -14,10 +14,21 @@
     </div>
   {%- endif -%}
 
+
+
   <div >
   	<span> Support my work ? <a href="https://gaganyatri.com/site/supporting-my-work" <title> Connect / Donate </title>  </span>
   	<span>, <a href="https://gaganyatri.com/site/disclaimer" <title> Disclaimer </title>  </span>
   	<span>, <a href="https://gaganyatri.com/site/credits" <title> Credits </title>  </span>
   	<span>, <a href="https://gaganyatri.com/site/privacy" <title> Privacy </title>  </span>
+  </div>
+
+<br> <br>
+  <div class="copyright">
+    {% if site.copyright %}
+      {{ site.copyright | markdownify }}
+    {% else %}
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+    {% endif %}
   </div>
 </footer>
