@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Do What Runs You"
-excerpt: "The hear grows & grows"
+excerpt: "The heart grows & grows"
 categories: exp56_3
 tags: [ exp56_3 ]
 date: 2020-03-15T08:08:50-04:00

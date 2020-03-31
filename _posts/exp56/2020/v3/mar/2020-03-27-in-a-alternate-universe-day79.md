@@ -15,9 +15,12 @@ Its a normal flight from Bengaluru to Frankfurt
 
 Instead of masks, Headphones adorn Faces
 
+---
+
 Social distancing is observed via Phone and Sneakers brand
 
 Stay at home is enforced on the oppressed
+
 ----
 
 Overnight queues for screening of movies
@@ -41,3 +44,25 @@ Nobody in sight, None to do their daily chores
 Now heroes are the sanitation workers
 
 ---
+
+Somehow life's a circle
+
+Everyone would have to go through a calamity I guess..
+
+Or we are not learning and making these calamity on ourselves
+
+Like Gandhi, united the world a Century ago
+
+His words have come back to haunt again
+
+---
+
+Its a not perfect world outside
+
+But we can all create our little world of Bliss
+
+These trying times, will pass
+
+Hopefully the lessons learnt stay at least
+
+For a few generations
