@@ -2,8 +2,8 @@
 layout: post
 title: "Simple Aagi Innond Love Story"
 excerpt: "Aa dinagalu"
-categories: books-pub
-tags: [ books-pub ]
+categories: books-write
+tags: [ books-write ]
 date: 2019-07-01T08:08:50-04:00
 
 ---
