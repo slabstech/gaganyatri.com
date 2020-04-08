@@ -16,7 +16,7 @@ markdown:    kramdown
 # Liquid
 liquid:
   error_mode: strict
-  
+
 highlighter: rouge
 feed:
   path: atom.xml
@@ -50,19 +50,3 @@ owner:
   email: ""
   twitter: gaganyatri
   github: sachinsshetty
-
-
-# Footer Links
-footer_links:
-  - title: Twitter
-    url: https://twitter.com/gaganyatri
-    icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/gaganyatri
-    icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/sachinsshetty
-    icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square

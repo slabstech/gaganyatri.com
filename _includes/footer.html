@@ -1,21 +1,6 @@
 <footer id="footer" class="site-footer">
   {% include footer-custom.html %}
 
-  {%- if site.footer_links -%}
-    <div class="social-icons">
-      {%- for footer_link in site.footer_links -%}
-        {%- if footer_link.url contains "://" -%}
-          {%- assign url = footer_link.url -%}
-        {%- else -%}
-          {%- assign url = footer_link.url | relative_url -%}
-        {%- endif -%}
-        <a class="social-icon" href="{{ url }}"><i class="{{ footer_link.icon | default: 'fas fa-link' }} fa-2x" title="{{ footer_link.title }}"></i></a>
-      {%- endfor -%}
-    </div>
-  {%- endif -%}
-
-
-
   <div >
   	<span> Support my work ? <a href="https://gaganyatri.com/site/supporting-my-work" <title> Connect / Donate </title>  </span>
   	<span>, <a href="https://gaganyatri.com/site/disclaimer" <title> Disclaimer </title>  </span>
