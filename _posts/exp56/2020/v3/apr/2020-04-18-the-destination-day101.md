@@ -18,4 +18,8 @@ How does exclusiveness of luxury save from hoarding
 
 Do we have a destination, that we seem to be hurtling around
 
-The abundance that we seem
+The abundance that we seem fondly attracted to
+
+Everything needed in multiples of possessions
+
+Somehow it comes back to let us go slow 
