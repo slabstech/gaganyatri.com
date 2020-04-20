@@ -16,10 +16,10 @@ DE
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
-| 10-12 |  Game AI              | IT Security    | iai       |     iai                    | iai  |   iai               |   iai               |
+| 10-12 |  Game AI              | Usable Security    | data Science & big data    |     IT Security                    | ILAS  |   iai               |   iai               |
 | 12-14 |     iai           |   Mobile Communication                 |     Advanced Deep Learning                    |      iai                  |iai |  iai                 |  iai                |
-| 14-16 | iai  | iai  |    iai                       |iai |    iai              |  iai                |  Advanced SDF               |
-| 16-18 |     iai           |  iai                |iai      | iai       |  iai                  |     iai             |  iai                |
+| 14-16 | Artificial Life  | Robot Learning |    iai                       |Advanced SDF |    iai              |  iai                |  iai               |
+| 16-18 |     iai           |  iai                |iai      | Pattern Matching+Audio       |  iai                  |     iai             |  iai                |
 | 18-19 |      iai          |    iai               | iai      |  iai                      |   iai                   |   iai                 |  iai                 |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
@@ -30,10 +30,10 @@ IST
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
 | 10-12 |  iai              | iai    | iai       |     iai                    | iai  |   iai               |   iai               |
-| 12-14 |     Game AI         |   IT Security                |      iai                    |      iai                  |iai |  iai                 |  iai                |
-| 14-16 | Game AI  | IT Security + Mobile Communication |    Advanced Deep Learning                    |iai |    iai              |  iai                |   iai               |
-| 16-18 |     iai    | Mobile Communication        | Advanced Deep Learning                |Advanced SDF      |  iai                  |     iai             |  iai                |
-| 18-19 |      iai          |    iai               | iai      |  Advanced SDF                     |   iai                   |   iai                 |  iai                 |
+| 12-14 |     Game AI         |   Usable Security                |      iai                    |     IT Security                  |iai |  iai                 |  iai                |
+| 14-16 | Game AI  | Usable Security + Mobile Communication |    Advanced Deep Learning                    |IT Security|    iai              |  iai                |   iai               |
+| 16-18 |     Artificial Life    | Mobile Communication + Robot Learning        | Advanced Deep Learning                |Advanced SDF      |  iai                  |     iai             |  iai                |
+| 18-19 |      Artificial Life         |    robot Learning               | iai      |  Advanced SDF                     |   iai                   |   iai                 |  iai                 |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
 
@@ -47,6 +47,7 @@ IST
   * Zoom Class
   * [Youtube Lecture](https://www.youtube.com/playlist?list=PL8NTI-xZ0OWnuFESTicrLL7ZYC3LuwRLA)
   * [Slides](https://www.researchgate.net/project/lectures-on-game-AI)
+  * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1685072&client_id=ecampus)
 
 * Advanced Deep Learning for Graphics
   * [Link](https://cg.cs.uni-bonn.de/en/teaching/ss-2020/lecture-advanced-deep-learning-for-graphics/)
@@ -56,30 +57,43 @@ IST
 * Advanced Sensor Data Fusion in Distributed System
   * Lecture : Thursday : 14-16 pm , 5.30 pm IST
   * [Course Link](https://net.cs.uni-bonn.de/wg/sensor-data-and-information-fusion/teaching/st-2020/advanced-sensor-data-fusion/)
+  * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1665553&client_id=ecampus)
   * Exercise :
 
-* Algorithms
 
 * Graphics
   * MA-INF 2212 - Pattern Matching and Machine Learning for Audio Signal Processing
+  * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1668148&client_id=ecampus
+)
 
 * Communication
   * Mobile Communication : Tuesday : 14-16 , 5.30 pm IST
     * [Link ](https://net.cs.uni-bonn.de/wg/cs/teaching/st-2020/mobile-communication/)
   * IT Security : Thursday : 10-12 , 1.30 pm IST
     * [Link](https://net.cs.uni-bonn.de/wg/itsec/teaching/st-2020/it-security/)
+    * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1685099&client_id=ecampus)
   * Usable Security : Tuesday : 10-12 am , 1.30 pm IST
     * Zoom Lecture : Ecampus
+    * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1664668&client_id=ecampus)
 
 * Intelligent Systems
   * 24 April
   * [Lab : CUDA for Vision](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176355&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-  * [Robot Learning](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176350&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+  * Robot Learning
+    * [Site Link](http://ais.uni-bonn.de/SS20/Robot_Learning.html)
+    * [Basis](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176350&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+
+  * Artificial Life
+    * [Site Link](http://ais.uni-bonn.de/SS20/4201_L_AL.html)
+
 
 * Data Science And big Data
   * Lecture : Wednesday : 10-12, 1.30 pm IST
   * Exercise : Wednesday : 12-14, 3.30 pm IST
+  * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1624387&client_id=ecampus)
 
+* ILAS : Intelligent Learning and Analysis Systems
+  * [Ecampus](https://mail.uni-bonn.de/SRedirect/BD0F90B2/ecampus.uni-bonn.de/goto.php?target=crs_1624386&client_id=ecampus)
 
   * Monday Videos are Released : Watch it before class on Wednesday
   * Saved Videos + Lectures  : Online at ecampus
