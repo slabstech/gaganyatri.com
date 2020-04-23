@@ -26,7 +26,7 @@ But stopping with inaction & praying for mercy
 
 Can never be a final solution
 
-Dust of the lethargy
+Dust off the lethargy
 
 Believe in your self, that discipline
 

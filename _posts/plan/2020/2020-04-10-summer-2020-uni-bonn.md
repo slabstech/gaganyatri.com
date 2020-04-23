@@ -16,9 +16,9 @@ DE
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
-| 10-12 |  Game AI              | Usable Security    | data Science & big data    |     IT Security                    | ILAS  |   iai               |   iai               |
+| 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | ILAS  |   iai               |   iai               |
 | 12-14 |     iai           |   Mobile Communication                 |     Advanced Deep Learning                    |      iai                  |iai |  iai                 |  iai                |
-| 14-16 | Artificial Life  | Robot Learning |    iai                       |Advanced SDF |    iai              |  iai                |  iai               |
+| 14-16 | Artificial Life  | Robot Learning |    iai                       |Advanced SDF | CUDA Lab                |  iai                |  iai               |
 | 16-18 |     iai           |  iai                |iai      | Pattern Matching+Audio       |  iai                  |     iai             |  iai                |
 | 18-19 |      iai          |    iai               | iai      |  iai                      |   iai                   |   iai                 |  iai                 |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
@@ -64,7 +64,8 @@ IST
 * Graphics
   * MA-INF 2212 - Pattern Matching and Machine Learning for Audio Signal Processing
   * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1668148&client_id=ecampus
-)
+) * [Basis](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176316&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+  * Thursday : 1400. 7pm IST ?
 
 * Communication
   * Mobile Communication : Tuesday : 14-16 , 5.30 pm IST
@@ -74,6 +75,7 @@ IST
     * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1685099&client_id=ecampus)
   * Usable Security : Tuesday : 10-12 am , 1.30 pm IST
     * Zoom Lecture : Ecampus
+    * Exam : 5 August
     * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1664668&client_id=ecampus)
 
 * Intelligent Systems
@@ -91,10 +93,10 @@ IST
   * Lecture : Wednesday : 10-12, 1.30 pm IST
   * Exercise : Wednesday : 12-14, 3.30 pm IST
   * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1624387&client_id=ecampus)
-
+  * [Link](https://mlai.cs.uni-bonn.de/teaching)
 * ILAS : Intelligent Learning and Analysis Systems
-  * [Ecampus](https://mail.uni-bonn.de/SRedirect/BD0F90B2/ecampus.uni-bonn.de/goto.php?target=crs_1624386&client_id=ecampus)
-
+  * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1624386&client_id=ecampus)
+  * Lecture : Friday 10-12pm, 1.30pm IST
   * Monday Videos are Released : Watch it before class on Wednesday
   * Saved Videos + Lectures  : Online at ecampus
   * First Exercise Sheet : April 29
