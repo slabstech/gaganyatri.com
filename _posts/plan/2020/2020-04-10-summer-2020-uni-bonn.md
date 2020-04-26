@@ -16,9 +16,9 @@ DE
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
-| 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | ILAS  |   iai               |   iai               |
+| 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | ILAS/Ex RL  |   iai               |   iai               |
 | 12-14 |     iai           |   Mobile Communication                 |     Advanced Deep Learning                    |      iai                  |iai |  iai                 |  iai                |
-| 14-16 | Artificial Life  | Robot Learning |    iai                       |Advanced SDF | CUDA Lab                |  iai                |  iai               |
+| 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Advanced SDF | CUDA Lab                |  iai                |  iai               |
 | 16-18 |     iai           |  iai                |iai      | Pattern Matching+Audio       |  iai                  |     iai             |  iai                |
 | 18-19 |      iai          |    iai               | iai      |  iai                      |   iai                   |   iai                 |  iai                 |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
@@ -87,7 +87,8 @@ IST
 
   * Artificial Life
     * [Site Link](http://ais.uni-bonn.de/SS20/4201_L_AL.html)
-
+    * Exercise : Wed : 1215, 3.45pm  
+    * Lecture : Mon : 14:16, 5.30 pm
 
 * Data Science And big Data
   * Lecture : Wednesday : 10-12, 1.30 pm IST
