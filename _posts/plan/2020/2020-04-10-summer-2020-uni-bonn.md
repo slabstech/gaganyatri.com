@@ -17,9 +17,10 @@ DE
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
 | 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | ILAS/Ex RL  |   iai               |   iai               |
-| 12-14 |     iai           |   Mobile Communication                 |     Advanced Deep Learning                    |      iai                  |iai |  iai                 |  iai                |
-| 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Advanced SDF | CUDA Lab                |  iai                |  iai               |
-| 16-18 |     iai           |  iai                |iai      | Pattern Matching+Audio       |  iai                  |     iai             |  iai                |
+| 12-14 |     iai           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    |      iai                  |iai |  iai                 |  iai                |
+| 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Ex- ADLG/Advanced SDF |
+ex ILAS/CUDA Lab                |  iai                |  iai               |
+| 16-18 |     ex- Game AI           |  iai                |iai      | iai       |  iai                  |     iai             |  iai                |
 | 18-19 |      iai          |    iai               | iai      |  iai                      |   iai                   |   iai                 |  iai                 |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
@@ -30,9 +31,9 @@ IST
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
 | 10-12 |  iai              | iai    | iai       |     iai                    | iai  |   iai               |   iai               |
-| 12-14 |     Game AI         |   Usable Security                |      iai                    |     IT Security                  |iai |  iai                 |  iai                |
-| 14-16 | Game AI  | Usable Security + Mobile Communication |    Advanced Deep Learning                    |IT Security|    iai              |  iai                |   iai               |
-| 16-18 |     Artificial Life    | Mobile Communication + Robot Learning        | Advanced Deep Learning                |Advanced SDF      |  iai                  |     iai             |  iai                |
+| 12-14 |     Game AI         |   Usable Security                |      iai                    |     iai                  |iai |  iai                 |  iai                |
+| 14-16 | Game AI  | Usable Security  |    Advanced Deep Learning                    | iai|    iai              |  iai                |   iai               |
+| 16-18 |     Artificial Life    | Robot Learning        | Advanced Deep Learning                |Advanced SDF      |  iai                  |     iai             |  iai                |
 | 18-19 |      Artificial Life         |    robot Learning               | iai      |  Advanced SDF                     |   iai                   |   iai                 |  iai                 |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
@@ -58,21 +59,9 @@ IST
   * Lecture : Thursday : 14-16 pm , 5.30 pm IST
   * [Course Link](https://net.cs.uni-bonn.de/wg/sensor-data-and-information-fusion/teaching/st-2020/advanced-sensor-data-fusion/)
   * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1665553&client_id=ecampus)
-  * Exercise :
 
-
-* Graphics
-  * MA-INF 2212 - Pattern Matching and Machine Learning for Audio Signal Processing
-  * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1668148&client_id=ecampus
-) * [Basis](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176316&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-  * Thursday : 1400. 7pm IST ?
 
 * Communication
-  * Mobile Communication : Tuesday : 14-16 , 5.30 pm IST
-    * [Link ](https://net.cs.uni-bonn.de/wg/cs/teaching/st-2020/mobile-communication/)
-  * IT Security : Thursday : 10-12 , 1.30 pm IST
-    * [Link](https://net.cs.uni-bonn.de/wg/itsec/teaching/st-2020/it-security/)
-    * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1685099&client_id=ecampus)
   * Usable Security : Tuesday : 10-12 am , 1.30 pm IST
     * Zoom Lecture : Ecampus
     * Exam : 5 August
