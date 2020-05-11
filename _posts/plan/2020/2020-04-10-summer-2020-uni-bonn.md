@@ -17,7 +17,7 @@ DE
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
 | 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | ILAS/Ex RL  |   iai               |   iai               |
-| 12-14 |     iai           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    |      iai                  |iai |  iai                 |  iai                |
+| 12-14 |     CUDA Lab           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    |      iai                  |iai |  iai                 |  iai                |
 | 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Ex- ADLG/Advanced SDF |
 ex ILAS/CUDA Lab                |  iai                |  iai               |
 | 16-18 |     ex- Game AI           |  iai                |iai      | iai       |  iai                  |     iai             |  iai                |
@@ -68,8 +68,11 @@ IST
     * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1664668&client_id=ecampus)
 
 * Intelligent Systems
-  * 24 April
-  * [Lab : CUDA for Vision](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176355&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+
+  * CUDA :  
+    * [Lab : CUDA for Vision](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176355&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+    * Monday 12-14
+    *  
   * Robot Learning
     * [Site Link](http://ais.uni-bonn.de/SS20/Robot_Learning.html)
     * [Basis](https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176350&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
