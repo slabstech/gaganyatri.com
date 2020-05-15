@@ -17,9 +17,8 @@ DE
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
 | 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | ILAS/Ex RL  |   iai               |   iai               |
-| 12-14 |     CUDA Lab           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    |      iai                  |iai |  iai                 |  iai                |
-| 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Ex- ADLG/Advanced SDF |
-ex ILAS/CUDA Lab                |  iai                |  iai               |
+| 12-14 |     CUDA Lab           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    |  iai | iai                        |  iai                 |  iai                |
+| 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Ex- ADLG/Advanced SDF | ex ILAS     |  iai                |  iai               |
 | 16-18 |     ex- Game AI           |  iai                |iai      | iai       |  iai                  |     iai             |  iai                |
 | 18-19 |      iai          |    iai               | iai      |  iai                      |   iai                   |   iai                 |  iai                 |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
@@ -92,8 +91,9 @@ IST
   * Lecture : Friday 10-12pm, 1.30pm IST
   * Monday Videos are Released : Watch it before class on Wednesday
   * Saved Videos + Lectures  : Online at ecampus
-  * First Exercise Sheet : April 29
+  * Ex. Friday : 14.45
   * Exam : 1st : 2020/08/04  , 2nd : 2020/09/21
+
 
 * Extra
 
