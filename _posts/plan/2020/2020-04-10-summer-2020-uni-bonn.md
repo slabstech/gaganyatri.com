@@ -53,6 +53,7 @@ IST
   * [Link](https://cg.cs.uni-bonn.de/en/teaching/ss-2020/lecture-advanced-deep-learning-for-graphics/)
   * Lecture : Wed : 12pm to 2pm , 3.30 pm IST
   * Exercise : Thu : 10am-12pm/2-4pm, 1.30 pm IST
+  * Exam : July 22nd
 
 * Advanced Sensor Data Fusion in Distributed System
   * Lecture : Thursday : 14-16 pm , 5.30 pm IST
