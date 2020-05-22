@@ -15,3 +15,7 @@ Perfect one line of work to reach highest ideal
 If the objective of life is Adventure,
 
 Keep reiventing oneself to build anew
+
+Nothing stays permanent, everything is incidental
+
+The chances increases with more trails
