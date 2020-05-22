@@ -16,9 +16,9 @@ DE
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
-| 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | ILAS/Ex RL  |   iai               |   iai               |
-| 12-14 |     CUDA Lab           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    |  iai | iai                        |  iai                 |  iai                |
-| 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Ex- ADLG/Advanced SDF | ex ILAS     |  iai                |  iai               |
+| 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | Ex RL  |   iai               |   iai               |
+| 12-14 |     CUDA Lab           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    |  Data Mining | iai                        |  iai                 |  iai                |
+| 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Ex- ADLG/Advanced SDF | ex Data Mining     |  iai                |  iai               |
 | 16-18 |     ex- Game AI           |  iai                |iai      | iai       |  iai                  |     iai             |  iai                |
 | 18-19 |      iai          |    iai               | iai      |  iai                      |   iai                   |   iai                 |  iai                 |
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
@@ -87,13 +87,21 @@ IST
   * Exercise : Wednesday : 12-14, 3.30 pm IST
   * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1624387&client_id=ecampus)
   * [Link](https://mlai.cs.uni-bonn.de/teaching)
-* ILAS : Intelligent Learning and Analysis Systems
+*  Data Mining  : Intelligent Learning and Analysis Systems
   * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1624386&client_id=ecampus)
-  * Lecture : Friday 10-12pm, 1.30pm IST
+  * Lecture : Friday 12-12pm, 1.30pm IST
   * Monday Videos are Released : Watch it before class on Wednesday
   * Saved Videos + Lectures  : Online at ecampus
   * Ex. Friday : 14.45
   * Exam : 1st : 2020/08/04  , 2nd : 2020/09/21
+
+* Submission
+  * Robot Learning : Tuesday 1400
+  * Data Mining : Thursday 23:50
+  * Artificial Life : Monday 1400
+  * CUDA Lab : Monday 1200
+  * Big Data : Tuesday 1700
+  * DeepLearning : Tuesday 2350
 
 
 * Extra
