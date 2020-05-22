@@ -1,19 +1,9 @@
 ---
 layout: post
 title: "There are Days"
-excerpt: "One's Own Incompetence"
+excerpt: "Overcome predicament"
 categories: exp56_3
 tags: [ exp56_3 ]
-date: 2020-05-19T08:08:50-04:00
+date: 2020-05-18T08:08:50-04:00
 
 ---
-
-Let go of the Lethargy
-
-Stop Playing the Victim of All and Sundry
-
-Cry for help works only when one is young and new
-
-Not when the misery is brought about by
-
-One's own Incompetence
