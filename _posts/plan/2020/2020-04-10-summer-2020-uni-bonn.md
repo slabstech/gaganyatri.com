@@ -87,6 +87,7 @@ IST
   * Exercise : Wednesday : 12-14, 3.30 pm IST
   * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1624387&client_id=ecampus)
   * [Link](https://mlai.cs.uni-bonn.de/teaching)
+
 *  Data Mining  : Intelligent Learning and Analysis Systems
   * [Ecampus](https://ecampus.uni-bonn.de/goto.php?target=crs_1624386&client_id=ecampus)
   * Lecture : Friday 12-12pm, 1.30pm IST
