@@ -17,7 +17,7 @@ DE
 | 4:00 | Wake up | Wake up| Wake up | Wake up| Wake up |  Wake up | Wake up|
 | 8-10 | iai | iai   |  iai                      | iai          |  iai                |  iai                  |  iai                |
 | 10-12 |  Game AI              | Usable Security    | data Science & big data    |     Game AI                    | Ex RL  |   iai               |   iai               |
-| 12-14 |     CUDA Lab           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    |  Data Mining | iai                        |  iai                 |  iai                |
+| 12-14 |     CUDA Lab           |   iai                 |   Ex-Big Data/  Advanced Deep Learning                    | iai |  Data Mining                        |  iai                 |  iai                |
 | 14-16 | Artificial Life  | Robot Learning |  Ex A Life  | Ex- ADLG/Advanced SDF | ex Data Mining     |  iai                |  iai               |
 | 16-18 |     ex- Game AI           |  iai                |iai      | iai       |  iai                  |     iai             |  iai                |
 | 18-19 |      iai          |    iai               | iai      |  iai                      |   iai                   |   iai                 |  iai                 |
