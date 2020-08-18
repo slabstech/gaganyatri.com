@@ -37,7 +37,14 @@ IST
 | 23:00 |Sleep| Sleep| Sleep| Sleep| Sleep |  Sleep |Sleep |
 
 
-
+# Exam
+* Big Data :  Written : August 4, 2020, 14:00-16:00 in Wolfgang-Paul-Hörsaal (Kreuzbergweg 28, Bonn)
+* Game AI : Online : July 16, 2020
+* Data Mining :  August 11, 2020, 12:00-14:00 in HS1+2 (Bonn, Poppelsdorf).
+* Usable Sec : Online :
+* CUDA Lab :
+* Robot Learning :
+* Advanced Deep Learning :
 
 ##### Lectures
 
