@@ -24,4 +24,6 @@ Next up,  the most revered war memorial of independent India,  commemorating t
 
 Alas we did not have passes,  we could only just see the power corridors of the Nation . We were taken around the sights of Delhi in HOHO bus.
 
-Next stop was Qutub Minar
+Next stop was Qutub Minar.
+
+The crazy part of the day was the train trip to Amritsar. We were travelling in two sets of people, both our trains were delayed by 4-6 hours, with minor skirmishes and exchange of personnel on the midnight train at Nizamuddin, we finally started our journey towards Amritsar.
