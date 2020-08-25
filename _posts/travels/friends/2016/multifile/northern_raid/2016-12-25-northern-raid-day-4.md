@@ -20,4 +20,15 @@ Usually the trek with snow would be on the roads completely,  we had lady luck 
 
 Our group DW-14, had 44 eager participants coming from all walks of life,  majority was of first timers while there were also veterans of 10+ treks under their belt.
 
-Day 1 was for reporting and settling into the base camp,  we were given a few instructions on do's and donts for the duration of the trek.
+* Day 1 was for reporting and settling into the base camp,  we were given a few instructions on do's and donts for the duration of the trek.
+
+
+* Day 2: Training/Acclimatization
+
+* Day 3: Base camp Trek to Kalatop camp - 8km/ 5hr
+
+* Day4: Kalatop camp to Khajjiar camp- 11km/ 7hr
+
+* Day 5: Khajjiar camp to Mangla camp- 11km/ 6hr
+
+* Day 6: After breakfast transfer by bus from Mangla camp to Dalhousie Youth Hoste
