@@ -66,4 +66,6 @@ What may seem today as a failure, might actually be a lesson that will lead us t
 History, myths, stories have shown us that heroes/heroines became what they eventually achieved based on their difficult periods. If they had not overcome their trials, we would have not heard about them after centuries.
 
 
-to be contd.. in another post on how we can help others. 
+to be contd.. in another post on how we can help others.
+
+* [Beating Depression - survivors guide]({{ site.baseurl }}{% link  _posts\blog\2020\sep\2020-09-12-state-depression-surviving-part2.md %})
