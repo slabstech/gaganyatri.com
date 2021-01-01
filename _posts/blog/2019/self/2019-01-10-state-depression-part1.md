@@ -68,4 +68,4 @@ History, myths, stories have shown us that heroes/heroines became what they even
 
 to be contd.. in another post on how we can help others.
 
-* [Beating Depression - survivors guide]({{ site.baseurl }}{% link  _posts\blog\2020\sep\2020-09-12-state-depression-surviving-part2.md %})
+* [Beating Depression - survivors guide]({{ site.baseurl }}{% link _posts/blog/2020/sep/2020-09-12-state-depression-surviving-part2.md %})
