@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Simple Aagi Innond Love Story"
 excerpt: "Aa dinagalu"
 categories: books-write
@@ -21,12 +21,12 @@ AA dinagala Kathegalu
 |[Heartbeat In a Tiny Bottle]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-7.md  %})|no|
 |[Losing the communicator]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-8.md  %})|Complete|
 |[1 pm calls]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-9.md  %})|Complete|
-|[Wednesday Night Shift]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-10.md  %})|no|
-|[Movie Date - 2 States]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-11.md  %})|no|
-|[First Tear for the Road]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-12.md  %})|no|
-|[When the ground shook]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-13.md  %})|Complete|
-|[Hopeless and Helpless]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-14.md  %})|no|
-|[Excommunicado]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-15.md  %})|no|
-|[Life would never be the same]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-16.md  %})|Complete|
-|[Solitary Entrapment]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-17.md  %})|Complete|
-|[Always]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-saiols-chp-18.md  %})|no|
+|[Wednesday Night Shift]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_0.md  %})|no|
+|[Movie Date - 2 States]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_1.md  %})|no|
+|[First Tear for the Road]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_2.md  %})|no|
+|[When the ground shook]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_3.md  %})|Complete|
+|[Hopeless and Helpless]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_4.md  %})|no|
+|[Excommunicado]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_5.md  %})|no|
+|[Life would never be the same]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_6.md  %})|Complete|
+|[Solitary Entrapment]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_7.md  %})|Complete|
+|[Always]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-02-saiols-chp-1_8.md  %})|no|
