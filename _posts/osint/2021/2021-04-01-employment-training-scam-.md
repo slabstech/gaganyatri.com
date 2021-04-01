@@ -22,9 +22,15 @@ modified: 2021-04-01T14:11:53-04:00
         * Email : nandini_srivastava@cabgolin.com
         * Phone : +91 89295 36162
 
-      * Operation Manager
+      * Radha Pampattiwar
+       * radha_pampattiwar@cabgolin.com
 
-2. For the candidate to be job ready, IBM SPSS Modeler certificate was required via GRN number and enrolment was to be done immediately within a day. immediately a call is received from Tech Brainte for the certificate.
+      * Interview link :
+        [Microsoft Team ](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzhiMTg3NzItNjI1YS00ZTJkLWFiOWEtMmYyNDU2MDc3ZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2237276134-ed40-4ca7-a65e-e94a89d3dbcf%22%2c%22Oid%22%3a%22df65c867-944f-4d29-8857-ad09e3ca84c1%22%7d) :
+        [Jitsi Meet](https://meet.jit.si/cabgolin) : https://meet.jit.si/cabgolin
+2. For the candidate to be job ready, IBM SPSS Modeler certificate was required via GRN number and enrolment was to be done immediately within a day.
+
+  Email is received from enrolment@ibmpw.com saying that my profile has been forwarded to www.spss.co.in , www.techbrainte.com and www.udemy.com . Immediately a call is received from Tech Brainte for the certificate.
 
       * Tech Brainte :
         * Phone : +91 8826646546
@@ -32,9 +38,9 @@ modified: 2021-04-01T14:11:53-04:00
           * Phone : +91 72920 88176
 
 
-
 3. Email is sent from admin@tech-brainte.com with enrolment link and unique id is provided : 664001PW0N .
     * [Enrolment link](https://forms.gle/ikf15c7z47QY2SZK7) : https://forms.gle/ikf15c7z47QY2SZK7
+    * [Archived Link](https://web.archive.org/web/20210401072142/https://docs.google.com/forms/d/e/1FAIpQLScgfyf6HlAPK3NNzr9DdpqA8P8j97tUZ8hNZ3twogvxBOPMHA/viewform) : https://web.archive.org/web/20210401072142/https://docs.google.com/forms/d/e/1FAIpQLScgfyf6HlAPK3NNzr9DdpqA8P8j97tUZ8hNZ3twogvxBOPMHA/viewform
 
 4. Payment link is sent via RazorPay website for INR 10,000 for enrolment
     * [Payment Link](https://rzp.io/i/GA7BhypJmx) : https://rzp.io/i/GA7BhypJmx
@@ -50,7 +56,7 @@ modified: 2021-04-01T14:11:53-04:00
 
     * [Reddit Link](https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/) :
 https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
-
+    * [Archived Link](https://web.archive.org/web/20210401072044/https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/) : https://web.archive.org/web/20210401072044/https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
 
 7. The fraudsters seems to be following a modus operandi by creating multiple companies and taking advantage of Work from Home policies and online recruitment.  Below are the companies being used .
 
@@ -62,43 +68,56 @@ https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
       * Madhav Shrivastav and Muskan Khaira
         * Email : muskan.khaira@tomlaglobal.com  
 
-        * meenakshi kirloskar
-        * Email : meenakshi_kirloskar@tomlaglobal.com, hr@tomlaglobal.com
-        * Phone : +91 89295 36162
+      * meenakshi kirloskar
+          * Email : meenakshi_kirloskar@tomlaglobal.com, hr@tomlaglobal.com
+          * Phone : +91 89295 36162
+
+      * Shantanu ghosh
+          * Email : shantanu.ghosh@tomlaglobal.com and hr@tomlaglobal.com
+
+    * Medozyme
+      * medoyzme.com
+        * krititekriwal
+          * Email : kriti_tekriwal@medozyme.com and hr@medozyme.com
+          * Phone : +91 9818045968
+
+    * Clarlvate
+      * clarlvate.com
+        * Kalai Vani
+          * Email : kalai_vani@clarlvate.com
 
 
+8. Now by checking the whois records (IP address) of the fraudulent website at https://www.whois.com/
+    1. www.synamol.com   : https://www.whois.com/whois/synamol.com
+    2. www.clarlvate.com
+    3. www.tomlaglobal.com
+    4. www.medoyzme.com
+    5. www.clarlvate.com
+    6. www.techbrainte.com
+    7. www.tech-brainte.com
+    8. ibmpw.com  :  https://www.whois.com/whois/ibmpw.com
 
 
-Company and Domain Names
-Synamol.com :
-https://www.whois.com/whois/synamol.com
+9. All the websites have the below information . Everything is pointing to same individuals operating the fraud network
 
-https://www.whois.com/whois/tomlaglobal.com
+  * Registrant Street: Kalkofnsvegur 2
+  * Registrant City: Reykjavik
+  * Registrant State/Province: Capital Region
+  * Registrant Postal Code: 101
+  * Registrant Country: IS
+  * Registrant Phone: +354.4212434
 
+<!-- This is commented out.
 
-Juha Liikala :
-User :
-Website : juhaliikala.com
-Twitter : https://twitter.com/juhaliikala
-Instagram :
-His company : https://twitter.com/Synopsys
+* Checking the phone number provided +354.4212434 on google directs to below individual.
+    * [Google Search](https://www.google.com/search?q=%2B354.4212434+juha&client=firefox-b-d&ei=73llYPbHLYbasAeyzZTgBA&oq=%2B354.4212434+juha&gs_lcp=Cgdnd3Mtd2l6EANQ5WBYt2xgknFoAXAAeACAAboBiAHLA5IBAzAuM5gBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwi2--m-xtzvAhUGLewKHbImBUwQ4dUDCAw&uact=5) : https://www.google.com/search?q=%2B354.4212434+juha&client=firefox-b-d&ei=73llYPbHLYbasAeyzZTgBA&oq=%2B354.4212434+juha&gs_lcp=Cgdnd3Mtd2l6EANQ5WBYt2xgknFoAXAAeACAAboBiAHLA5IBAzAuM5gBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwi2--m-xtzvAhUGLewKHbImBUwQ4dUDCAw&uact=5
 
-Whois :
-https://www.whois.com/whois/juhaliikala.com
+    * Juha Liikala :
 
-Deatils from IP address :
-Location : Kalkofnsvegur 2 , Reykjavik, Finland
-Phone :  +354.4212434
+      * Website : juhaliikala.com
+      * Twitter : https://twitter.com/juhaliikala
+      * https://www.scamadviser.com/check-website/juhaliikala.com
 
-
-
-
-
-https://www.synopsys.com/company/contact-synopsys/office-locations.html
-
-
-
-
---------
-Documents to be printed :
-Email Chain
+      * Instagram :
+      * His company : https://twitter.com/Synopsys
+-->
