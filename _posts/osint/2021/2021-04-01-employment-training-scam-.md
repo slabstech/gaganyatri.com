@@ -123,17 +123,5 @@ https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
     * usr3 : 10000
 
 12. Blacklist users from domain providers via NameCheap legal representatives.
-<!-- This is commented out.
 
-* Checking the phone number provided +354.4212434 on google directs to below individual.
-    * [Google Search](https://www.google.com/search?q=%2B354.4212434+juha&client=firefox-b-d&ei=73llYPbHLYbasAeyzZTgBA&oq=%2B354.4212434+juha&gs_lcp=Cgdnd3Mtd2l6EANQ5WBYt2xgknFoAXAAeACAAboBiAHLA5IBAzAuM5gBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwi2--m-xtzvAhUGLewKHbImBUwQ4dUDCAw&uact=5) : https://www.google.com/search?q=%2B354.4212434+juha&client=firefox-b-d&ei=73llYPbHLYbasAeyzZTgBA&oq=%2B354.4212434+juha&gs_lcp=Cgdnd3Mtd2l6EANQ5WBYt2xgknFoAXAAeACAAboBiAHLA5IBAzAuM5gBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwi2--m-xtzvAhUGLewKHbImBUwQ4dUDCAw&uact=5
-
-    * Juha Liikala :
-
-      * Website : juhaliikala.com
-      * Twitter : https://twitter.com/juhaliikala
-      * https://www.scamadviser.com/check-website/juhaliikala.com
-
-      * Instagram :
-      * His company : https://twitter.com/Synopsys
--->
+13. Track RazorPay via Twitter : https://twitter.com/gaganyatri/status/1377554577596243968
