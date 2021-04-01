@@ -10,12 +10,11 @@ modified: 2021-04-01T14:11:53-04:00
 
 ## Job Employment Scam :
 
-1. The Victim(Ashok Kumar/John Doe) was contacted on 24th March 2021 via Email through Job Portal : Hirist platform for Data Scientist position at Cabgolin Research and Product Development
+1. The Victim(Ashok Kumar/Jane Doe) was contacted on 24th March 2021 via Email through Job Portal : Hirist platform for Data Scientist position at Cabgolin Research and Product Development
 
   * [Job Link](https://web.archive.org/web/20210401065012/https://www.hirist.com/j/data-scientist-pythonsql-0-3-yrs-751316.html?ref=rl&pref=kp) :  https://www.hirist.com/j/data-scientist-pythonsql-0-3-yrs-751316.html?ref=rl&pref=kp
 
   * [Archived Link](https://web.archive.org/web/20210401065012/https://www.hirist.com/j/data-scientist-pythonsql-0-3-yrs-751316.html?ref=rl&pref=kp) :  https://web.archive.org/web/20210401065012/https://www.hirist.com/j/data-scientist-pythonsql-0-3-yrs-751316.html?ref=rl&pref=kp
-
 
   * #### Contact Persons :
       * Nandini : HR recruiter
@@ -26,8 +25,11 @@ modified: 2021-04-01T14:11:53-04:00
        * radha_pampattiwar@cabgolin.com
 
       * Interview link :
-        [Microsoft Team ](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzhiMTg3NzItNjI1YS00ZTJkLWFiOWEtMmYyNDU2MDc3ZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2237276134-ed40-4ca7-a65e-e94a89d3dbcf%22%2c%22Oid%22%3a%22df65c867-944f-4d29-8857-ad09e3ca84c1%22%7d) :
-        [Jitsi Meet](https://meet.jit.si/cabgolin) : https://meet.jit.si/cabgolin
+        * [Microsoft Team ](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzhiMTg3NzItNjI1YS00ZTJkLWFiOWEtMmYyNDU2MDc3ZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2237276134-ed40-4ca7-a65e-e94a89d3dbcf%22%2c%22Oid%22%3a%22df65c867-944f-4d29-8857-ad09e3ca84c1%22%7d) :
+
+        * [Jitsi Meet](https://meet.jit.si/cabgolin) : https://meet.jit.si/cabgolin
+
+
 2. For the candidate to be job ready, IBM SPSS Modeler certificate was required via GRN number and enrolment was to be done immediately within a day.
 
   Email is received from enrolment@ibmpw.com saying that my profile has been forwarded to www.spss.co.in , www.techbrainte.com and www.udemy.com . Immediately a call is received from Tech Brainte for the certificate.
@@ -36,6 +38,13 @@ modified: 2021-04-01T14:11:53-04:00
         * Phone : +91 8826646546
       * Jennie Trainer
           * Phone : +91 72920 88176
+
+    * [Invoice generated link](https://www.refrens.com/invoices/605c873c5747a9001232fcda?_at=74D32qLvCWAWLB4ubq&r=tech-brainte&copy=) : https://www.refrens.com/invoices/605c873c5747a9001232fcda?_at=74D32qLvCWAWLB4ubq&r=tech-brainte&copy=
+      * ID : 648
+      * Date : 25 March 2021
+      * Amount : INR 17,698.82
+      * Address : TECH - BRAINTE IT TRAINING INSTITUTE ,KURLA MUMBAI, MUMBAI, Maharashtra, India - 400070
+
 
 
 3. Email is sent from admin@tech-brainte.com with enrolment link and unique id is provided : 664001PW0N .
@@ -61,45 +70,36 @@ https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
     * [Glassdoor Link](https://www.glassdoor.co.in/Reviews/Employee-Review-Arzenovo-Pharmaceutical-RVW29200689.htm) : https://www.glassdoor.co.in/Reviews/Employee-Review-Arzenovo-Pharmaceutical-RVW29200689.htm
 
 7. The fraudsters seems to be following a modus operandi by creating multiple companies and taking advantage of Work from Home policies and online recruitment.  Below are the companies being used.
-      * Synamol
-        * synamol.com
 
-      * tomlaglobal
-        * tomlaglobal.com
-          * Madhav Shrivastav and Muskan Khaira
-            * Email : muskan.khaira@tomlaglobal.com  
+| No.| Company | website | Name | Email | Phone |
+|-------|-------|-------|-------|-------| -------|
+| 1 | Synamol | www.synamol.com | akira rai | akira_rai@synamol.com |  |
+| 2 | Synamol | www.synamol.com | bhavya_mittal | akira_rai@synamol.com |  |
+| 3 | tomlaglobal| www.tomlaglobal.com | Muskan Khaira | muskan.khaira@tomlaglobal.com |  |
+| 4 | tomlaglobal| www.tomlaglobal.com | Madhav Shrivastav  |  |  |
+| 5 | tomlaglobal| www.tomlaglobal.com | meenakshi kirloskar | meenakshi_kirloskar@tomlaglobal.com  | +91 89295 36162 |
+| 6 | tomlaglobal| www.tomlaglobal.com | HR | hr@tomlaglobal.com  |  |
+| 7 | tomlaglobal| www.tomlaglobal.com | Shantanu Ghosh | shantanu.ghosh@tomlaglobal.com  |  |
+| 8 | Medozyme | www.medozyme.com | kriti tekriwal | kriti_tekriwal@medozyme.com  | +91 9818045968  |
+| 9 | Medozyme | www.medozyme.com | medozyme.com | HR@medozyme.com  |  |
+| 10 | Clarlvate| www.clarlvate.com | Kalai Vani | kalai_vani@clarlvate.com  |  |
+| 11 |  www.tech-brainte.com|  www.tech-brainte.com | Jennie Trainer | kalai_vani@clarlvate.com  | +91 72920 88176 |
+| 12 |  tech-brainte |  www.tech-brainte.com | Admin | admin@tech-brainte.com  |  +91 8826646546|
+| 13 |  cabgolin |  www.cabgolin.com | nandini srivastava | nandini_srivastava@cabgolin.com  |  +91 89295 36162|
 
-          * meenakshi kirloskar
-              * Email : meenakshi_kirloskar@tomlaglobal.com, hr@tomlaglobal.com
-              * Phone : +91 89295 36162
-
-          * Shantanu ghosh
-              * Email : shantanu.ghosh@tomlaglobal.com and hr@tomlaglobal.com
-
-        * Medozyme
-          * medoyzme.com
-            * krititekriwal
-              * Email : kriti_tekriwal@medozyme.com and hr@medozyme.com
-              * Phone : +91 9818045968
-
-        * Clarlvate
-          * clarlvate.com
-            * Kalai Vani
-              * Email : kalai_vani@clarlvate.com
-
-        * Arzenovo Pharmaceutical
-
-        *
 
 8. Now by checking the whois records (IP address) of the fraudulent website at https://www.whois.com/
-    1. www.synamol.com   : https://www.whois.com/whois/synamol.com
-    2. www.clarlvate.com
-    3. www.tomlaglobal.com
-    4. www.medoyzme.com
-    5. www.clarlvate.com
-    6. www.techbrainte.com
-    7. www.tech-brainte.com
-    8. ibmpw.com  :  https://www.whois.com/whois/ibmpw.com
+
+| No.| Domain | Created Date | Phone | Region |
+|-------|-------|-------|-------|-------|
+| 1 | www.synamol.com | 2020-11-05 | +354.4212434 | Reykjavik, Iceland |
+| 2 | www.clarlvate.com | 2021-01-30  | +354.4212434 | Reykjavik, Iceland |
+| 3 | www.tomlaglobal.com | 2021-01-13 | +354.4212434 | Reykjavik, Iceland |
+| 4 | www.medozyme.com | 2020-10-21  | +354.4212434 | Reykjavik, Iceland |
+| 5 | www.techbrainte.com | 2021-01-30 | +354.4212434 | Reykjavik, Iceland |
+| 6 | www.tech-brainte.com | 2021-02-18 | +354.4212434 | Reykjavik, Iceland |
+| 7 | www.ibmpw.com | 2021-01-30  | +354.4212434 | Reykjavik, Iceland |
+
 
 
 9. All the websites have the below information . Everything is pointing to same individuals operating the fraud network from Iceland.
@@ -124,4 +124,6 @@ https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
 
 12. Blacklist users from domain providers via NameCheap legal representatives.
 
-13. Track RazorPay via Twitter : https://twitter.com/gaganyatri/status/1377554577596243968
+13. Track RazorPay via Twitter : https://twitter.com/gaganyatri/status/1377554577596243968 and mail chain.
+
+14. Collaborate with others to stop more frauds being committed
