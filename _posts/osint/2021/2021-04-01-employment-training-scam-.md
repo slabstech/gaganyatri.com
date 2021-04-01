@@ -58,34 +58,38 @@ modified: 2021-04-01T14:11:53-04:00
 https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
     * [Archived Link](https://web.archive.org/web/20210401072044/https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/) : https://web.archive.org/web/20210401072044/https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
 
-7. The fraudsters seems to be following a modus operandi by creating multiple companies and taking advantage of Work from Home policies and online recruitment.  Below are the companies being used .
+    * [Glassdoor Link](https://www.glassdoor.co.in/Reviews/Employee-Review-Arzenovo-Pharmaceutical-RVW29200689.htm) : https://www.glassdoor.co.in/Reviews/Employee-Review-Arzenovo-Pharmaceutical-RVW29200689.htm
 
-  * Synamol
-    * synamol.com
+7. The fraudsters seems to be following a modus operandi by creating multiple companies and taking advantage of Work from Home policies and online recruitment.  Below are the companies being used.
+      * Synamol
+        * synamol.com
 
-  * tomlaglobal
-    * tomlaglobal.com
-      * Madhav Shrivastav and Muskan Khaira
-        * Email : muskan.khaira@tomlaglobal.com  
+      * tomlaglobal
+        * tomlaglobal.com
+          * Madhav Shrivastav and Muskan Khaira
+            * Email : muskan.khaira@tomlaglobal.com  
 
-      * meenakshi kirloskar
-          * Email : meenakshi_kirloskar@tomlaglobal.com, hr@tomlaglobal.com
-          * Phone : +91 89295 36162
+          * meenakshi kirloskar
+              * Email : meenakshi_kirloskar@tomlaglobal.com, hr@tomlaglobal.com
+              * Phone : +91 89295 36162
 
-      * Shantanu ghosh
-          * Email : shantanu.ghosh@tomlaglobal.com and hr@tomlaglobal.com
+          * Shantanu ghosh
+              * Email : shantanu.ghosh@tomlaglobal.com and hr@tomlaglobal.com
 
-    * Medozyme
-      * medoyzme.com
-        * krititekriwal
-          * Email : kriti_tekriwal@medozyme.com and hr@medozyme.com
-          * Phone : +91 9818045968
+        * Medozyme
+          * medoyzme.com
+            * krititekriwal
+              * Email : kriti_tekriwal@medozyme.com and hr@medozyme.com
+              * Phone : +91 9818045968
 
-    * Clarlvate
-      * clarlvate.com
-        * Kalai Vani
-          * Email : kalai_vani@clarlvate.com
+        * Clarlvate
+          * clarlvate.com
+            * Kalai Vani
+              * Email : kalai_vani@clarlvate.com
 
+        * Arzenovo Pharmaceutical
+
+        *
 
 8. Now by checking the whois records (IP address) of the fraudulent website at https://www.whois.com/
     1. www.synamol.com   : https://www.whois.com/whois/synamol.com
@@ -98,7 +102,7 @@ https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
     8. ibmpw.com  :  https://www.whois.com/whois/ibmpw.com
 
 
-9. All the websites have the below information . Everything is pointing to same individuals operating the fraud network
+9. All the websites have the below information . Everything is pointing to same individuals operating the fraud network from Iceland.
 
   * Registrant Street: Kalkofnsvegur 2
   * Registrant City: Reykjavik
@@ -107,6 +111,18 @@ https://www.reddit.com/r/SPSS_Modeler/comments/kbmm3v/ibm_spss_grn/
   * Registrant Country: IS
   * Registrant Phone: +354.4212434
 
+
+10. Steps taken to resolved the issue
+  * Register complaint at cybecrime.gov.in : No
+  * Register dispute at  RazorPay : Ticket Number : 5296798
+  * Register dispute at NameCheap web registrar :  #NHC-295-35935
+
+11. Contact other victims to put pressure on RazorPay to get the refund for the money and freeze the account of fraudsters.
+    * usr1 : 18000
+    * usr2 : 15000
+    * usr3 : 10000
+
+12. Blacklist users from domain providers via NameCheap legal representatives.
 <!-- This is commented out.
 
 * Checking the phone number provided +354.4212434 on google directs to below individual.
