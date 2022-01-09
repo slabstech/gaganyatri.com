@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learn Java with F1 Strategy Simulator"
+title: "F1 Simulator - Algorithms"
 excerpt: "Building an Application to Learn Java"
 categories: java
 tags: [ java ]
