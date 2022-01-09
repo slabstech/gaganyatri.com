@@ -19,11 +19,17 @@ Rookie mode will build everything from scratch and will have to put in additiona
 
 
 * Objectives
-  * v1 - Final Race Classification
-  * v2 - Pit Stop Strategy
-  * v3 - Tyre compounds for 2021 race calendar
-  * v4 - Counter Pit Stop, Race restarts
-  * v5 - Qualifying modes - Fuel level and tyre compounds
+  * Data Structures
+    * v1 - Creating the simulator - Define Class
+    * v2 - Read the different I/O sources
+    * v3 - Choosing Data Structures - Object modelling
+
+  * Algorithms
+    * v1 - Final Race Classification -
+    * v2 - Pit Stop Strategy -
+    * v3 - Tyre compounds for 2021 race calendar -
+    * v4 - Counter Pit Stop, Race restarts -
+    * v5 - Qualifying modes - Fuel level and tyre compounds
 
 Below lists will be updated regularly with designs and implementation with new learnings from collaborations. Collaboration between Sachin and Varun, follow the github profiles to view timeline of execution.
 
