@@ -7,8 +7,8 @@ modified: 2019-07-12T19:44:38.564948-04:00
 ---
 
 
-| Project | Description | Link |
-|---|---|---|
+| Project | Description |
+|---|---|
 {% for post in site.categories.days10 %}
-   | {{ post.title }} | {{ post.excerpt }} | <a href="{{ site.url }}{{ post.url }}"> link </a>   |
-{% endfor %} 
+|<a href="{{ site.url }}{{ post.url }}"> {{ post.title }} </a> | {{ post.excerpt }} |
+{% endfor %}
