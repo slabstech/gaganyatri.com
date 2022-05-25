@@ -6,14 +6,10 @@ modified: 2019-07-12T19:44:38.564948-04:00
 
 ---
 
-
-Ver 2
-{% for post in site.categories.days10_2 %}
-|<a href="{{ site.url }}{{ post.url }}"> {{ post.title }} </a> | {{ post.excerpt  | markdownify | strip_html | strip_newlines | escape_once }} |
-{% endfor %}
-
-
-Ver 1
-{% for post in site.categories.days10 %}
-|<a href="{{ site.url }}{{ post.url }}"> {{ post.title }} </a> | {{ post.excerpt  | markdownify | strip_html | strip_newlines | escape_once }} |
-{% endfor %}
+|Project| Description | Status |
+|---|---|---|
+|[Revive](https://sachinsshetty.github.io/gaganyatri.com/days10_2/day-01-revive/) | Micro Service Library| WIP |
+|[Exp56](https://sachinsshetty.github.io/gaganyatri.com/days10/day-02-exp56/) |Non Fiction Book- Collection of Poems| Done v1|
+|[HDTour](https://sachinsshetty.github.io/gaganyatri.com/days10/day-06-hdtour/() | Local Travel Guide + coupons| Done|
+|[Connecting the Dots](https://sachinsshetty.github.io/gaganyatri.com/days10/day-10-connecting-the-dots/)|Rangoli : Art Collection  |Done|
+|[Food Vlog](https://sachinsshetty.github.io/gaganyatri.com/days10/day-09-ammanaaduge/)|Ammana Aduge 	Food Blog : Recipe’s of Mom’m Mom, Mom and Me  |Done|
