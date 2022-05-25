@@ -8,6 +8,11 @@ tags: [ jobs ]
 date: 2020-11-11T08:08:50-04:00
 
 ---
+https://dzone.com/articles/build-and-package-a-microservices-architecture-wit
+
+https://www.infoq.com/articles/spring-boot-tutorial/
+
+
 
 * http://javahungry.blogspot.com/2013/08/hashing-how-hash-map-works-in-java-or.html
 
@@ -94,3 +99,215 @@ Preparation Material:
 
 * Consider a class A with a synchronized method class A { public void synchronized m1() {Thread.sleep(5000);} } We create two objects of this class - o1 and o2. We call o1.m1() on one thread and o2.m1() on another thread, at the same time. What will be the behaviour? Follow up with - how will you force these calls to execute one after the other
 * We have a table called BookAuthor. It has two columns Book and Author, Book being unique column. Write a query to find the names of the authors who have written more than 10 books.
+
+
+[03/11, 19:36] Ad: [23/10, 00:35] Ad: Question and answer
+
+Rating
+
+Comments
+
+You have received a csv file from stock exchange in following format: timestamp, symbol, price, qty, account, buy/sell This file may have millions of records and represents the trading activity for the day. The file is not sorted You need to choose the most optimal collections for holding this data in order to provide analytics efficiently.
+
+* * * * *
+took lot of time
+
+Design a new implementation of the Map interface which will also keep a count of all the calls to add a key value pair in the Map. It should count the calls to put, putAll and putIfAbsent methods. The implementation should also be able to provide all the features of any Map implementation that user wants. (e.g. HashMap, TreeMap etc)
+
+* * * * *
+Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Ask this question to candidates below 5 years of experience. Create two threads A and B, each printing numbers from 1 to 100 in a sequence. Put a constraint that thread B cannot go ahead of thread A at any point. The threads should operate independently apart from this constraint.
+
+* * * * *
+[23/10, 00:37] Ad: Data Structures
+
+
+Problem Solving
+
+
+
+
+OOPS Concepts
+
+
+Java Collections
+
+
+Multi-threading
+
+
+
+
+Design and architecture
+[23/10, 09:49] Ad: [23/10, 09:44] Ad: Question and answer
+
+Rating
+
+Comments
+
+You have received a csv file from stock exchange in following format: timestamp, symbol, price, qty, account, buy/sell This file may have millions of records and represents the trading activity for the day. The file is not sorted You need to choose the most optimal collections for holding this data in order to provide analytics efficiently.
+
+* * * * *
+took lot of time
+
+Design a new implementation of the Map interface which will also keep a count of all the calls to add a key value pair in the Map. It should count the calls to put, putAll and putIfAbsent methods. The implementation should also be able to provide all the features of any Map implementation that user wants. (e.g. HashMap, TreeMap etc)
+
+* * * * *
+Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Ask this question to candidates below 5 years of experience. Create two threads A and B, each printing numbers from 1 to 100 in a sequence. Put a constraint that thread B cannot go ahead of thread A at any point. The threads should operate independently apart from this constraint.
+
+* * * * *
+[23/10, 09:45] Ad: We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+[23/10, 09:45] Ad: You have received a csv file from stock exchange in following format: timestamp, symbol, price, qty, account, buy/sell This file may have millions of records and represents the trading activity for the day. The file is not sorted You need to choose the most optimal collections for holding this data in order to provide analytics efficiently.
+
+* * * * *
+Consider the following program to remove negative values from an arraylist: List<Integer> numbers = new ArrayList<>(Arrays.asList(1,24,-1,8,-3,0)); for (Integer i: numbers) If (i<0) numbers.remove(i); } } What is likely to happen? Follow up with a discussion on what this kind of iterator is called and how to resolve this issue.
+
+* * * * *
+Design a new implementation of the Map interface which will also keep a count of all the calls to add a key value pair in the Map. It should count the calls to put, putAll and putIfAbsent methods. The implementation should also be able to provide all the features of any Map implementation that user wants. (e.g. HashMap, TreeMap etc)
+
+* * * * *
+Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Write a Unix command to give the names of 10 last modified files in the current directory.
+
+* * * * *
+Design a Fixed Thread Pool ExecutorService
+
+* * * * *
+Ask this question to candidates below 5 years of experience. Create two threads A and B, each printing numbers from 1 to 100 in a sequence. Put a constraint that thread B cannot go ahead of thread A at any point. The threads should operate independently apart from this constraint.
+
+* * * * *
+[23/10, 09:46] Ad: Consider the following program to remove negative values from an arraylist: List<Integer> numbers = new ArrayList<>(Arrays.asList(1,24,-1,8,-3,0)); for (Integer i: numbers) If (i<0) numbers.remove(i); } } What is likely to happen? Follow up with a discussion on what this kind of iterator is called and how to resolve this issue.
+
+* * * * *
+Stack using Queue
+
+* * * * *
+answered
+
+Print tree in spiral fashion
+
+* * * * *
+answered.. seems well prepared for interview
+
+What is Semaphore ? Why Synchronization ?
+
+* * * * *
+had some idea ..
+
+Sort a Stack with out extra space
+[23/10, 09:47] Ad: Design a Fixed Thread Pool ExecutorService
+
+* * * * *
+Explain TDD, why TDD is beneficial, discussion on test doubles
+[23/10, 09:47] Ad: You have received a csv file from stock exchange in following format: timestamp, symbol, price, qty, account, buy/sell This file may have millions of records and represents the trading activity for the day. The file is not sorted You need to choose the most optimal collections for holding this data in order to provide analytics efficiently.
+
+* * * * *
+very confusing and misleading solution
+
+Design a new implementation of the Map interface which will also keep a count of all the calls to add a key value pair in the Map. It should count the calls to put, putAll and putIfAbsent methods. The implementation should also be able to provide all the features of any Map implementation that user wants. (e.g. HashMap, TreeMap etc)
+[04/11, 17:23] Ad: Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Print the series 1,2,3,4.... 99 using three threads T1,T2,T3 such that every thread prints every third number
+
+* * * * *
+Gave an optimal solution using wait() and notifyAll()
+
+Merge m sorted arrays of different sizes (with minimal time and space complexity)
+[04/11, 17:24] Ad: Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+Change string "all you need is love" to "love is need you all" with constant space complexity
+
+* * * * *
+Print the series 1,2,3,4.... 99 using three threads T1,T2,T3 such that every thread prints every third number
+[04/11, 17:24] Ad: Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Print the series 1,2,3,4.... 99 using three threads T1,T2,T3 such that every thread prints every third number
+
+* * * * *
+Change string "all you need is love" to "love is need you all" with constant space complexity
+[04/11, 17:25] Ad: Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+Could not answer correctly but approach was correct
+
+We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Change string "all you need is love" to "love is need you all" with constant space complexity
+
+* * * * *
+Print the series 1,2,3,4.... 99 using three threads T1,T2,T3 such that every thread prints every third number
+
+* * * * *
+Suggested a good solution with wait() and notifyAll()
+
+Merge m sorted arrays of different sizes (with minimal time and space complexity)
+
+* * * * *
+Suggested an optimal solution with min heap
+[04/11, 17:25] Ad: Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Change string "all you need is love" to "love is need you all" with constant space complexity
+
+* * * * *
+Print the series 1,2,3,4.... 99 using three threads T1,T2,T3 such that every thread prints every third number
+
+* * * * *
+Suggested a decent solution with wait() and notifyAll()
+
+Merge m sorted arrays of different sizes (with minimal time and space complexity)
+
+* * * * *
+Couldn't suggest any solution except for sorting
+[04/11, 17:25] Ad: Design a class such that only one instance of the class and any of its sub-classes can be created. To clarify: Assume A is such a class and B is derived from A. B does not have any special code apart from extending A new A(); // works fine. new A(); // causes an exception new B(); // works fine as this is the first instance of B new B(); // causes an exception.
+
+* * * * *
+We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Merge m sorted arrays of different sizes (with minimal time and space complexity)
+
+* * * * *
+Print the series 1,2,3,4.... 99 using three threads T1,T2,T3 such that every thread prints every third number
+
+* * * * *
+Change string "all you need is love" to "love is need you all" with constant space complexity
+[04/11, 17:26] Ad: We have two tables - T1 and T2. Both have a VARCHAR column called ID in both the tables. Write a query to get the count of each ID across both the tables. e.g. T1: | T2: ID | ID --- | --- A | B B | C C | D Expected output: ID ---- A, 1 B, 2 C, 2 D, 1
+
+* * * * *
+Print the series 1,2,3,4.... 99 using three threads T1,T2,T3 such that every thread prints every third number
+
+* * * * *
+Merge m sorted arrays of different sizes (with minimal time and space complexity)
+
+* * * * *
+Change string "all you need is love" to "love is need you all" with constant space complexity
