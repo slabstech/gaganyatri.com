@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Introduction for Interview"
 excerpt: "interview process"
 categories: jobs
