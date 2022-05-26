@@ -55,6 +55,6 @@ I completed my bachelors in India with major in Information Science, At the Univ
 * Currently i am on student visa and I am expecting work permit to be provided based on my undergraduate and professional experience, based on the law changes last march.
 
 ##### Job Location
-* I am currently open to joining immediately for a Fulltime role of Full Stack Senior Software Engineer. Either remote working or relocation is acceptable.
+* I am currently open to joining immediately for a Fulltime role of Full Stack Senior Software Engineer. Either remote working or relocation is acceptable. Presently I am based at Bonn Germany.
 
 This was a brief introduction into my CV. Please let me know in case you need detailed explanation of any projects i worked on.
