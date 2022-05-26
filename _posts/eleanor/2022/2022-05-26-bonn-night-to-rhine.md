@@ -5,7 +5,7 @@ excerpt: "She goes wherever you take her"
 categories: eleanor
 tags: [ eleanor ]
 
-date: 2022-05-26T08:08:50-04:00
+date: 2022-05-25T08:08:50-04:00
 ---
 
 * Foray into vlog. No edit + Just upload Raw footage.
