@@ -11,6 +11,8 @@ Simple Aagi Innond Love Story
 
 The One ?
 
+#### Under Reconstruction
+
 * Amazon Ebook [buy book](https://amzn.to/2ZIuRFs)
 
 * Online Story [Link]({{ site.baseurl }}{% link _posts/books/mine/saiols/2019-07-01-simple-aagi-inond-love-story.md %})

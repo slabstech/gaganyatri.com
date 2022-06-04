@@ -2,8 +2,8 @@
 layout: post
 title: "flight for the soul"
 excerpt: "Ride To Koln"
-categories: cycle
-tags: [ cycle ]
+categories: eleanor
+tags: [ eleanor ]
 
 date: 2019-07-04T08:08:50-04:00
 

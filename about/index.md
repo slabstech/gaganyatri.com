@@ -27,7 +27,7 @@ This site is a sneak peek into the work i do and everything else.
 
 [LinkedIn](https://www.linkedin.com/in/sachinlabs)
 
-[CV Download](% link _posts/docs/sachin_shetty_work_resume.pdf)
+[CV Download](% link _posts/docs/sachin_shetty_cv.pdf)
 
 [Time Line]({{ site.baseurl }}{% link _posts/docs/2019-05-20-vita-time-line.md  %})
 
