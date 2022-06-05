@@ -2,8 +2,8 @@
 layout: post
 title: "Ampler E Bike Challenge"
 excerpt: "1000km rush"
-categories: cycle
-tags: [ cycle ]
+categories: eleanor
+tags: [ eleanor ]
 
 date: 2019-05-18T08:08:50-04:00
 
@@ -98,9 +98,9 @@ date: 2019-05-18T08:08:50-04:00
 
 * Training Diary
 
-  | Week | Target | Info | Status |
-  |-------|-------|-------|-------|
-  | 1 - May18-24| 25km per day| [Log-week 1]({{ site.baseurl }}{% link _posts/cycle/may/2019-05-18-ampler-log-week1.md %}) | In-Progress|
+  | Week | Target | Info                                                                                               | Status |
+  |-------|----------------------------------------------------------------------------------------------------|-------|-------|
+  | 1 - May18-24| 25km per day| [Log-week 1]({{ site.baseurl }}{% link _posts/eleanor/cycle/may/2019-05-18-ampler-log-week1.md %}) | In-Progress|
 
 
 

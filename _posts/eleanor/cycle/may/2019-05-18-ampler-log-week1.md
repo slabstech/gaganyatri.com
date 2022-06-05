@@ -2,8 +2,8 @@
 layout: post
 title: "Week 1 Log - May 18-24"
 excerpt: "25km per day target"
-categories: cycle
-tags: [ cycle ]
+categories: eleanor
+tags: [ eleanor ]
 date: 2019-05-18T08:08:50-04:00
 
 ---

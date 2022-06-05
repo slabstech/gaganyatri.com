@@ -1,10 +1,11 @@
 # Site navigation links
 
-- title: Mars
-  url: /mars/
 
 - title: Books
   url: /books/
+
+- title: Mars
+  url: /mars/
 
 - title: About
   url: /about/
