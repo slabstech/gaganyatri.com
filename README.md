@@ -7,7 +7,6 @@
   * Tutorials
   * Links to videos, articles, music
 
-* Under the pen name - Gaganyatri
 
 * Portfolio Site for gaganyatri.com
 
