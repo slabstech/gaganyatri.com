@@ -8,9 +8,9 @@ excerpt: "Collections of published books"
 
 The stories that mould statues of memories in numerous clay
 
-| Name                | Type       | PDF                                                       | Online                                                                        | Amazon                                                                                                                                                                                                  | Published Date |
-|---------------------|------------|-----------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| Exp56               | Poem       | [PDF](https://gaganyatri.com/assets/pdf/exp56_vol_1.PDF)  | [Link]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-exp56.md %}) | [Ebook](https://amzn.to/3N5JcmY)                                                                                                                          | 7 Jun 2019     |
+| Name                | Type       | PDF                                                       | Online                                                                        | Amazon                                                                  | Published Date |
+|---------------------|------------|-----------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------|
+| Exp56               | Poem       | [PDF](https://gaganyatri.com/assets/pdf/exp56_vol_1.PDF)  | [Link]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-exp56.md %}) | [Ebook](https://amzn.to/3N5JcmY) / [Paperback](https://amzn.to/3QulUtH) | 7 Jun 2019     |
 | Connecting the Dots | Art        | --                                                        | [Link](https://slabstech.github.io/connectingthedots.com/)                    | [Ebook](https://amzn.to/3MXpY2A) / [Paperback](https://amzn.to/3OkZaus) | 19 July 2019   |
 
 
