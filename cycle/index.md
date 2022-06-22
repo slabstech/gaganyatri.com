@@ -8,7 +8,10 @@ excerpt: "Where Eleanor Goes"
 ### Where Eleanor Goes : Adventures on a Cycle
 
 
-* Short Videos
+* Short and Fast Speed Videos
+  * [Segmundung Nature Ride: Bonn](https://youtu.be/qIEqjtnMam0)
+
+* Edited Normal Speed Videos
   * [Segmundung Nature Ride: Bonn](https://youtu.be/xl8ARd9ZjPs)
 
 
