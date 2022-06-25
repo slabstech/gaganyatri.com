@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Time Line"
-excerpt: "Space Farer History"
+excerpt: "History of the Explorer"
 categories: cv
 tags: [ cv ]
-date: 2019-05-19T08:08:50-04:00
+date: 2022-06-25T08:08:50-04:00
 
 ---
 
@@ -16,20 +16,19 @@ date: 2019-05-19T08:08:50-04:00
 <details>
   <summary>Projects and Awards</summary>
   1. Amazing Facts of Mathematics
-
+  <br>
     * Participated at State Level Science Fair 2005
-
+  <br>
     * 1st Prize , Distict Level Science Fair 2005 , 1st Prize School Science Fair
-
+  <br>
   2. Carbon Nanotubes - 2nd Industrial Revolution
-
+  <br>
     * 2nd Prize , Distict Level Science Fair 2006 , 2nd Prize School Science Fair
-
+  <br>
   3. President , Interact Club - St. Mary's School 2006-07
-
+  <br>
   4. State Level -U13 Football Tournament
 </details>
-
 
 * 2007 - 2009 - Studied PUC at P.C Jabin College, Hubballi
 
@@ -37,14 +36,15 @@ date: 2019-05-19T08:08:50-04:00
 
 <details>
   <summary>Projects and Awards</summary>
-
+  <br>
   1. Best Coder ISE stream : 2009-2013
-
+  <br>
   2. E-Journal - Physics Labs
+  <br>
     * 1st Prize- Project Competition - BITS Quark 2012
-
+  <br>
   3. Tutor at 4 Android Workshops through AppCentral
-
+  <br>
 </details>
 
 * 2013 - 2016 - Wrote code for Subex Ltd., Bengaluru
@@ -53,13 +53,8 @@ date: 2019-05-19T08:08:50-04:00
 
 * 2017 - Wrote code for EFI India, Bengaluru
 
-* 2018 - Today - Studying Computer Science M.S at University of Bonn.
+* 2018 - 2022 - Studied M.S Informatik at University of Bonn.
 
 * 2019 - Founded - S Labs Solutions
 
-* 2021 - NorseMan finisher *
-
-* 2022 - Mars Liftoff *
-
-
-\* Definitely happening 
+* 2022 - Present - Writing code for LeanIX GmbH, Germany

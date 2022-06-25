@@ -24,12 +24,12 @@ Trying to make sense of AI research and the World around me
 This site is a sneak peek into the work I do and everything else.
 
 
-| Description       | Link |
-|-------------------|----|
-| Github Portfolio  | [Github](https://github.com/sachinsshetty)   |
-| Linked Profile    | [LinkedIn](https://www.linkedin.com/in/sachinlabs) |
-| CV / Resume (PDF) | [CV Download](% link _posts/docs/sachin_shetty_cv.pdf)|
-| Time - TODO       | [Time Line]({{ site.baseurl }}{% link _posts/docs/2019-05-20-vita-time-line.md  %})|
+| Description           | Link                                                                                                      |
+|-----------------------|-----------------------------------------------------------------------------------------------------------|
+| Github Portfolio      | [Github](https://github.com/sachinsshetty)                                                                |
+| Linked / XING Profile | [LinkedIn](https://www.linkedin.com/in/sachinlabs) [XING](https://www.xing.com/profile/sachin_shetty9/cv) |
+| CV / Resume (PDF)     | [CV Download](% link _posts/docs/sachin_shetty_cv.pdf)                                                    |
+| Time - TODO           | [Time Line]({{ site.baseurl }}{% link _posts/docs/2019-05-20-vita-time-line.md  %})                       |
 
 
 
