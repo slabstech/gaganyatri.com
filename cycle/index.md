@@ -8,14 +8,7 @@ excerpt: "Where Eleanor Goes"
 ### Where Eleanor Goes : Adventures on a Cycle
 
 
-* Short and Fast Speed Videos
+* Capturing the Adventures of Eleanor
   * [Segmundung Nature Ride: Bonn](https://youtu.be/qIEqjtnMam0)
+  * [Night Ride to Rhine](https://youtu.be/UkwdhyiHFnk)
 
-* Edited Normal Speed Videos
-  * [Segmundung Nature Ride: Bonn](https://youtu.be/xl8ARd9ZjPs)
-
-
-* Full Video : Raw 
-  * [Day Ride to Rhine : Bonn](https://youtu.be/Sfi_27dliaE)
-  * [Night Ride to Rhine : Bonn](https://youtu.be/LbWd6MsSA04)
-  * [Segmundung Nature Ride: Bonn](https://youtu.be/LbWd6MsSA04)
