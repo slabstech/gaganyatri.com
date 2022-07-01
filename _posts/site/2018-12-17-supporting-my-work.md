@@ -8,11 +8,11 @@ date: 2018-12-17T08:08:50-04:00
 
 ---
 
-The work of art is supported by the [S Labs Foundation](https://slabs.tech/art/)
+The work of art is supported by the [S Labs Foundation](https://slabstech.github.io/art/)
 
-If you like what i write and want me to continue my writing.
+If you like what I write and want me to continue my writing.
 
-You can support me in two ways
+You can support me in 3 ways
 
 - Connect
 - Donate
@@ -37,7 +37,7 @@ So that it can help me give more time to writing and not make me starve for doin
 Below are the options
 - Patreon :  [gaganyatri](https://www.patreon.com/gaganyatri)
 - Gift items from my amazon wishlist : [wishlist](https://www.amazon.in/hz/wishlist/dl/invite/h5ET1qg)
-- Paypal : [Paypal](https://paypal.me/sachinsshetty)
+- Paypal : [Paypal](https://paypal.me/gaganyatri)
 - github : [github](https://github.com/sponsors/sachinsshetty)
 
 Please note that the amount is not refundable and you are sending the amount on
