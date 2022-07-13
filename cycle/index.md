@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Cycle
-excerpt: "Where Eleanor Goes"
+title: Where Eleanor Goes
+excerpt: "Adventures on a Cycle"
 
 ---
-
-### Where Eleanor Goes : Adventures on a Cycle
-
-
-* Capturing the Adventures of Eleanor
   * [Segmundung Nature Ride: Bonn](https://youtu.be/qIEqjtnMam0)
   * [Night Ride to Rhine](https://youtu.be/UkwdhyiHFnk)
+  * [Day Ride to Rhine](https://www.youtube.com/watch?v=Sfi_27dliaE)
 
