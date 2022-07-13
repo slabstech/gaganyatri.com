@@ -1,18 +1,13 @@
 <footer id="footer" class="site-footer">
   {% include footer-custom.html %}
 
-  <div >
-  	<span>, <a href="{{ site.url }}/site/credits" > Credits </a>  </span>
-  	<span>, <a href="{{ site.url }}/site/privacy" > Privacy </a>  </span>
-    <span>, <a href="{{ site.url }}/tags" > sitemap </a>  </span>
-  </div>
 
 <br> <br>
   <div class="copyright">
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>. Source - <a href="https://github.com/sachinsshetty/gaganyatri.com" rel="nofollow">github.com/sachinsshetty</a></p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.text[site.locale].powered_by | default: "Powered by" }}  <a href="https://slabstech.github.io/" rel="nofollow">S Labs Solutions</a>, <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>. <a href="https://github.com/sachinsshetty/gaganyatri.com" rel="nofollow">Code</a>, <a href="{{ site.url }}/site/privacy">Privacy</a>, <a href="{{ site.url }}/tags" >Sitemap</a>  </p>
     {% endif %}
   </div>
 </footer>
