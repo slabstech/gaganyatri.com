@@ -7,8 +7,6 @@ tags: [travels]
 modified: 2022-07-05T14:11:53-04:00
 ---
 
-## Done 
-
 * Week 1 
   * Bonn
   * Wesel
