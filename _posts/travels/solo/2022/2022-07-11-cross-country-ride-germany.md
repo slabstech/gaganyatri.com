@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bavarian Exploration"
+title: "Cross Country Ride Across Germany"
 excerpt: "Following the Rhine"
 categories: travels
 tags: [travels]
