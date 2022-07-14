@@ -15,7 +15,3 @@ The paintings were so life-like and rich in colors, It felt like watching a High
 Art speaks to us even after centuries, a silent thank you to the curator, helpers and caretakers over the past 5 centuries who have watched oveer and preserved the marvellous beauty. 
 
 Augsburg: Definitely added in the must-see list in Europe.
-
-
-
-

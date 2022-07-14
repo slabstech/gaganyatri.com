@@ -14,8 +14,7 @@ modified: 2022-07-05T14:11:53-04:00
 * Week 2
   * [The Ride](https://sachinsshetty.github.io/gaganyatri.com/travels/cross-country-ride-germany/)
   * [Augsburg](https://sachinsshetty.github.io/gaganyatri.com/travels/augsburg-fuggerie/) 
-  * Munich
-  * Wuerzburg
+  * [Wuerzburg](https://sachinsshetty.github.io/gaganyatri.com/travels/wurzburg-statues/)
   * Moenchengladbach
 
 
