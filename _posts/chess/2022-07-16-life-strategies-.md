@@ -21,6 +21,17 @@ date: 2022-07-16T08:08:50-04:00
 | Mental Health | Books, Tasks, Travel | Leisure, Bad habits         |
 | Study         | Daily Practice       | Non-focus, Tangent task     |
 
+### Rules
+* Each piece makes a daily move
+* Game runs infinitely and points are added for maintaining equilibrium
+* Automatic pieces
+  * Finance - saving/salary vs debts, bills, loans
+  * Health - exercise, diet vs lifestyle disease, hereditary traits
+  * Employment - re-skilling vs recession, redundancy
+  * Family/friends - love, sacrifice vs loss, jealousy, hatred
+  * Society - volunteering vs wars, oppressive policies
+
+
 
 ### Version 
 * 1:  16 - 07 - 2022
