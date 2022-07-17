@@ -31,8 +31,28 @@ date: 2022-07-16T08:08:50-04:00
   * Family/friends - love, sacrifice vs loss, jealousy, hatred
   * Society - volunteering vs wars, oppressive policies
 
+### data.json
+income:  // monthly
+  salary: 2500
 
+expense: // monthly
+  food: 300
+  travel: 50
+  insurance: 300
+  rent: 600
+  loan: 500
+  debt: 500
 
+time: // weekly, available: 168
+  work: 40
+  exercise: 15
+  cook: 15
+  travel: 15
+  study: 7
+  hobby: 7
+  family: 4
+  sleep: 45
+  groom: 15
 ### Version 
 * 1:  16 - 07 - 2022
 
