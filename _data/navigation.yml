@@ -1,13 +1,9 @@
-# Site navigation links
 
 - title: Books
   url: /books/
 
 - title: About
   url: /about/
-
-- title: Cycle
-  url: /cycle/
 
 - title: Search
   url: /search/
