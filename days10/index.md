@@ -10,4 +10,4 @@ modified: 2019-07-12T19:44:38.564948-04:00
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------|
 | [ಅಮ್ಮ : Amma](https://slabstech.com/amma/)                                                        | Self Aware Replica                                            | WIP    |
 | [Revive](https://slabstech.com/revive/)                                                        | Micro Service Template Library                                            | WIP    |
-| [Exp56](https://slabstech.com/gaganyatri.com/days10/day-02-exp56/)                             | Non Fiction Book- Collection of Poems                                     | Done   |
+| [Exp56](https://gaganyatri.com/days10/day-02-exp56/)                             | Non Fiction Book- Collection of Poems                                     | Done   |
