@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Blazing First Month as Software Developer in LeanIX"
 excerpt: "We are Hiring !!"
 categories: tldr
