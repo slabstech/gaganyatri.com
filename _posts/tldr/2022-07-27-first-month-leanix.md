@@ -28,3 +28,20 @@ Thank you to
     * Pair Interviewing discussion on Assignment task and Small Coding task to solve a puzzle
 * Job Offer based on meeting expectations 
 
+### Top of the line Gadgets
+* Must Read Book - The Software Architect Elevator by Gregor Hohpe
+    * Amazing insights, helping me to redefine goals for first 3 years at LeanIX
+* M1 Macbook Pro  + Butterfly keyboard for German layout
+* 1000 Euro voucher to Learn German
+* 500 Euro to setup homeoffice(Unused / I go office everyday. See why below)
+* Bonn Office
+    * Ergonomic Chairs with Height Adjustables Desks and Multiple Monitors
+    * Apple TV at all meeting rooms - AirPlay and Sofa for the Zoom meetings 
+    * Super Arena - 
+        * The beautiful kitchen is waiting to host a grand feast
+        * Kicker and Ping-Pong to keep awake after good lunch with HelloFreshGo (Subsidised)
+* Sturdy Tiffin Bag :D (Its my daily driver now)
+* Cool Stickers (Kudos to the Desing time for Badges) . I am explorer now
+* T-Shirts and Hoodies (For Winter Testing)
+* JobRad (Sleek Roadbike incoming after 6 months)
+
