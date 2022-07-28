@@ -19,6 +19,12 @@ Thank you to
 * [@PerBernhardt](https://de.linkedin.com/in/perprogramming) for providing the opportunity to start a fantastic role
 * [@Anna, @Marija](https://leanix.net) for the effective onboarding process.
 
+### Cutting edge Developer Envirinment
+* Cool Engineering Blog to showcase approaches for new techniques and solving complex issues. Read it at [Engineering Blog](https://engineering.leanix.net/)
+* Kotlin/Java/Angular + Dropwizard + Testcontainer + Docker + Kubernetes + Azure cloud + Github Actions
+    * what more can a dev need
+* We use our own tools to transform projects to be updated to the latest version and lead the way in digital transformation
+
 ### Digital Recruitment Process
 * Online contract signing via DocuSign helped to finish the process in a Day. 
     * No back and forth posting paper envelopes
@@ -41,7 +47,7 @@ Thank you to
         * The beautiful kitchen is waiting to host a grand feast
         * Kicker and Ping-Pong to keep awake after good lunch with HelloFreshGo (Subsidised)
 * Sturdy Tiffin Bag :D (Its my daily driver now)
-* Cool Stickers (Kudos to the Desing time for Badges) . I am explorer now
-* T-Shirts and Hoodies (For Winter Testing)
+* Cool Stickers (Kudos to the Desing time for Badges) . I am an explorer now
+* T-Shirts and Hoodies (Awaiting Winter Testing)
 * JobRad (Sleek Roadbike incoming after 6 months)
 
