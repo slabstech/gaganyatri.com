@@ -7,6 +7,8 @@ tags: [tldr]
 modified: 2022-07-30T14:11:53-04:00
 ---
 
+[Buy Book](https://amzn.to/3ORVNux)
+
 tl;dr
 ### Ideas Implemented At LeanIX
 * IT World is Flat
