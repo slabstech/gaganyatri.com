@@ -9,6 +9,18 @@ modified: 2022-07-30T14:11:53-04:00
 
 tl;dr
 ### Ideas Implemented At LeanIX
+* IT World is Flat
+  * Product vendors core values and philosophy (vendor's world map)
+  * What base assumptions did you have to make ?
+  * What's the toughest problem you had to solve.
+  * Helps to understand whether a vendors and our worldviews align
+* Your coffee shop doesn't use two phase commits : Starbucks decoupled barista/cashier
+  * Exception Handling - Ignore certain exceptions
+  * Retry / Backpressure  - Handled via Github-resilience4j library
+  * Asynchronous Transactions over ACID
+    * Amazon Order
+      * Synchronous Order ID Generation
+      * Asynchronous - Billing, Tracking, Delivery, Returns
 * Everything in Markdown (engineering blog) and Git/Github - Collaboration
 * Agile Manifesto
   * Ship Incrementally
@@ -16,7 +28,7 @@ tl;dr
   * Spotify Squad Model for Autonomy - Tribes for different functions and products
   * Feedback loop an Autonomy
 
-* Kotling Blog
+* Kotlin Blog
   * UML Diagram for Interactions - Plant UML plugin
   * Diagram for Docker multi stage build- Before and now
   * Map Library dependencies
@@ -34,13 +46,20 @@ TODO
 DDD - Make diagram indicating purpose of each project, How are they connected to S Labs Solutions philosophy
 
 
-
 ### Books
-* The Visual Display of Quantitative  Information
-* Enterprise Integration Patterns, Gregor Hohpe
-* Innovation Games: Creating Breakthrough Products through Collaborative Play, Luke Hohmann
-* Technical Writing and Professional Communication, Olsen & Huetin
-* Presentation Zen: Simple ideas on Presentation Design and Delivery, Gary Reynolds
-* Domain-driven Design: Tackling complexity in the Heart of Software, Eric Evans
-* Extreme Programming Explained: Embrace change, Kent Beck
-* The Pyramid Principle, Logic in Writing & Thinking, Minto
+* [Thinking Fast and Slow, Daniel Kahnemann](https://amzn.to/3zn0AhU)
+* [Priceless : The myth of fair value](https://amzn.to/3JxKabv)
+* [Foundation of Decision Analysis - Ronald Howard, Ali Abass](https://amzn.to/3zkgCcC)
+* [Who needs an Architect, Martin Fowler](https://amzn.to/3oJygSc)
+* [The Visual Display of Quantitative  Information, Edward Tuffte](https://amzn.to/3oJ9di4)
+* [Enterprise Integration Patterns, Gregor Hohpe](https://amzn.to/3vsdURg)
+* [Innovation Games: Creating Breakthrough Products through Collaborative Play, Luke Hohmann](https://amzn.to/3zl0VBR)
+* [Technical Writing and Professional Communication, Olsen & Huetin](https://amzn.to/3QaZjBh)
+* [Presentation Zen: Simple ideas on Presentation Design and Delivery, Gary Reynolds](https://amzn.to/3OMRKjn)
+* [Domain-driven Design: Tackling complexity in the Heart of Software, Eric Evans](https://amzn.to/3JmiVR4)
+* [Extreme Programming Explained: Embrace change, Kent Beck](https://amzn.to/3oJyzwk)
+* [The Pyramid Principle, Logic in Writing & Thinking, Minto](https://amzn.to/3cNARaR)
+
+
+### All books
+* 
