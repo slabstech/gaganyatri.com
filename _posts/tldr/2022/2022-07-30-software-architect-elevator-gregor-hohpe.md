@@ -7,10 +7,18 @@ tags: [tldr]
 modified: 2022-07-30T14:11:53-04:00
 ---
 
-Most of the engineering practices of LeanIX are seen in the book, my questions to the team were answered via the Book.
-
 Read below to what I observed and related from the amazing book by Gregor Hohpe.
 [The Software Architecture Elevator - Buy Book](https://amzn.to/3ORVNux)
+
+"Digital transformation is driven by Democratization", that is giving everyone rapid access to resources.
+
+With SSO(Single Sign on Policy) all services are available instantly, 
+* EAM - provides IT map for all software and helps navigate faster to Digital Transformation
+* VSM (Value Stream Management )- 
+* SMP (Saas Management Platform) - Provides bird-eye view of Annual and Monthly costs, Which Services are up for renewal and which services cost the most
+
+Easter Egg - my fellow new joinee, found out that we dont depend on vendor locked-in tools . By utilising and contributing to open source tools
+we avoid vendor lock-in and help other companies to accelerate IT transformation
 
 tl;dr
 ### Ideas Implemented At LeanIX
@@ -18,18 +26,23 @@ tl;dr
 * Your coffee shop doesn't use two phase commits : Starbucks decoupled barista/cashier
 * Everything in Markdown (engineering blog) and Git/Github - Collaboration
 * Agile Manifesto
-* Autonomy of People Structure and Code
 * IT World is Flat
+* They Dont build 'em quite like that anymore
 
 ### Additional Chapters - A Glance 
 * Writing for Busy People
 * Show the kids the Pirate Ship
 * Diagram-Driven Design - UML as sketch
 
-
+Most of the engineering practices of LeanIX are seen in the book, my questions to the team were answered by the Book.
+ 
 ### Full Story Here
 * Infrastructure as Code
   * Access control to project is via Pull Requests. Via [Codeowner](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file
+* They Dont build 'em quite like that anymore
+  * Autonoumous tribes over rigid pyramid organsiation structures
+  * Avoid inverse pyramid . reduce dependency on External solution providers
+  * Building modern structures - Reusable components/Similar functionality is provided to base layer infrastructure to reduce redundant work  
 * Your coffee shop doesn't use two phase commits : Starbucks decoupled barista/cashier
   * Exception Handling - Ignore certain exceptions
   * Retry / Backpressure  - Handled via Github-resilience4j library
@@ -60,7 +73,6 @@ tl;dr
   * jwt.io replacement script
   * Code sample
   * RFC -sonarqube
-  * Feature toggle in pom.xml - klint failonerror:false
 
 ### TODO - For Self
 - Start using Diagrams instead of Bullet points to present knowledge
