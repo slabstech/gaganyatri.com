@@ -93,3 +93,32 @@ Most of the engineering practices of LeanIX are seen in the book, my questions t
 * [Domain-driven Design: Tackling complexity in the Heart of Software, Eric Evans](https://amzn.to/3JmiVR4)
 * [Extreme Programming Explained: Embrace change, Kent Beck](https://amzn.to/3oJyzwk)
 * [The Pyramid Principle, Logic in Writing & Thinking, Minto](https://amzn.to/3cNARaR)
+
+
+Part 1
+
+Dangers of riding the architecture elevator
+
+Designing for the first derivative
+
+Micromort - Decision analysis
+
+
+
+Books:
+
+Foundation of Decision Analysis. Ronald Howard and Ali Abbas
+
+Who needs an Architect, Martin Fowler
+
+Priceless : The myth of fair value 
+
+Thinking fast and slow - Daniel Kahneman
+
+
+
+Part 2
+
+Vertical Cohesion
+
+Fit for Purpose
