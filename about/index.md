@@ -11,11 +11,7 @@ Short Story :
 
 Long Story :
 
-Hello,
-
-I am Sachin 
-
-I love tinkering with anything that can be programmed .
+Hello,  I am Sachin , I love tinkering with anything that can be programmed .
 
 I love reading books all day long and write about the places I visit.
 
