@@ -6,7 +6,7 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.text[site.locale].powered_by | default: "Powered by" }}  <a href="https://slabstech.com/" rel="nofollow">S Labs Solutions</a>. <a href="https://github.com/slabstech/gaganyatri.com" rel="nofollow">Code</a>, <a href="{{ site.url }}/site/privacy">Privacy</a>, <a href="{{ site.url }}/tags" >Sitemap</a>  </p>
+      <p>&copy; 2013 - {{ site.time | date: '%Y' }} Sachin Shetty. {{ site.data.text[site.locale].powered_by | default: "Powered by" }}  <a href="https://slabstech.com/" rel="nofollow">S Labs Solutions</a>.  <a href="https://github.com/sachinsshetty" rel="nofollow"><img height="40" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Code" /> </a>,<a href="https://www.linkedin.com/in/sachinlabs" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>, <a href="{{ site.url }}/site/privacy">Privacy</a>, <a href="{{ site.url }}/tags" >Sitemap</a>  </p>
     {% endif %}
   </div>
 </footer>
