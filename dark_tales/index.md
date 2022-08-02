@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dark Tales
-excerpt: "Collection of Tragedies in recent times"
+excerpt: "Resilience from Tragedy"
 
 ---
 
