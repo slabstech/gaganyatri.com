@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Engineering Culture at LeanIX - The Software Architect Elevator"
+title: "How we are Lean(IX)? - Adopting Best Practices from : Software Architect Elevator - Gregor Hohpe"
 excerpt: "Best bits and its implementation "
 categories: tldr
 tags: [tldr]
@@ -13,9 +13,6 @@ Read below to what I observed and related from the amazing book by Gregor Hohpe.
 "Digital transformation is driven by Democratization", that is giving everyone rapid access to resources.
 
 With SSO(Single Sign on Policy) all services are available instantly, 
-* EAM - provides IT map for all software and helps navigate faster to Digital Transformation
-* VSM (Value Stream Management )- 
-* SMP (Saas Management Platform) - Provides bird-eye view of Annual and Monthly costs, Which Services are up for renewal and which services cost the most
 
 Easter Egg - my fellow new joinee, found out that we dont depend on vendor locked-in tools . By utilising and contributing to open source tools
 we avoid vendor lock-in and help other companies to accelerate IT transformation
@@ -66,19 +63,6 @@ Most of the engineering practices of LeanIX are seen in the book, my questions t
   * Helps to understand whether a vendors and our worldviews align
 
 
-### TODO for Kotlin Project
-  * UML Diagram for Interactions - Plant UML plugin
-  * Diagram for Docker multi stage build- Before and now
-  * Map Library dependencies
-  * jwt.io replacement script
-  * Code sample
-  * RFC -sonarqube
-
-### TODO - For Self
-- Start using Diagrams instead of Bullet points to present knowledge
-- Make diagram indicating purpose of each project, 
-- How are they connected to S Labs Solutions and what is its guiding philosophy
-
 
 ### Books
 * [Thinking Fast and Slow, Daniel Kahnemann](https://amzn.to/3zn0AhU)
@@ -122,3 +106,8 @@ Part 2
 Vertical Cohesion
 
 Fit for Purpose
+
+Plug :
+* EAM - provides IT map for all software and helps navigate faster to Digital Transformation
+* VSM (Value Stream Management )- 
+* SMP (Saas Management Platform) - Provides bird-eye view of Annual and Monthly costs, Which Services are up for renewal and which services cost the most
