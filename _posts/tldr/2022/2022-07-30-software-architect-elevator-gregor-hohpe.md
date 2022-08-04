@@ -7,7 +7,7 @@ tags: [tldr]
 modified: 2022-07-30T14:11:53-04:00
 ---
 
-Read below to what I observed and related from the amazing book by Gregor Hohpe.
+Read below to what I observed and related from the amazing book by Gregor Hohpe. (75% Summary)
 [The Software Architecture Elevator - Buy Book](https://amzn.to/3ORVNux)
 
 "Digital transformation is driven by Democratization", that is giving everyone rapid access to resources.
@@ -25,6 +25,7 @@ tl;dr
 * Agile Manifesto
 * IT World is Flat
 * They Dont build 'em quite like that anymore
+* Governance - Why we have different MacBooks
 
 ### Additional Chapters - A Glance 
 * Writing for Busy People
@@ -61,7 +62,8 @@ Most of the engineering practices of LeanIX are seen in the book, my questions t
   * What base assumptions did you have to make ?
   * What's the toughest problem you had to solve.
   * Helps to understand whether a vendors and our worldviews align
-
+* Governance
+  * Please read page 264 on why we have different MacBook models.
 
 
 ### Books
@@ -79,6 +81,9 @@ Most of the engineering practices of LeanIX are seen in the book, my questions t
 * [The Pyramid Principle, Logic in Writing & Thinking, Minto](https://amzn.to/3cNARaR)
 
 
+
+//TODO 
+
 Part 1
 
 Dangers of riding the architecture elevator
@@ -86,28 +91,3 @@ Dangers of riding the architecture elevator
 Designing for the first derivative
 
 Micromort - Decision analysis
-
-
-
-Books:
-
-Foundation of Decision Analysis. Ronald Howard and Ali Abbas
-
-Who needs an Architect, Martin Fowler
-
-Priceless : The myth of fair value 
-
-Thinking fast and slow - Daniel Kahneman
-
-
-
-Part 2
-
-Vertical Cohesion
-
-Fit for Purpose
-
-Plug :
-* EAM - provides IT map for all software and helps navigate faster to Digital Transformation
-* VSM (Value Stream Management )- 
-* SMP (Saas Management Platform) - Provides bird-eye view of Annual and Monthly costs, Which Services are up for renewal and which services cost the most
