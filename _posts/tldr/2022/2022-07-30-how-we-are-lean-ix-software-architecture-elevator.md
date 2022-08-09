@@ -17,6 +17,19 @@ With SSO(Single Sign on Policy) all services are available instantly,
 Easter Egg - my fellow new joinee, found out that we dont depend on vendor locked-in tools . By utilising and contributing to open source tools
 we avoid vendor lock-in and help other companies to accelerate IT transformation
 
+### Chapters
+* 39 - Who likes standing in the queue
+  * Queuing theory - Computability , Single Queue, Muliple Server Systems
+  * Looking between activities - Reduce wait times than utlization
+  * Finding Queues
+    * Busy Calendars
+    * Steering Meetings
+    * Software Releases
+    * Email
+    * Workflow
+  * Making Queues Visible
+* 38 - 
+
 tl;dr
 ### Ideas Implemented At LeanIX
 * Infrastructure as Code
