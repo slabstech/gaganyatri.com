@@ -18,6 +18,7 @@ Agenda
 * Workshop/ Demo
     * Demonstrate an example Dropwizard project (Best Practices - Create a blog post ?? )
     * Build a mini-kube cluster using Raspberry-Pi and show deployment end-to-end
+        * For kids to be attracted, attach RGB, which shows deployment status and greets them on a terminal.
 
 * Hiring Challenge
     * Simple puzzle, those who cross the threshold score get an interview invite.
