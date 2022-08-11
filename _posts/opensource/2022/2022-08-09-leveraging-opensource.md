@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Leveraging OpenSource for IT transformation"
 excerpt: "Become vendor neutral and use top level code"
 categories: opensource
