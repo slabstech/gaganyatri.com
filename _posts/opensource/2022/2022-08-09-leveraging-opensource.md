@@ -7,6 +7,8 @@ tags: [ opensource ]
 date: 2022-08-09T08:08:50-04:00
 ---
 
+Read my session entry for [GithubUniverse](https://gaganyatri.com/opensource/building-hpc-saas-startup-from-browser/)
+
 Agenda
 * Show How GitHub is used with Github Enterprise and GitHub Free Tier
 * GithubActions and its usefulness

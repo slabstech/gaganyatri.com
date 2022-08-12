@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: "Building a HPC SaaS Startup From the Browser"
@@ -7,23 +8,17 @@ tags: [ opensource ]
 date: 2022-08-09T08:08:50-04:00
 ---
 
-Agenda
-* Show How GitHub is used with Github Enterprise and GitHub Free Tier
-* GithubActions and its usefulness
-* Secrets management via Kubernetes
-* Dockerised Application deployment
-* Resilience and Scaling using Kubernetes
-* Full CI/CD and multiple deploys using custom Github Actions (also OpenSourced)
+Read the precursor session - [Leveraging OpenSource to Bootstrap an Idea](https://gaganyatri.com/opensource/leveraging-opensource/)
 
-
-The benefits of using CodeSpaces - Code from Anywhere. How GithubActions removed the dependency to buy expensive GPU for compile code. Github Registry - How i saved on public code cost using Github Packages and Release Android APK without spending a rupee.
-
-* Workshop/ Demo
-    * Demonstrate an example Dropwizard project (Best Practices - Create a blog post ?? )
-    * Build a mini-kube cluster using Raspberry-Pi and show deployment end-to-end
-        * For kids to be attracted, attach RGB, which shows deployment status and greets them on a terminal.
-
-* Hiring Challenge
-    * Simple puzzle, those who cross the threshold score get an interview invite.
-    * Top Scorer during the event, gets to Win a prize (Maybe a replacement for the raffle / Or additional prize if budget supports it)
-    * Something like comma.ai hiring challenge . https://github.com/commaai/calib_challenge 
+The benefits of using GitHub
+* CodeSpaces - 
+  * Code from Anywhere. 
+* How GithubActions removed the dependency to buy expensive GPU for compile code. 
+  * actions for CUDA
+    * [cpp compiler](https://github.com/slabstech/action-cuda-compiler)
+    * [python compiler](https://github.com/slabstech/action-cuda-compiler-python)
+    * [ebook-creator](https://github.com/slabstech/action-create-ebook)
+    * [android-apk-generator-release](https://github.com/slabstech/action-create-android-apk)
+* Github Registry - 
+  * How I saved on public code cost using Github Packages and 
+  * Released Android APK without spending a rupee.
