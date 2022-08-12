@@ -1,8 +1,7 @@
-
 ---
 layout: page
-title: "Building a HPC SaaS Startup From the Browser"
-excerpt: "Become vendor neutral and use top level code"
+title: "Building a SaaS Startup with only a Browser"
+excerpt: "Magic of the Cloud"
 categories: opensource
 tags: [ opensource ]
 date: 2022-08-09T08:08:50-04:00
