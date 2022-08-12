@@ -19,6 +19,9 @@ Read the precursor session - [Leveraging OpenSource to Bootstrap an Idea](https:
 6. Built Secure Apps with DevSecOps using CodeQL, Dependabots, CI-Jazzer
 7. How to build/test/release/deploy Application within minutes using Github Actions
 8. Build lean Apps with Docker and deploy to DockerHub and GitHub package registry
+9. Generate Stripe payment links with Actions for Books/Products
+10. Generate Amazon Affiliate links for KindleBooks and Wishlists
+11. Periodically publish art snippets to Twitter with tweet-action.
 
 How all of its done on the Browser with Zero cost.
 
