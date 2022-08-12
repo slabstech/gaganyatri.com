@@ -17,7 +17,7 @@ path from Java 8 to 11.  My PR will do
 the same for Java 11 to 17.
 
 
-Here's my [documentation](https://github.com/sachinsshetty/jazzer) of my PR for upgrading Docker builds. 
+Here's my [documentation](https://slabstech.com/docker/) of my prior work for upgrading Docker builds. (Now rechecking if distroless is better than alpine-linux.)
 Everything is done from the browser using Codespaces. 
 I am also building a Microservices template library called [Revive](https://github.com/slabstech/revive) since 3 months,
 please do check it out. 
@@ -27,5 +27,7 @@ link for my [blog](https://gaganyatri.com), I have been writing since 8 years no
 technical book on Revive(Fully automated publishing using GitHub Actions)
 
 Hope to get an interview invite and showcase my project review as a task.
+
+PS : My entry for GitHubUniverse Session [Build a SaaS startup with only a browser](https://gaganyatri.com/opensource/building-hpc-saas-startup-from-browser/)
 
 Sachin
