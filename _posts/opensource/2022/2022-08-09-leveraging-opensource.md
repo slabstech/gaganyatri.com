@@ -27,6 +27,7 @@ Agenda
 
 * Workshop/ Demo
     * Demonstrate an example Dropwizard project (Best Practices - Create a blog post ?? )
+      * [revive](https://github.com/slabstech/revive)
     * Resilience and Scaling using Kubernetes
       * Build a mini-kube cluster using Raspberry-Pi and show deployment end-to-end
       * Use HomeOffice Budget ? To build setup for on-premise Kubernetes cluster
