@@ -34,7 +34,15 @@ date: 2022-08-09T08:08:50-04:00
 * VSCode IDE on the browser is now setup with "revive" source code
 * In VSCode terminal, run ./create_setup.sh 
   * Or ./create_setup.yml config.yml
-  * 
+* Repo is now configured with below configuration
+  * Website: jekyll-so-simple theme is deployed with gh-pages-action
+    * Code - clients/jekyll/so-simple/website
+  * Github Actions
+    1. gh-pages-actions for website deployment
+    2. action-create-ebook - generate pdf of doc's folder (from markdown or html)
+    3. action-deploy-container - creates docker images and upload to GitHub registry and DockerHub
+    4. action-chaos-monkey - resilience testing (TODO)
+    5. action-secure-fuzz - runs fuzzing logic on inputs with ci_fuzz (TODO)
 
 
 
