@@ -7,9 +7,6 @@ tags: [ opensource ]
 date: 2022-08-09T08:08:50-04:00
 ---
 
-Read the precursor session - [Leveraging OpenSource to Bootstrap an Idea](https://gaganyatri.com/opensource/leveraging-opensource/)
-
-
 ### OpenSource Saas MonoRepo , TL;DR
 
 [revive](https://github.com/slabstech/revive) is monorepo that showcases 
@@ -27,7 +24,19 @@ Read the precursor session - [Leveraging OpenSource to Bootstrap an Idea](https:
 12. Periodically publish art snippets to Twitter with tweet-action. (TODO)
 13. Use snyk to get notified about vulnerabilites in libraries and plan mitigation (TODO)
 
-How all of its done on the Browser with Zero cost.
+#### Full Story: How all of its done on the Browser with Zero cost.
+* Go to https://github.com/slabstech/revive
+* Select use template(Needs to be logged in) to create a repo with revive source code
+* Now click settings -> codespaces
+  * Select repository -> "username/revive"
+    * branch -> main
+    * region -> your nearest region
+* VSCode IDE on the browser is now setup with "revive" source code
+* In VSCode terminal, run ./create_setup.sh 
+  * Or ./create_setup.yml config.yml
+  * 
+
+
 
 * Follow [project roadmap](https://github.com/orgs/slabstech/projects/1) for revive sprint tasks
 
@@ -51,3 +60,6 @@ How all of its done on the Browser with Zero cost.
 * Github Registry -
   * How I saved on public code cost using Github Packages and
   * Released Android APK without spending a rupee.
+
+Read the precursor session - [Leveraging OpenSource to Bootstrap an Idea](https://gaganyatri.com/opensource/leveraging-opensource/)
+
