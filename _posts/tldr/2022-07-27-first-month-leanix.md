@@ -2,8 +2,8 @@
 layout: page
 title: "Blazing First Month as Software Developer in LeanIX"
 excerpt: "We are Hiring !!"
-categories: tldr
-tags: [tldr]
+categories: work
+tags: [work]
 modified: 2022-07-27T14:11:53-04:00
 ---
 

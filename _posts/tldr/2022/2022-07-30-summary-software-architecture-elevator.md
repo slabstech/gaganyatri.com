@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How we are Lean(IX)? - Adopting Best Practices from : Software Architect Elevator - Gregor Hohpe"
+title: "Adopting Best Practices from : Software Architect Elevator - Gregor Hohpe"
 excerpt: "Best bits and its implementation "
 categories: tldr
 tags: [tldr]
@@ -14,10 +14,15 @@ Read below to what I observed and related from the amazing book by Gregor Hohpe.
 
 With SSO(Single Sign on Policy) all services are available instantly, 
 
-Easter Egg - my fellow new joinee, found out that we dont depend on vendor locked-in tools . By utilising and contributing to open source tools
-we avoid vendor lock-in and help other companies to accelerate IT transformation
 
 ### Chapters
+34. Leading Change
+  * Avoid Offshore Platforms
+  * Cargo Cult - You cannot copy paste culture
+  * Being Digital only - loses company value, operate only in silos
+  * The Island of sands
+35. aa
+36. 
 * 39 - Who likes standing in the queue
   * Queuing theory - Computability , Single Queue, Muliple Server Systems
   * Looking between activities - Reduce wait times than utlization
@@ -31,7 +36,7 @@ we avoid vendor lock-in and help other companies to accelerate IT transformation
 * 38 - 
 
 tl;dr
-### Ideas Implemented At LeanIX
+### Ideas Implemented At XYZ
 * Infrastructure as Code
 * Your coffee shop doesn't use two phase commits : Starbucks decoupled barista/cashier
 * Everything in Markdown (engineering blog) and Git/Github - Collaboration
