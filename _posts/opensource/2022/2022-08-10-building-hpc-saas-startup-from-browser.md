@@ -49,6 +49,26 @@ date: 2022-08-09T08:08:50-04:00
 * Follow [project roadmap](https://github.com/orgs/slabstech/projects/1) for revive sprint tasks
 
 ---
+* Create client-side UI which generates config.yml for Revive repo 
+  * Idea is similar to start.spring.io 
+* Choose setup
+  * Website - Jekyll theme
+    * so-simple
+    * minimal- mistakes
+  * Database - postgreSQL
+  * Server _
+    * Dropwizard
+    * Spring Boot
+  * Languages
+    * Kotlin
+    * Java
+    * Java + Kotlin
+  * Docker
+    * Java 17 - Custom JRE
+    * PostgreSQL - 14.x
+
+
+---
 1. How to publish an ebook
   [Action - action-create-ebook](https://github.com/slabstech/action-create-ebook)
 2. How to code in the Browser
