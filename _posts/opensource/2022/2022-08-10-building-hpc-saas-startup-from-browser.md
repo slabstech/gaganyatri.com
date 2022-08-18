@@ -49,6 +49,7 @@ date: 2022-08-09T08:08:50-04:00
 * Follow [project roadmap](https://github.com/orgs/slabstech/projects/1) for revive sprint tasks
 
 ---
+### TODO 
 * Create client-side UI which generates config.yml for Revive repo 
   * Idea is similar to start.spring.io 
 * Choose setup
