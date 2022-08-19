@@ -8,6 +8,13 @@ tags: [ jobs ]
 date: 2022-08-10T08:08:50-04:00
 ---
 
+
+Step 2 
+Test out - CLI : cifuzz - [https://github.com/CodeIntelligenceTesting/cifuzz](https://github.com/CodeIntelligenceTesting/cifuzz) 
+
+--
+Step 1 - 
+
 Hi, 
 
 It's been 3 years since I last visited your office at Bonn during Security Meetup. 
@@ -28,6 +35,7 @@ technical book on Revive(Fully automated publishing using GitHub Actions)
 
 Hope to get an interview invite and showcase my project review as a task.
 
-PS : My entry for GitHubUniverse Session [Build a SaaS startup with only a browser](https://gaganyatri.com/opensource/building-hpc-saas-startup-from-browser/)
+PS : GitHubUniverse Session [Build a SaaS startup with only a browser](https://gaganyatri.com/opensource/building-hpc-saas-startup-from-browser/)
 
 Sachin
+
