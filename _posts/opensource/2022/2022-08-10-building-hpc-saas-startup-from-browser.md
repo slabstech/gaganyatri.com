@@ -23,6 +23,12 @@ date: 2022-08-09T08:08:50-04:00
 11. Generate Amazon Affiliate links for KindleBooks and Wishlists. (TODO)
 12. Periodically publish art snippets to Twitter with tweet-action. (TODO)
 13. Use snyk to get notified about vulnerabilites in libraries and plan mitigation (TODO)
+14. Setup Infrastructure as Code (TODO)
+15. Less Variance in Devices/Setup
+16. Increase usage via IDE plugins, ready to use code examples, medium articles
+17. Build, Test, --Secure--, Deploy steps with CLI for security - try: ci_fuzz
+18. Tutorials with short Youtube videos with tips and tricks (TODO)
+19. Showcased the Project at XYZ conference.(TODO)
 
 #### Full Story: How all of its done on the Browser with Zero cost.
 * Go to https://github.com/slabstech/revive
