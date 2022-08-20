@@ -10,25 +10,28 @@ date: 2022-08-09T08:08:50-04:00
 ### OpenSource Saas MonoRepo , TL;DR
 
 [revive](https://github.com/slabstech/revive) is monorepo that showcases 
-1. How to publish an ebook 
-2. How to code in the Browser
-3. How GithubActions removed the dependency to buy expensive GPU for compile code.
+1. How to code faster with GitHub Co-Pilot 
+2. How to code in the Browser only
+3. How GitHub Actions removed the dependency to buy expensive GPU to compile CUDA code.
 4. How to build and release Android apk. (TODO)
 5. How to publish npm package to npm registry. (TODO)
 6. How to publish and Self-host jekyll blog using Jekyll pages (Build Ebook from here)
 7. Built Secure Apps with DevSecOps using CodeQL, Dependabots, CI-Jazzer
-8. How to build/test/release/deploy Application within minutes using Github Actions
+8. How to build/test/release/deploy Application within minutes using GitHub Actions
 9. Build lean Apps with Docker and deploy to DockerHub and GitHub package registry
 10. Generate Stripe payment links with Actions for Books/Products. (TODO)
 11. Generate Amazon Affiliate links for KindleBooks and Wishlists. (TODO)
 12. Periodically publish art snippets to Twitter with tweet-action. (TODO)
-13. Use snyk to get notified about vulnerabilites in libraries and plan mitigation (TODO)
+13. Use snyk to get notified about vulnerabilities in libraries and plan mitigation (TODO)
 14. Setup Infrastructure as Code (TODO)
 15. Less Variance in Devices/Setup
 16. Increase usage via IDE plugins, ready to use code examples, medium articles
 17. Build, Test, --Secure--, Deploy steps with CLI for security - try: ci_fuzz
-18. Tutorials with short Youtube videos with tips and tricks (TODO)
+18. Tutorials with short YouTube videos with tips and tricks (TODO)
 19. Showcased the Project at XYZ conference.(TODO)
+20. How to publish an ebook
+21. How to avoid vendor lock-in with backups
+22. Show which distro container is lean and secure
 
 #### Full Story: How all of its done on the Browser with Zero cost.
 * Go to https://github.com/slabstech/revive
@@ -43,15 +46,26 @@ date: 2022-08-09T08:08:50-04:00
 * Repo is now configured with below configuration
   * Website: jekyll-so-simple theme is deployed with gh-pages-action
     * Code - clients/jekyll/so-simple/website
-  * Github Actions
-    1. gh-pages-actions for website deployment
-    2. action-create-ebook - generate pdf of doc's folder (from markdown or html)
-    3. action-deploy-container - creates docker images and upload to GitHub registry and DockerHub
-    4. action-chaos-monkey - resilience testing (TODO)
-    5. action-secure-fuzz - runs fuzzing logic on inputs with ci_fuzz (TODO)
+  * GitHub Actions
+    1. [action-cuda-compiler]((https://github.com/slabstech/action-cuda-compiler)) - compile CUDA code for machine learning code, no longer need expensive GPU to start a project
+    2. [action-cuda-compiler-python]((https://github.com/slabstech/action-cuda-compiler-python)) - compiles python code for GPU's for pilot projects.
+    3. gh-pages-actions for website deployment
+    4. action-create-ebook - generate pdf of doc's folder (from markdown or html)
+    5. action-deploy-container - creates docker images and upload to GitHub registry and DockerHub
+    6. action-chaos-monkey - resilience testing (TODO)
+    7. action-secure-fuzz - runs fuzzing logic on inputs with ci_fuzz (TODO)
+    8. action-send-tweet - tweets snippets of information based on set frequency (TODO)
 
-
-
+* How to avoid vendor lock-in
+  * By having redundant backups of public infrastructure at gitlab, bitbucket (inspired by Google copybarra service to copy code from one repository to another)
+  * Create [action-backup-repo](https://github.com/slabstech) (TODO)
+* Show which distro container is lean and secure
+  * Both alpine-linux and Google's distroless container are of similar size. [Check Test](https://github.com/slabstech/docker)
+  * Need to verify security credentials for each container
+  * Test 
+    * Time to build
+    * Community usage
+    * Example code in Production
 * Follow [project roadmap](https://github.com/orgs/slabstech/projects/1) for revive sprint tasks
 
 ---
@@ -73,6 +87,7 @@ date: 2022-08-09T08:08:50-04:00
   * Docker
     * Java 17 - Custom JRE
     * PostgreSQL - 14.x
+* Create end-to-end Code Example to demonstrate how to use Revive's GitHub Actions
 
 
 ---
