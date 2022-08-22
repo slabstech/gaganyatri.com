@@ -32,6 +32,8 @@ date: 2022-08-09T08:08:50-04:00
 20. How to publish an ebook
 21. How to avoid vendor lock-in with backups
 22. Show which distro container is lean and secure
+23. Collaborate with new contributors during Hacktoberfest(TODO)
+
 
 #### Full Story: How all of its done on the Browser with Zero cost.
 * Go to https://github.com/slabstech/revive
@@ -68,6 +70,16 @@ date: 2022-08-09T08:08:50-04:00
     * Example code in Production
 * Follow [project roadmap](https://github.com/orgs/slabstech/projects/1) for revive sprint tasks
 
+* How to conduct Hacktoberfest
+  * Create simple Issues/Request from Project roadmap.
+  * Add contribution guidelines and conditions to be met to participate in Hacktoberfest.
+  * Create a Hacktoberfest campaign and add it to the project roadmap.
+  * Create a Repo - Hacktoberfest
+    * Create folder for 2022
+      * Contributors get a readme file with their github username for adding their PR and intro.
+      * Ex. sachinsshetty.md : 
+        * Description : Created PR in bhoomi project for weather info.
+        * Bio : Open Sourcerer and DIYer.
 ---
 ### TODO 
 * Create client-side UI which generates config.yml for Revive repo 
@@ -106,7 +118,7 @@ date: 2022-08-09T08:08:50-04:00
 
 
 -- Extra to edit
-* 
+* Create Diagrams + UI - Reduce text information - Information overload
 * Github Registry -
   * How I saved on public code cost using Github Packages and
   * Released Android APK without spending a rupee.
