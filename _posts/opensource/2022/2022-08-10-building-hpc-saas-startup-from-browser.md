@@ -80,6 +80,12 @@ date: 2022-08-09T08:08:50-04:00
       * Ex. sachinsshetty.md : 
         * Description : Created PR in bhoomi project for weather info.
         * Bio : Open Sourcerer and DIYer.
+  * Create Hacktoberfest event - Participate in the month long celebration
+    * Hacktoberfest '21  from DigitalOcean - [Website](https://hacktoberfest.digitalocean.com/)
+    * GitHub’s guide to Hacktoberfest 2021  - [GitHub Blog Post](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/)
+    * Add revive project to - Hacktoberfest topic - [GitHub](https://github.com/topics/hacktoberfest) 
+
+
 ---
 ### TODO 
 * Create client-side UI which generates config.yml for Revive repo 
