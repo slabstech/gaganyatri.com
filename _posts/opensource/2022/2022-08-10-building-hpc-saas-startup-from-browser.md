@@ -33,6 +33,7 @@ date: 2022-08-09T08:08:50-04:00
 21. How to avoid vendor lock-in with backups
 22. Show which distro container is lean and secure
 23. Collaborate with new contributors during Hacktoberfest(TODO)
+24. Build better with JetBrains OpenSource License support
 
 
 #### Full Story: How all of its done on the Browser with Zero cost.
