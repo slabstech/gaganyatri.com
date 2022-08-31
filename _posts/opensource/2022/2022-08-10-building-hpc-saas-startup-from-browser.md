@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Building a SaaS Startup with only a Browser"
+title: "Building a SaaS Startup"
 excerpt: "Magic of the Cloud"
 categories: opensource
 tags: [ opensource ]
