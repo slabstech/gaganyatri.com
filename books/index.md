@@ -14,6 +14,7 @@ The stories that mould statues of memories in numerous clay
 | Connecting the Dots | Art       | --                                                       | [Link](https://slabstech.com/connectingthedots.com/)                    | [Paperback](https://www.amazon.de/Connect-Dots-Coloring-Book-Rangoli/dp/B0B6X96TFF/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) / [HardCover](https://www.amazon.de/Connect-Dots-Coloring-Book-Rangoli/dp/B0B6XL4H87)                                          | 19 July 2019   |
 | Dark Light          | Anthology | [PDF](https://gaganyatri.com/assets/pdf/dark_light_vol_1.PDF) | [Link](https://gaganyatri.com/dark_light)             | [Ebook](https://amzn.to/3IRm2Ac)                                                                                                                                                                                                                          | 19 July 2022   |
 
+[Amazon Author Page](https://amazon.com/author/sachinshetty) - https://amazon.com/author/sachinshetty
 
 <!--
 
