@@ -2,8 +2,8 @@
 layout: page
 title: "Building a SaaS Startup"
 excerpt: "Magic of the Cloud"
-categories: opensource
-tags: [ opensource ]
+categories: build
+tags: [ build ]
 date: 2022-08-09T08:08:50-04:00
 ---
 
