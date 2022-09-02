@@ -13,3 +13,5 @@ date: 2022-08-31T08:08:50-04:00
 * Connected Smart Home - Alexa/OpenHab - Lights, Thermostat, Camera, etc.
 * Solar Power - Solar Panels, Solar Water Heater, Solar Generator
 * Natural Light - LED, CFL, etc. - Large Windows with curtains
+
+- Collect green building data from - Haus Der Landschaft
