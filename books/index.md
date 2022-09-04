@@ -8,13 +8,11 @@ excerpt: "Collections of published books"
 
 The stories that mould statues of memories in numerous clay
 
-| Name                | Type      | PDF                                                           | Online                                                                        | Buy                                                                                                                                                                                                                                                       | Published Date |
-|---------------------|-----------|---------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| Connecting the Dots | Art       | --                                                            | [Link](https://slabstech.com/connectingthedots.com/)                          | [Paperback](https://www.amazon.de/Connect-Dots-Coloring-Book-Rangoli/dp/B0B6X96TFF/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) / [HardCover](https://www.amazon.de/Connect-Dots-Coloring-Book-Rangoli/dp/B0B6XL4H87)                                    | 19 July 2019   |
-| Dark Light          | Anthology | [PDF](https://gaganyatri.com/assets/pdf/dark_light_vol_1.PDF) | [Link](https://gaganyatri.com/dark_light)                                     | [Amazon](https://amzn.to/3IRm2Ac) - Germany: [Hardcover](https://buy.stripe.com/8wM3fZ3nW2pQ4wg147) / [Paperback](https://buy.stripe.com/dR66sb8Ig0hId2M9AE)                                                                                              | 19 July 2022   |
+| Name                | Type      | Download                                                      | Online                                               | Buy                                              | Published Date |
+|---------------------|-----------|---------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------|----------------|
+| Connecting the Dots | Art       | --                                                            | [Read](https://slabstech.com/connectingthedots.com/) | ---                                              | 19 July 2019   |
+| Dark Light          | Anthology | [PDF](https://gaganyatri.com/assets/pdf/dark_light_vol_1.PDF) | [Read](https://gaganyatri.com/dark_light)            | [PDF](https://buy.stripe.com/dR66sb8Ig0hId2M9AE) | 19 July 2022   |
 
-
-* [Amazon Author Page](https://amazon.com/author/sachinshetty) 
 
 <!--
 | Expedition          | Poem      | [PDF](https://gaganyatri.com/assets/pdf/exp56_vol_1.PDF)      | [Link]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-exp56.md %}) | [Ebook](https://amzn.to/3N5JcmY) / [Paperback](https://amzn.to/3QulUtH) / [HardCover](https://www.amazon.com/exp56-Thoughts-56m-sachin-shetty/dp/B0B3V9P2H2/ref=sr_1_4?qid=1655737080&refinements=p_27%3Asachin+shetty&s=books&sr=1-4&text=sachin+shetty) | 7 Jun 2019     |
