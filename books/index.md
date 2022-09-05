@@ -10,8 +10,8 @@ The stories that mould statues of memories in numerous clay
 
 | Name                | Type      | Download                                                      | Online                                               | Buy                                              | Published Date |
 |---------------------|-----------|---------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------|----------------|
-| Connecting the Dots | Art       | [PDF](https://gaganyatri.com/assets/pdf/ctd_vol_1.PDF)        | [Read](https://slabstech.com/connectingthedots.com/) | [PDF](https://buy.stripe.com/dR66sb8Ig0hId2M9AE) | 19 July 2019   |
-| Dark Light          | Anthology | [PDF](https://gaganyatri.com/assets/pdf/dark_light_vol_1.PDF) | [Read](https://gaganyatri.com/dark_light)            | [PDF](https://buy.stripe.com/dR66sb8Ig0hId2M9AE) | 19 July 2022   |
+| Connecting the Dots | Art       | [PDF](https://gaganyatri.com/assets/pdf/ctd_vol_1.PDF)        | [Read](https://slabstech.com/connectingthedots.com/) | [PDF](https://buy.stripe.com/00g3fZf6E5C27Is8wC) | 19 July 2019   |
+| Dark Light          | Anthology | [PDF](https://gaganyatri.com/assets/pdf/dark_light_vol_1.PDF) | [Read](https://gaganyatri.com/dark_light)            | [PDF](https://buy.stripe.com/aEUeYH2jS1lMfaU3ch) | 19 July 2022   |
 
 
 <!--
