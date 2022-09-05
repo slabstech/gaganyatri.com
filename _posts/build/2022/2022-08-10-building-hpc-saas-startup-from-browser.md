@@ -9,31 +9,34 @@ date: 2022-08-09T08:08:50-04:00
 
 ### OpenSource Saas MonoRepo , TL;DR
 
-[revive](https://github.com/slabstech/revive) is monorepo that showcases 
-1. How to code faster with GitHub Co-Pilot 
-2. How to code in the Browser only
-3. How GitHub Actions removed the dependency to buy expensive GPU to compile CUDA code.
-4. How to build and release Android apk. (TODO)
-5. How to publish npm package to npm registry. (TODO)
-6. How to publish and Self-host jekyll blog using Jekyll pages (Build Ebook from here)
-7. Built Secure Apps with DevSecOps using CodeQL, Dependabots, CI-Jazzer
-8. How to build/test/release/deploy Application within minutes using GitHub Actions
-9. Build lean Apps with Docker and deploy to DockerHub and GitHub package registry
-10. Generate Stripe payment links with Actions for Books/Products. (TODO)
-11. Generate Amazon Affiliate links for KindleBooks and Wishlists. (TODO)
-12. Periodically publish art snippets to Twitter with tweet-action. (TODO)
-13. Use snyk to get notified about vulnerabilities in libraries and plan mitigation (TODO)
-14. Setup Infrastructure as Code (TODO)
-15. Less Variance in Devices/Setup
-16. Increase usage via IDE plugins, ready to use code examples, medium articles
-17. Build, Test, --Secure--, Deploy steps with CLI for security - try: ci_fuzz
-18. Tutorials with short YouTube videos with tips and tricks (TODO)
-19. Showcased the Project at XYZ conference.(TODO)
-20. How to publish an ebook
-21. How to avoid vendor lock-in with backups
-22. Show which distro container is lean and secure
-23. Collaborate with new contributors during Hacktoberfest(TODO)
-24. Build better with JetBrains OpenSource License support
+[revive](https://github.com/slabstech/revive) is monorepo that showcases
+
+| Idea                                                                                    | Status | Location                            | 
+|-----------------------------------------------------------------------------------------|--------|-------------------------------------|
+| 1. How to code faster with GitHub Co-Pilot                                              | Done   | https://github.com/features/copilot |
+| 2. How to code in the Browser only                                                      | Done   |                                     |
+| 3. How GitHub Actions removed the dependency to buy expensive GPU to compile CUDA code. | Done   |                                     |
+| 4. How to build and release Android apk. (TODO)                                         | WIP    |                                     |
+| 5. How to publish npm package to npm registry.                                          | (TODO) |                                     |
+| 6. How to publish and Self-host jekyll blog using Jekyll pages (Build Ebook from here)  | TODO   |                                     |
+| 7. Built Secure Apps with DevSecOps using CodeQL, Dependabots, CI-Jazzer                | TODO   |                                     |
+| 8. How to build/test/release/deploy Application within minutes using GitHub Actions     | Done   |                                     |
+| 9. Build lean Apps with Docker and deploy to DockerHub and GitHub package registry      | Done   |                                     |
+| 10. Generate Stripe payment links with Actions for Books/Products.                      | (TODO) |                                     |
+| 11. Generate Amazon Affiliate links for KindleBooks and Wishlists.                      | (TODO) |                                     |
+| 12. Periodically publish art snippets to Twitter with tweet-action.                     | (TODO) |                                     |
+| 13. Use snyk to get notified about vulnerabilities in libraries and plan mitigation     | (TODO) |                                     |
+| 14. Setup Infrastructure as Code                                                        | (TODO) |                                     |
+| 15. Less Variance in Devices/Setup                                                      | (TODO) |                                     |
+| 16. Increase usage via IDE plugins, ready to use code examples, medium articles         | (TODO) |                                     |
+| 17. Build, Test, --Secure--, Deploy steps with CLI for security - try: ci_fuzz          | (TODO) |                                     |
+| 18. Tutorials with short YouTube videos with tips and tricks                            | (TODO) |                                     |
+| 19. Showcased the Project at XYZ conference.                                            | (TODO) |                                     |
+| 20. How to publish an ebook                                                             | (TODO) |                                     |
+| 21. How to avoid vendor lock-in with backups                                            | (TODO) |                                     |
+| 22. Show which distro container is lean and secure                                      | (TODO) |                                     |
+| 23. Collaborate with new contributors during Hacktoberfest                              | (TODO) |                                     | 
+| 24. Build better with JetBrains OpenSource License support                              | Done   |                                     |
 
 
 #### Full Story: How all of its done on the Browser with Zero cost.
@@ -44,7 +47,7 @@ date: 2022-08-09T08:08:50-04:00
     * branch -> main
     * region -> your nearest region
 * VSCode IDE on the browser is now setup with "revive" source code
-* In VSCode terminal, run ./create_setup.sh 
+* In VSCode terminal, run ./create_setup.sh
   * Or ./create_setup.yml config.yml
 * Repo is now configured with below configuration
   * Website: jekyll-so-simple theme is deployed with gh-pages-action
@@ -65,7 +68,7 @@ date: 2022-08-09T08:08:50-04:00
 * Show which distro container is lean and secure
   * Both alpine-linux and Google's distroless container are of similar size. [Check Test](https://github.com/slabstech/docker)
   * Need to verify security credentials for each container
-  * Test 
+  * Test
     * Time to build
     * Community usage
     * Example code in Production
@@ -78,19 +81,19 @@ date: 2022-08-09T08:08:50-04:00
   * Create a Repo - Hacktoberfest
     * Create folder for 2022
       * Contributors get a readme file with their github username for adding their PR and intro.
-      * Ex. sachinsshetty.md : 
+      * Ex. sachinsshetty.md :
         * Description : Created PR in bhoomi project for weather info.
         * Bio : Open Sourcerer and DIYer.
   * Create Hacktoberfest event - Participate in the month long celebration
     * Hacktoberfest '21  from DigitalOcean - [Website](https://hacktoberfest.digitalocean.com/)
     * GitHub’s guide to Hacktoberfest 2021  - [GitHub Blog Post](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/)
-    * Add revive project to - Hacktoberfest topic - [GitHub](https://github.com/topics/hacktoberfest) 
+    * Add revive project to - Hacktoberfest topic - [GitHub](https://github.com/topics/hacktoberfest)
 
 
 ---
-### TODO 
-* Create client-side UI which generates config.yml for Revive repo 
-  * Idea is similar to start.spring.io 
+### TODO
+* Create client-side UI which generates config.yml for Revive repo
+  * Idea is similar to start.spring.io
 * Choose setup
   * Website - Jekyll theme
     * so-simple
@@ -111,17 +114,14 @@ date: 2022-08-09T08:08:50-04:00
 
 ---
 1. How to publish an ebook
-  [Action - action-create-ebook](https://github.com/slabstech/action-create-ebook)
+   [Action - action-create-ebook](https://github.com/slabstech/action-create-ebook)
 2. How to code in the Browser
-   * With codespaces - Code from Anywhere.
+* With codespaces - Code from Anywhere.
 3. How GithubActions removed the dependency to buy expensive GPU for compile code.
-  * [cpp compiler](https://github.com/slabstech/action-cuda-compiler)
-  * [python compiler](https://github.com/slabstech/action-cuda-compiler-python)
+* [cpp compiler](https://github.com/slabstech/action-cuda-compiler)
+* [python compiler](https://github.com/slabstech/action-cuda-compiler-python)
 4. How to build and release Android apk (TODO)
-  * [Action - actoion-generate-publish-android-apk](https://github.com/slabstech/)
-5. How
-6. How
-
+* [Action - actoion-generate-publish-android-apk](https://github.com/slabstech/)
 
 
 -- Extra to edit
