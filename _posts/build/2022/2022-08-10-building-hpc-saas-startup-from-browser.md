@@ -9,7 +9,17 @@ date: 2022-08-09T08:08:50-04:00
 
 ### OpenSource Saas MonoRepo , TL;DR
 
-[revive](https://github.com/slabstech/revive) is monorepo that showcases
+* Projects that graduated from Revive
+  * [Action Cuda Compiler](https://github.com/slabstech/action-cuda-compiler)
+  * [Action Deploy to DockerHub and Github Package](https://github.com/slabstech/action-deploy-container-to-registry)
+  * [Action Create EBook](https://github.com/slabstech/action-create-ebook)
+  * [Action Send Tweet](https://github.com/slabstech/send-tweet-jekyll-action)
+  * [Action Release Android](ttps://github.com/slabstech/revive/blob/main/.github/workflows/android.yml)
+  * [Action CUDA Python Compiler](https://github.com/slabstech/action-cuda-compiler-python)
+  * [Small Docker Images with Custom JRE for Java 17](https://github.com/slabstech/docker)
+  * [TODO CLI App built with Go](https://github.com/slabstech/revive/tree/main/products/TODO)
+
+[Revive](https://github.com/slabstech/revive) project showcases the concepts and ideas below
 
 | Idea                                                                                    | Status | Location                                                                                                                                                                           | 
 |-----------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,6 +47,7 @@ date: 2022-08-09T08:08:50-04:00
 | 22. Show which distro container is lean and secure                                      | TODO   |                                                                                                                                                                                    |
 | 23. Collaborate with new contributors during Hacktoberfest                              | TODO   |                                                                                                                                                                                    | 
 | 24. Build better with JetBrains OpenSource License support                              | Done   | [All Product License](https://jb.gg/OpenSourceSupport)                                                                                                                             |
+| 25. Build a CLI App with Go                                                             | WIP    | [TODO](https://github.com/slabstech/revive/tree/main/products/TODO)                                                                                                                |
 
 
 #### Full Story: How all of its done on the Browser with Zero cost.
