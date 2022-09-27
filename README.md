@@ -1,4 +1,4 @@
-# Gaganyatri.com
+# ಗಗನ್ ಯಾತ್ರಿ / Gaganyatri.com
 
 * Collection of
   * Notes

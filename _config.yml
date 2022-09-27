@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "Gagan Yatri"
+title: "ಗಗನ್ ಯಾತ್ರಿ"
 locale: en_US
 description: "Voyages of a Spacefarer"
 logo: #site/site-logo.jpg
@@ -50,4 +50,4 @@ owner:
   name: gaganyatri
   twitter: gaganyatri
   github: sachinsshetty
-  instagram: adventurewithgaganyatri
+  instagram: alemaari.in
