@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Contests in 2022"
+excerpt: "Ask the hard questions via preparation"
+categories: contests
+tags: [ contests ]
+
+date: 2022-08-15T08:08:50-04:00
+
+---
+
+1. NavIC GrandChallenge - Aug 15 Deadline
+2. DevOps Research - https://cloud.google.com/awards/devops
+    * [GuideBook PDF](https://services.google.com/fh/files/misc/2021_devops_awards_guidebook_updated.pdf)
+3. GitHub Universerse - Aug 24 - https://www.githubuniverse.com/ 
+4. SpaceApps Challenge - Oct 1,2 - https://spaceappschallenge.org
+5. WorldQuant - Alphathon ?
+
+### Reading material
++ https://www.thoughtworks.com/en-in/radar/tools
