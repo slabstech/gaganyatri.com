@@ -29,15 +29,22 @@ in edge cases.
 At the "Revive-puzzles" library project were incorporating the above techniques to make code
 more robust and simulate actual scenarios.
 
-Ex. Consider an example to Generated Email Address for List of Names. 
+Ex. 
+1. Consider an example to Generated Email Address for List of Names. 
+   * [Source Code](https://github.com/slabstech/revive/blob/main/products/puzzles/src/main/java/com/slabstech/products/euler/ProblemDayThree.java)  
+     *  generateEmailAddress() - Brute Force Code - 77 ms
+     *  generateEmailAddressOptimised() - Optimised Code  - 2ms
+   * [Test Code](https://github.com/slabstech/revive/blob/main/products/puzzles/src/test/java/com/slabstech/products/euler/ProblemDayThreeTest.java) -  
+     *  TestGenerateEmailAddress() 
+     *  TestGenerateEmailAddressOptimised() 
+   * Analysis
+     * The core logic remains the same - Only the datastructures used make the difference. 
+     * StringBuilder should be used for concatenation instead of appending to a string, since it involves creation of new string from the String Pool.
 
-* [Source Code](https://github.com/slabstech/revive/blob/main/products/puzzles/src/main/java/com/slabstech/products/euler/ProblemDayThree.java)  
-  *  generateEmailAddress() - Brute Force Code - 77 ms
-  *  generateEmailAddressOptimised() - Optimised Code  - 2ms
-
-* [Test Code](https://github.com/slabstech/revive/blob/main/products/puzzles/src/test/java/com/slabstech/products/euler/ProblemDayThreeTest.java) -  
-  *  TestGenerateEmailAddress() 
-  *  TestGenerateEmailAddressOptimised() 
-
-* The core logic remains the same - Only the datastructures used make the difference. 
-  * StringBuilder should be used for concatenation instead of appending to a string, since it involves creation of new string from the String Pool.
+2. Consider an example to find max length of proper prefix and suffix of input string
+   * [Source Code](https://github.com/slabstech/revive/blob/main/products/puzzles/src/main/java/com/slabstech/products/euler/ProblemDayFour.java)
+     * solveTaskTwo() - Optimised Code  - 2ms
+   * [Test Code](https://github.com/slabstech/revive/blob/main/products/puzzles/src/test/java/com/slabstech/products/euler/ProblemDayFourTest.java) -
+     *  TestSolveTaskTwo()
+   * Analysis 
+     * In progress
