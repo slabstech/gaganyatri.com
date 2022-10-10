@@ -48,3 +48,7 @@ Ex.
      *  TestSolveTaskTwo()
    * Analysis 
      * In progress
+
+3. Consider an example to find list of numbers (multiple of 3 and 5  ) for N , stop the list at 1.
+  * Recursion
+  * ArrayLoop
