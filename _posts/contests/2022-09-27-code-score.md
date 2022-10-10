@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Improve Scores in Code Challenges"
 excerpt: "Understanding the pattern"
 categories: contests

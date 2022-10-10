@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Upgrade from Interview"
 excerpt: "Growing with questions"
 categories: contests
@@ -15,6 +15,7 @@ date: 2022-10-07T08:08:50-04:00
 * Steps to build and system design for E-commerce MVP and scaling ?
 * What metrics would you observe for microservices ?
 * How do you handle node-failure and restoration for region ?
+* What process should Dev and SRE follow when initial analysis does not solve System issue ?
 * How do you reduce latency for customers from different regions ?
   * Latency should be minimum irrespective of location of request ?
 * Refactor function in SpringBoot controller, 
