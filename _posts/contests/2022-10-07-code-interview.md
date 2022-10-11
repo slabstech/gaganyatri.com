@@ -22,3 +22,19 @@ date: 2022-10-07T08:08:50-04:00
   * Move code to Database / Repository
   * Create join table and map the relation
 * How do you verify Database mapping relation and correctness of SQL query ?
+
+<!--
+
+* Positives:
+  * Eager to work in an agile environment with frequent releases
+  * Quite reflected on communication with non-technical stakeholders
+  * Driven and ambitious
+  * Knowing some monitoring metrics
+  * Having knowledge about incident handling
+
+* Possible areas for improvements:
+  * Tendency to do their own things without too much knowledge sharing and transparency
+  * Not having mentoring mindset
+  * Seems eager to work with new tech stacks only
+  * No deep knowledge of monitoring metrics and how to use multiple regions for preventing outages
+-->
