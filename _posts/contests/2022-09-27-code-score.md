@@ -52,3 +52,5 @@ Ex.
 3. Consider an example to find list of numbers (multiple of 3 and 5  ) for N , stop the list at 1.
   * Recursion
   * ArrayLoop
+
+4. 3 kings challenge - Each king starts with 10/x points and arranged in a circle. Each king hits adjacent king with a hit (random value), Return the last remaining king 

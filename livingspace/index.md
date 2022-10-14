@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open Space"
+title: "Living Space"
 excerpt: "Collision of Ideas"
 modified: 2022-10-06T19:44:38.564948-04:00
 
@@ -20,7 +20,7 @@ modified: 2022-10-06T19:44:38.564948-04:00
     
 
 <ul class="post-list">
-{% for post in site.categories.openspace %}
+{% for post in site.categories.livingspace %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} : {% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %} :  <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span> </a></article></li>
 {% endfor %}
 </ul>

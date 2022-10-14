@@ -16,12 +16,20 @@ date: 2022-10-07T08:08:50-04:00
 * What metrics would you observe for microservices ?
 * How do you handle node-failure and restoration for region ?
 * What process should Dev and SRE follow when initial analysis does not solve System issue ?
+  * Peak request time
+  * Scaling
+  * Error rates
+* Exploratory testing
+* Design pattern 
 * How do you reduce latency for customers from different regions ?
   * Latency should be minimum irrespective of location of request ?
 * Refactor function in SpringBoot controller, 
   * Move code to Database / Repository
   * Create join table and map the relation
 * How do you verify Database mapping relation and correctness of SQL query ?
+* Create docker container and config files
+* Observability , Tracing
+* Career progression Chart
 
 <!--
 
