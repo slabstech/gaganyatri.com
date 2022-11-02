@@ -8,8 +8,13 @@ date: 2022-07-26T00:00:00-00:00
 
 ---
 
-I would like to thank my family and friends for this awards. My father for
-sacrificing his best years for childrens education and stability. For teaching me 
+* Why do i Exist ?
+* Why does S Labs exist ?
+* What is the purpose and mission for S Labs ?
+
+
+I would like to thank my family and friends for the awards. My father for
+sacrificing his best years for his children's education and stability. For teaching me 
 to bootstrap projects and learn to do more with less.
 
 My mother for teaching me to be resilient. She always welcomes the new day with hope
@@ -19,5 +24,5 @@ My sister for being supportive of my activities and teaching me to be balanced i
 
 My friend Deepansh for being a support during the difficult times.
 
-Also to LeanIX and Andre, for giving me a springboard to learn new things and opening 
-up vast opportunities
+
+* Start small, Daily improvement with content and lifelong pursuit to mastery
