@@ -5,6 +5,35 @@ excerpt: "Collision of Ideas"
 modified: 2022-10-06T19:44:38.564948-04:00
 
 ---
+Your goal, should be the reason to jump out of of bed every morning. 
+
+Ikigai should be definite, audacious, never been done before, for glory only comes to those
+Who eat impossible for breakfast 
+
+Times flies away, if one doesn't utilize it immediately and intelligently with direction.
+
+Your goal, should be the reason to jump out of of bed every morning. 
+
+Ikigai should be definite, audacious, never been done before, for glory only comes to those
+Who eat impossible for breakfast 
+
+Times flies away, if one doesn't utilize it immediately and intelligently with direction.
+
+Only one priority,  build a 1000 years Mars civilization.  Everything else is a distraction and should be rejection immediately Your goal, should be the reason to jump out of of bed every morning. 
+
+Ikigai should be definite, audacious, never been done before, for glory only comes to those
+Who eat impossible for breakfast 
+
+Times flies away, if one doesn't utilize it immediately and intelligently with direction.
+
+Your goal, should be the reason to jump out of of bed every morning. 
+
+Ikigai should be definite, audacious, never been done before, for glory only comes to those
+Who eat impossible for breakfast 
+
+Times flies away, if one doesn't utilize it immediately and intelligently with direction.
+
+Only one priority,  build a 1000 years Mars civilization.  Everything else is a distraction and should be rejection immediately 
 
 * House Rules
   * Membership via Invite Only
