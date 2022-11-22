@@ -5,6 +5,23 @@ excerpt: "Collision of Ideas"
 modified: 2022-10-06T19:44:38.564948-04:00
 
 ---
+
+3 Month Target  - 21/11/22 To 20/2/24
+1. Prototype for "Bhoomi : Garuda" module 
+2. 1 Patent Application Completion
+3. 1 Conference Full paper submission 
+
+
+Garuda module
+1. Orientation - Navigation- Sachin
+2. Vision: Plant identification- Rohith
+3. DNA algorithm- snapshots - TBD 
+4. Scheduler - TBD 
+5. Raspberry Pi Deployment- TBD
+6. MuJoCo Simulation- TBD
+
+
+ ---
 Your goal, should be the reason to jump out of of bed every morning. 
 
 Ikigai should be definite, audacious, never been done before, for glory only comes to those
