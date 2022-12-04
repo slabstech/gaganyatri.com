@@ -16,7 +16,7 @@ P.S - Paperback and Hardbound versions of the books are available on Demand.
 
 Please contact me for more details.
 
-Contact me at [https://slabstech.com/contact/](https://slabstech.com/contact/)
+Contact us at [https://slabstech.com/contact/](https://slabstech.com/contact/)
 
 <!--
 | Expedition          | Poem      | [PDF](https://gaganyatri.com/assets/pdf/exp56_vol_1.PDF)      | [Link]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-exp56.md %}) | [Ebook](https://amzn.to/3N5JcmY)| 7 Jun 2019     |

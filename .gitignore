@@ -7,9 +7,4 @@ node_modules
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/gaganyatri.com.iml
-.idea/.name
-.idea/
+.idea/*

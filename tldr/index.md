@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "tl:dr"
-excerpt: "Too long Dint Read"
+excerpt: "Too long Did not Read"
 
 ---
 
