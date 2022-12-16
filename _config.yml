@@ -2,14 +2,14 @@
 
 title: "ಗಗನ್ ಯಾತ್ರಿ"
 locale: en_US
-description: "Digital Twin"
+description: "Voyages of a Spacefarer"
 logo: /images/s_labs_logo.jpg
 search: true
-url: "https://gaganyatri.github.io/gaganyatri.com/"
+url: "https://gaganyatri.com"
 
 # Jekyll configuration
 remote_theme: "mmistakes/so-simple-theme"
-skin: "/assets/css/skins/light.css"
+skin: "/assets/css/skins/dark.css"
 permalink:   /:categories/:title/
 markdown:    kramdown
 
@@ -49,4 +49,5 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: gaganyatri
   twitter: gaganyatri
-  github: gaganyatri
+  github: sachinsshetty
+  instagram: alemaari.in
