@@ -7,7 +7,18 @@ tags: [ speech ]
 date: 2022-07-26T00:00:00-00:00
 
 ---
+v2. 13 / Dec / 22 
 
+Turing Prize for Bhoomi 
+
+* Sustainable device to provide energy, air and dietary requirements autonomously for extreme locations.
+  * Energy - Through solar farms and Swarm wash for maintenance
+  * Air - Filtration via Plant growth and underground cooling - Bhoomi Layout designer - Drishti module
+  * Diet - Greenhouse for fast-growing vegetables and organic subsistence with Garuda
+  * Companion - Gaganyatri Humanoid built in-house with care, historical data and self-learning.
+--- 
+
+v1. 26 / Jul / 22
 * Why do i Exist ?
 * Why does S Labs exist ?
 * What is the purpose and mission for S Labs ?
@@ -26,3 +37,4 @@ My friend Deepansh for being a support during the difficult times.
 
 
 * Start small, Daily improvement with content and lifelong pursuit to mastery
+
