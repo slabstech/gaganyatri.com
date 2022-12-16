@@ -1,7 +1,9 @@
 # ಗಗನ್ ಯಾತ್ರಿ / Gaganyatri.com
 
-* A Journal of Notes, Learning from Failures, Getting closer to Milestones from Everyday, Thoughts on past towards the Future
+* Digital Twin of @sachinsshetty
 
-* Using So-Simple Theme from Michael Rose
+* Lives on the internet
 
-* Built using JetBrains OpenSource License
+* Learns from gaganyatri.com and S Labs Solutions
+
+* Ideal for long term civilization
