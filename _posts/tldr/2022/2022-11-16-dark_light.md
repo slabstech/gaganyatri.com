@@ -7,6 +7,14 @@ tags: [tldr]
 modified: 2022-11-16T00:00:00-00:00
 ---
 
+Wherever there is chaos, There is opportunity for the one who can see the clear path.
+
+They can visualize the steps to be taken to find order in the chaos productively.
+
+Solving the problems with simple steps, becoming useful everywhere
+
+----
+
 Keep pushing the need 
 
 Every day recalibrate your antennae, Look out for opportunities 
