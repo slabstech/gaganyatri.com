@@ -7,6 +7,22 @@ tags: [tldr]
 modified: 2022-11-16T00:00:00-00:00
 ---
 
+You stay away from your loved ones.
+
+Crisis comes knocking in the middle of the night.
+
+Those restless moments, The dam finally bursts after holding it in for a long time
+
+You toss all sense of control and kick out everything in the way
+
+Getting overwhelmed is the only way out
+
+We have to get out some way and stay strong
+
+Patience is the gift, hoping that the sky does not fall again
+
+----
+
 Wherever there is chaos, There is opportunity for the one who can see the clear path.
 
 They can visualize the steps to be taken to find order in the chaos productively.
