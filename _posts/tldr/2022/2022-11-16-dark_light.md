@@ -7,6 +7,12 @@ tags: [tldr]
 modified: 2022-11-16T00:00:00-00:00
 ---
 
+Keep knocking on every door,
+The Rocket door will open,
+We will build the Door together - ಗಗನ್ ಯಾತ್ರಿ.
+
+--- 
+
 You stay away from your loved ones.
 
 Crisis comes knocking in the middle of the night.
