@@ -7,9 +7,23 @@ tags: [tldr]
 modified: 2022-11-16T00:00:00-00:00
 ---
 
+
 Keep knocking on every door,
 The Rocket door will open,
 We will build the Door together - ಗಗನ್ ಯಾತ್ರಿ.
+
+---
+
+Unit - Price 20€ and 2 hr
+
+* 20 € pays for 1 child's Mid-day meal from Akshay Patra
+
+
+| Person              | Total Cost (Years * Unit Cost) | Paid | TODO % |
+|---------------------|--------------------------------|------|--------|
+| Self                | 620     = 31 + 20              | 150  | 70     |
+| Family              | 2760    = (61 + 52 + 25 ) * 20 | 0    | 100    | 
+| School              | 300,000 = (1250 * 12 * 20 )    | 0    | 100    |
 
 --- 
 
