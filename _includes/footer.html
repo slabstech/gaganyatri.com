@@ -6,7 +6,7 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; 2013 - {{ site.time | date: '%Y' }} Gaganyatri. {{ site.data.text[site.locale].powered_by | default: "Powered by" }}  <a href="https://slabstech.com/" rel="nofollow">S Labs Solutions</a>, <a href="{{ site.url }}/site/privacy">Privacy</a>, <a href="{{ site.url }}/tags" >Sitemap</a> <a href="https://github.com/gaganyatri/gaganyatri.com" >Source</a>  </p>
-    {% endif %}
+      <p>&copy; 2013 - {{ site.time | date: '%Y' }} Gaganyatri. {{ site.data.text[site.locale].powered_by | default: "Powered by" }}  <a href="https://slabstech.com/" rel="nofollow">S Labs Solutions</a>, <a href="{{ site.url }}/site/privacy">Privacy</a>
+         {% endif %}
   </div>
 </footer>
